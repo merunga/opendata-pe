@@ -1,0 +1,402 @@
+[
+  {
+    "Nombre": "CENTRO DE INVESTIGACION Y APLICACION EN EL DESARROLLO ECONOMICO Y SOCIAL",
+    "Representante": "PEREZ VILLAR RAUL FERNANDO",
+    "Domicilio": "MZ. 68 LOTE 1 C - LAS LOMAS",
+    "Distrito": "HUANCHACO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20182162991",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "COMITE DE VIGILANCIA, GESTION Y DESARROLLO PROVINCIAL DE PATAZ RESIDENTES EN TRUJILLO",
+    "Representante": "FLORES CORONEL ALFONSINA LUCITA",
+    "Domicilio": "DANIEL ALCIDES CARRION 532 URB. SAN NICOLAS",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20482103848",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "ONG BIENESTAR Y SALUD TERCERA EDAD",
+    "Representante": "GONZALES MERCADO DE MORA CARMELA CATALINA",
+    "Domicilio": "CALLE RICARDO SANCHEZ Nº 381 - URB. SANTO",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20559580849",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "ASOCIACION PARA EL DESARROLLO COMUNAL SUNCHUBAMBA",
+    "Representante": "BRAVO SANCHEZ DE POMAYAY NORMA OLIVIA",
+    "Domicilio": "JR. NICOLAS DE PIEROLA Nº 100 - SECTOR",
+    "Distrito": "LA ESPERANZA",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "ASOCIACION CIVIL SIN FINES DE LUCRO MUNDO PRIMAVERAL",
+    "Representante": "ASCOY MAURICIO IVAN ARCANGEL",
+    "Domicilio": "ENRIQUE MARQUINA N° 200",
+    "Distrito": "TAYABAMBA",
+    "Provincia": "PATAZ",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20559747565",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "CAMINANDO HACIA TI",
+    "Representante": "CRIBILLEROS PLASENCIA LESTER ALAN",
+    "Domicilio": "JR. DESAMPARADOS\n828 A - BUENOS",
+    "Distrito": "VICTOR LARCO HERRERA",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20477740040",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "ASOCIACION PARA LA COOPERACION, BIENESTAR Y DESARROLLO INTEGRAL HUMANITARIO",
+    "Representante": "CORREA PEREZ MARIO",
+    "Domicilio": "CALLE ODONOVAN N° 03",
+    "Distrito": "LAREDO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20477388656",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "CENTRO DE INVESTIGACION DESARROLLO Y BECAS PERU",
+    "Representante": "SANCHEZ CHAVEZ LEONIDAS JULIO",
+    "Domicilio": "CALLE CIRO ALEGRIA N° 891 MZ. A LOTE 03 URB. LOS",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "CENTRO DE FORMACION Y DESARROLLO DE LA FAMILIA",
+    "Representante": "CHAVEZ MOYA CARLOS MANUEL",
+    "Domicilio": "CALLE HERMANOS ANGULO 1132",
+    "Distrito": "EL PORVENIR",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20539966121",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "ASOCIACION IRAKAPAMPA - ASIRAK ADGENTES",
+    "Representante": "MARTINEZ GUERRERO FULGENCIO",
+    "Domicilio": "CARRETERA CHAGUAL S/N CASERIO",
+    "Distrito": "COCHORCO",
+    "Provincia": "SANCHEZ CARRION",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20559818845",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "ASOCIACION SIN FRONTERAS PARA EL APOYO Y EL DESARROLLO DE LA EDUCACION, SALUD Y AMBIENTE",
+    "Representante": "ARAQUE PERONA RAMON",
+    "Domicilio": "MANZANA D1 - LOTE\n21, PISO 2, COVICORTI -",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20559947904",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "HUMANISMUS INSTITUTO HUMANISTA",
+    "Representante": "MEZA PRADO JORGE ENRIQUE",
+    "Domicilio": "AV. PROLONGACION CESAR VALLEJO",
+    "Distrito": "VICTOR LARCO HERRERA",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20477630295",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "VACRECER RURAL",
+    "Representante": "ARRIBASPLATA LAGOS NELIDA JESUS",
+    "Domicilio": "CALLE ANTONIO DE ANDUEZA 249\nDPTO. 301 - URB. LA",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20559954510",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "MAS ESPERANZA DE VIDA Y SALUD - ONG´D",
+    "Representante": "URIBE VILLAREAL JOSE CARLO",
+    "Domicilio": "JR. MANUEL HERRERA 749 - SAN PEDRO DE LLOC",
+    "Distrito": "SAN PEDRO DE LLOC",
+    "Provincia": "PACASMAYO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20600042166",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "CENTRO DE ATENCION Y EDUCACION A LA FAMILIA - CAEF",
+    "Representante": "MELENDEZ VILLALOBOS MARIA JOSE",
+    "Domicilio": "CAMPIÑA DE MOCHE, HUACA DEL SOL S/N SEC.",
+    "Distrito": "MOCHE",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20397758673",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "INSTITUTO DE CONSERVACION DEL PATRIMONIO CONSTRUIDO",
+    "Representante": "GUTIERREZ JAVE BELSY LILIANA",
+    "Domicilio": "JR. BOLIVAR 323\nOFICINA 101",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20482798218",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "INSTITUTO DE INVESTIGACION Y PROMOCION SOCIAL DEL NORTE",
+    "Representante": "HIDALGO ALFARO AMERICO YURI",
+    "Domicilio": "JR. LOS DIAMANTES\n309 - URB. SANTA INES",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20200334524",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "INSTITUTO DE DESARROLLO REGIONAL CESAR VALLEJO",
+    "Representante": "PAREDES LEON JORGE ENRIQUE",
+    "Domicilio": "JR. BOLOGNESI Nº\n654- 3º PISO",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20165982836",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "CENTRO DE INVESTIGACION, ESTUDIOS Y PROMOCION DEL DESARROLLO - MINKA",
+    "Representante": "SIAPO AVALOS WILLIAM",
+    "Domicilio": "JR. INDEPENDENCIA\n467, 2° PISO",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20156061183",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "ASOCIACION MUJERES EN ACCION (AMA)",
+    "Representante": "MECQ MEDINA  EYILDA MARGARITA",
+    "Domicilio": "AV. CAVERO Y MUÑOZ  126\nURBANIZACION LAS",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20178837398",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "ASOCIACION DE PROMOCION AGRARIA Y DEFENSA DE LA VIDA",
+    "Representante": "ULLOA JESUS PEDRO GONZALO",
+    "Domicilio": "MICAELA BASTIDAS\n1699",
+    "Distrito": "EL PORVENIR",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20275935426",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "INSTITUTO DE DESARROLLO DEL SECTOR INFORMAL PARA LA LIBERTAD",
+    "Representante": "SANTA MARIA CALDERON LUIS HERMOGENES",
+    "Domicilio": "CALLE CAVERO Y MUÑOZ 126 URB. LAS QUINTANAS",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20147226617",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "CENTRO ALTERNATIVO DE ACCION PARA EL DESARROLLO SOSTENIBLE DE LA LIBERTAD",
+    "Representante": "VELASQUEZ ALVA  MARIA ELENA",
+    "Domicilio": "CALLE FELIPE PINGLO 610 URB. PRIMAVERA",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20440211292",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "CONSORCIO DE ORGANISMOS NO GUBERNAMENTALES DE PROMOCION DE DESARROLLO DE LA LIBERTAD",
+    "Representante": "SANTA MARIA CALDERON LUIS HERMOGENES",
+    "Domicilio": "MANUEL CAVERO Y MUÑOZ 126 -150\nURB. LAS",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20438557271",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "CENTRO DE INVESTIGACION Y DESARROLLO PARA LA GESTION DEL RIESGO Y MEDIO AMBIENTE",
+    "Representante": "FLORES RUIZ ENA MARIA",
+    "Domicilio": "CALLE NICOLAS REBAZA 751 URB. LAS QUINTANAS",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20440189777",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "CIRCULO SOLIDARIO",
+    "Representante": "URRIZA GOLDARACENA CARLOS",
+    "Domicilio": "CALLE ALBERT EINSTEIN 284 URB. DANIEL HOYLE",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20274333325",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "CENTRO DE PROMOCION DE LA MUJER MICAELA BASTIDAS",
+    "Representante": "CARRION MELGAREJO LIDIA",
+    "Domicilio": "PASAJE SAN VICENTE 192 A - URBANIZACIÓN SAN",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20147170646",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "ASOCIACION NUEVOS PASOS",
+    "Representante": "MENENDEZ LAPINET  OSVALDO MANUEL",
+    "Domicilio": "CALLE SERVULO GUTIERREZ 575 - URB. SANTO",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20440229663",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "CENTRO DE PROMOCION SOCIAL Y DESARROLLO DEL NORTE",
+    "Representante": "AGUILAR REBAZA JORGE ELPIDIO",
+    "Domicilio": "AV. DANIEL ALCIDES CARRION\n321 URB. SAN",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20440370251",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "ASOCIACION ANDARES-PERU",
+    "Representante": "RUBIÑOS DE VAZALLO MARGOT VIOLETA",
+    "Domicilio": "JOSE SABOGAL 331\n- BALNEARIO LAS DELICIAS",
+    "Distrito": "MOCHE",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20481108862",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "INSTITUTO DE INVESTIGACION, DESARROLLO Y ASISTENCIA TECNICA",
+    "Representante": "ALCANTARA RODRIGUEZ MANUEL EMILIANO",
+    "Domicilio": "JR. BERNARDO O`HIGGINS  1652",
+    "Distrito": "LA ESPERANZA",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20481217131",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "CENTROS EMPRESARIALES DE ORGANIZACIONES SOCIALES",
+    "Representante": "DE LA CRUZ QUEZADA LUIS DEMETRIO",
+    "Domicilio": "MZA. \"J\" LTE. 13 - URB. LAS CASUARINAS",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20481203857",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "CENTRO ECUMENICO DE PROMOCION Y ACCION SOCIAL NORTE",
+    "Representante": "TENORIO CALDERON FEDERICO BERNARDO",
+    "Domicilio": "LOS CORALES 289\nURB. SANTA INES",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20481234574",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "ASOCIACION CIVIL PARA EL DESARROLLO Y ASISTENCIA HUMANITARIA AMOR EN ACCION",
+    "Representante": "BRINGAS ARBAIZA ALBERTO MARTIN",
+    "Domicilio": "CALLE GIL DE CASTRO 705-715\nURB. EL BOSQUE",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20440343792",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "CONSORCIO INTERINSTITUCIONAL PARA EL DESARROLLO HUMANO Y TERRITORIAL ANTONIO RAYMONDI",
+    "Representante": "TENORIO CALDERON FEDERICO BERNARDO",
+    "Domicilio": "LOS CORALES 289\nURB. SANTA INES",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20481831408",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "ASOCIACION DE JOVENES PROGRESISTAS",
+    "Representante": "VASQUEZ CONTRERAS MARIA JESUS",
+    "Domicilio": "AV. PERU Nº 914",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20440118241",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "FUNDACION TRUJILLO PARA EL DESARROLLO EDUCATIVO Y SOCIAL",
+    "Representante": "BOCANEGRA OSORIO SANTIAGO NESTOR",
+    "Domicilio": "AV. ESPAÑA 2124,\n2DO PISO, OFICINA\n211",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20481580723",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "ASOCIACION PATAZ",
+    "Representante": "PEREZ VASQUEZ JUAN MIGUEL",
+    "Domicilio": "JR. INDEPENDENCIA Nº\n263 - OFICINA 302",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20510161492",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "ASOCIACION CIVIL PARA EL PROGRESO Y DESARROLLO",
+    "Representante": "MEDINA PADILLA SAUL",
+    "Domicilio": "JR. PIEROLA 781",
+    "Distrito": "CHEPEN",
+    "Provincia": "CHEPEN",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20482100075",
+    "Situacion": "VIGENTE"
+  },
+  {
+    "Nombre": "CENTRO DE PROMOCION CULTURAL TRUJILLO",
+    "Representante": "ALEMAN RUJEL  MARIA MAGDALENA",
+    "Domicilio": "FERNANDO DE MONTESINOS 222\nURB. EL SOL",
+    "Distrito": "TRUJILLO",
+    "Provincia": "TRUJILLO",
+    "Departamento": "LA LIBERTAD",
+    "Ruc": "20201414688",
+    "Situacion": "VIGENTE"
+  }
+]

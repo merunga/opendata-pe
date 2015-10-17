@@ -1,0 +1,513 @@
+[
+  {
+    "ITEM": "1",
+    "NOMBREEMPRESA": "E. T. SERV. MULT.SOL NACIENTE S.R.L",
+    "RUTA": "Trujillo - Casa Grande y Viceversa",
+    "TOTALFLOTA": "5",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "2",
+    "NOMBREEMPRESA": "EMP.TRANSPORTES DON NICO S.R.L.",
+    "RUTA": "Trujillo - Casa Grande y Viceversa",
+    "TOTALFLOTA": "8",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "3",
+    "NOMBREEMPRESA": "EMPRESA DE TRANSPORTES LOS GARCIA HNOS. S.R.L.",
+    "RUTA": "Trujillo - Santiago de Cao y Viceversa",
+    "TOTALFLOTA": "4",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "4",
+    "NOMBREEMPRESA": "EMP. TRANSP. NUEVO CHINCHAYSUYO SRL",
+    "RUTA": "Trujillo - Casa Grande y Viceversa",
+    "TOTALFLOTA": "6",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "5",
+    "NOMBREEMPRESA": "EMP.TRANSP.SAN MATEO EXPRESS S.R.L",
+    "RUTA": "Trujillo - Cartavio y Viceversa",
+    "TOTALFLOTA": "10",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "6",
+    "NOMBREEMPRESA": "EMP. TRANSP. SANTA ROSA S.A.C.",
+    "RUTA": "Trujillo - Cartavio y Viceversa",
+    "TOTALFLOTA": "4",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "7",
+    "NOMBREEMPRESA": "EMP. TRANSP. SEÑOR DE LA CAÑA S.A.",
+    "RUTA": "Trujillo - Cartavio y Viceversa",
+    "TOTALFLOTA": "5",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "8",
+    "NOMBREEMPRESA": "EMP.TRANSP.SR.DE LOS MILAGROS SRL",
+    "RUTA": "Trujillo - Casa Grande y Viceversa",
+    "TOTALFLOTA": "10",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "9",
+    "NOMBREEMPRESA": "EMP.TRANSP. ALCOVI S.A.C.",
+    "RUTA": "Trujillo - Cartavio y Viceversa",
+    "TOTALFLOTA": "4",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "10",
+    "NOMBREEMPRESA": "TRANSPORTES TOURS AM & BUSSES S.A.C.",
+    "RUTA": "Trujillo - Ascope y Viceversa",
+    "TOTALFLOTA": "6",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "11",
+    "NOMBREEMPRESA": "DORADO EXPRESS E.I.R.L.",
+    "RUTA": "Trujillo - Puerto Malabrigo y Viceversa",
+    "TOTALFLOTA": "20",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "12",
+    "NOMBREEMPRESA": "EMP. TRANSPORTES VELMAJ  E.I.R.L.",
+    "RUTA": "Trujillo - Casa Grande y Viceversa",
+    "TOTALFLOTA": "5",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "13",
+    "NOMBREEMPRESA": "EMP. TRANSP. PASJ.SAN MIGUEL S.R.L.",
+    "RUTA": "Ascope - Trujillo y Viceversa",
+    "TOTALFLOTA": "4",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "14",
+    "NOMBREEMPRESA": "EMPRESA DE TRANSPORTES EL JAGUAR S.R.L.",
+    "RUTA": "Trujillo - Ascope y Viceversa",
+    "TOTALFLOTA": "5",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "15",
+    "NOMBREEMPRESA": "EMP.TRANSP. VICTOR S.R.L.",
+    "RUTA": "Trujillo - Ascope y Viceversa",
+    "TOTALFLOTA": "5",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "19",
+    "NOMBREEMPRESA": "EMP. TRANSP. TURISMO S.R.L.",
+    "RUTA": "Trujillo - Casa Grande y Viceversa",
+    "TOTALFLOTA": "4",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "20",
+    "NOMBREEMPRESA": "TURISMO ASCOPE S.A.C.",
+    "RUTA": "Trujillo - Ascope y Viceversa",
+    "TOTALFLOTA": "6",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "21",
+    "NOMBREEMPRESA": "TURISMO RODRIGUEZ VILCHEZ S.A.C.",
+    "RUTA": "Trujillo - Puerto Malabrigo y Viceversa",
+    "TOTALFLOTA": "26",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "22",
+    "NOMBREEMPRESA": "EMP. TRANSP. TURISMO LUCMA SAC.",
+    "RUTA": "Trujillo - Ascope y Viceversa",
+    "TOTALFLOTA": "3",
+    "Provincia": " ASCOPE "
+  },
+  {
+    "ITEM": "23",
+    "NOMBREEMPRESA": "EMP. TRANSP. NUEVO PAKATNAMU S.A.",
+    "RUTA": "Trujillo - Pacasmayo y Viceversa",
+    "TOTALFLOTA": "12",
+    "Provincia": "PACASMAYO"
+  },
+  {
+    "ITEM": "24",
+    "NOMBREEMPRESA": "PACASMAYO EXPRESS S.R.L.",
+    "RUTA": "Trujillo - Pacasmayo y Viceversa",
+    "TOTALFLOTA": "11",
+    "Provincia": "PACASMAYO"
+  },
+  {
+    "ITEM": "25",
+    "NOMBREEMPRESA": "EXPRESO PAKATNAMU S.A.C.",
+    "RUTA": "Trujillo - Guadalupe y Viceversa",
+    "TOTALFLOTA": "10",
+    "Provincia": "PACASMAYO"
+  },
+  {
+    "ITEM": "26",
+    "NOMBREEMPRESA": "EMP DE TRANSP. MI SALVADOR SAC.",
+    "RUTA": "Trujillo - Chepen y Viceversa",
+    "TOTALFLOTA": "16",
+    "Provincia": "CHEPEN"
+  },
+  {
+    "ITEM": "27",
+    "NOMBREEMPRESA": "EMP. TRANSP. TOURS CASCAS SAC.",
+    "RUTA": "Trujillo - Cascas y Viceversa",
+    "TOTALFLOTA": "4",
+    "Provincia": "GRAN CHIMU"
+  },
+  {
+    "ITEM": "28",
+    "NOMBREEMPRESA": "EMP. TRANSPORTES CASCAS S.R.L.. ",
+    "RUTA": "Trujillo - Cascas y Viceversa",
+    "TOTALFLOTA": "18",
+    "Provincia": "GRAN CHIMU"
+  },
+  {
+    "ITEM": "29",
+    "NOMBREEMPRESA": "EMP.TRANSP.TURISMO SAN MATEO SRL",
+    "RUTA": "Trujillo - Cascas y Viceversa",
+    "TOTALFLOTA": "15",
+    "Provincia": "GRAN CHIMU"
+  },
+  {
+    "ITEM": "30",
+    "NOMBREEMPRESA": "EMP. TRANSP. TURISMO CHIMU SAC.",
+    "RUTA": "Trujillo - Baños Chimu y Viceversa",
+    "TOTALFLOTA": "5",
+    "Provincia": "GRAN CHIMU"
+  },
+  {
+    "ITEM": "31",
+    "NOMBREEMPRESA": "EMP. TRANSP. TURISMO LUCMA SAC.",
+    "RUTA": "Trujillo - Baños Chimu y Viceversa",
+    "TOTALFLOTA": "8",
+    "Provincia": "GRAN CHIMU"
+  },
+  {
+    "ITEM": "32",
+    "NOMBREEMPRESA": "E.T.Y SERV. MULTIP. COINA EXPRESS S.A.C.",
+    "RUTA": "Trujillo - Coina y Viceversa",
+    "TOTALFLOTA": "7",
+    "Provincia": "OTUZCO"
+  },
+  {
+    "ITEM": "33",
+    "NOMBREEMPRESA": "E.T.EXPRESO ROBER JOSE SRL.",
+    "RUTA": "Trujillo - Chuquizongo y Viceversa",
+    "TOTALFLOTA": "8",
+    "Provincia": "OTUZCO"
+  },
+  {
+    "ITEM": "34",
+    "NOMBREEMPRESA": "EMP. TRANSP. TOURS PACIFICO S.A.",
+    "RUTA": "Trujillo - Coina y Viceversa",
+    "TOTALFLOTA": "8",
+    "Provincia": "OTUZCO"
+  },
+  {
+    "ITEM": "35",
+    "NOMBREEMPRESA": "E.T. SERV. GEN. LATINO DIFERENCIAL S.A.",
+    "RUTA": "Trujillo - La Ramada y Viceversa",
+    "TOTALFLOTA": "8",
+    "Provincia": "OTUZCO"
+  },
+  {
+    "ITEM": "36",
+    "NOMBREEMPRESA": "E.T.SERV.GEN.REGIONAL TOURS SAC.",
+    "RUTA": "Trujillo - San Antonio y Viceversa",
+    "TOTALFLOTA": "28",
+    "Provincia": "OTUZCO"
+  },
+  {
+    "ITEM": "37",
+    "NOMBREEMPRESA": "EMP. TRANSP. Y SS. GG. TOURS PERLA DEL ANDE SAC.",
+    "RUTA": "Trujilllo - Carata y Viceversa",
+    "TOTALFLOTA": "4",
+    "Provincia": "OTUZCO"
+  },
+  {
+    "ITEM": "38",
+    "NOMBREEMPRESA": "CORPORACION HORIZONTE S.A.C.",
+    "RUTA": "Trujillo - La Cuesta y Viceversa",
+    "TOTALFLOTA": "5",
+    "Provincia": "OTUZCO"
+  },
+  {
+    "ITEM": "39",
+    "NOMBREEMPRESA": "TRANSPORTES DE LA CRUZ S.A.C.",
+    "RUTA": "Trujillo - Otuzco y Viceversa",
+    "TOTALFLOTA": "4",
+    "Provincia": "OTUZCO"
+  },
+  {
+    "ITEM": "40",
+    "NOMBREEMPRESA": "EMP. TRANSP. TURISMO IBAÑEZ S.A.C.",
+    "RUTA": "Trujillo - Huayobamba y Viceversa",
+    "TOTALFLOTA": "4",
+    "Provincia": "OTUZCO"
+  },
+  {
+    "ITEM": "41",
+    "NOMBREEMPRESA": "SERVICIOS GENERALES TURISMO PACIFICO S.A.C.",
+    "RUTA": "Trujillo - Otuzco y Viceversa",
+    "TOTALFLOTA": "1",
+    "Provincia": "OTUZCO"
+  },
+  {
+    "ITEM": "42",
+    "NOMBREEMPRESA": "EMP. TRANSP. TURISMO EXPRESS S.A.",
+    "RUTA": "Trujillo - Canibamba y Viceversa",
+    "TOTALFLOTA": "1",
+    "Provincia": "OTUZCO"
+  },
+  {
+    "ITEM": "43",
+    "NOMBREEMPRESA": "TRANSPORTES Y SERVICIOS GENERALES EL SEÑORIAL OTUZCANO  S.A.C.",
+    "RUTA": "Trujillo - Otuzco y Viceversa",
+    "TOTALFLOTA": "17",
+    "Provincia": "OTUZCO"
+  },
+  {
+    "ITEM": "44",
+    "NOMBREEMPRESA": "EMPRESA DE TRANSPORTES  Y SERVICIOS GENERALES STA. ROSITA S.A.C.",
+    "RUTA": "Trujillo - Otuzco y Viceversa",
+    "TOTALFLOTA": "2",
+    "Provincia": "OTUZCO"
+  },
+  {
+    "ITEM": "45",
+    "NOMBREEMPRESA": "TRANSPORTES Y TURISMO HORIZONTE S.A.C.",
+    "RUTA": "Trujillo - Paranday y Viceversa",
+    "TOTALFLOTA": "6",
+    "Provincia": "OTUZCO"
+  },
+  {
+    "ITEM": "46",
+    "NOMBREEMPRESA": "EMPRESA DE TRANSPORTES, TURISMO Y SERVICIOS GENERALES NUEVO TOUR ISABELITA S.A.C.",
+    "RUTA": "Trujillo - Otuzco y Viceversa",
+    "TOTALFLOTA": "20",
+    "Provincia": "OTUZCO"
+  },
+  {
+    "ITEM": "47",
+    "NOMBREEMPRESA": "EMP.TRNSP. TURISTICO Y SERVICIOS GEN. TOUR VIRGEN DE LA PUERTA SAC",
+    "RUTA": "Trujillo - Sanchique y Viceversa",
+    "TOTALFLOTA": "11",
+    "Provincia": "OTUZCO"
+  },
+  {
+    "ITEM": "48",
+    "NOMBREEMPRESA": "E.T.TURISMO POR CARRETERA REYNA DE LA PAZ MUNDIAL S.A.C.",
+    "RUTA": "Trujillo - Charat y Viceversa",
+    "TOTALFLOTA": "13",
+    "Provincia": "OTUZCO"
+  },
+  {
+    "ITEM": "49",
+    "NOMBREEMPRESA": "EMP. TRANSPORTES LAS VEGAS E.I.R.L.",
+    "RUTA": "Trujillo - Julcan y Viceversa",
+    "TOTALFLOTA": "3",
+    "Provincia": "JULCAN"
+  },
+  {
+    "ITEM": "50",
+    "NOMBREEMPRESA": "EXPRESO TRANDIA S.A.C.",
+    "RUTA": "Trujillo - Julcan y Viceversa",
+    "TOTALFLOTA": "2",
+    "Provincia": "JULCAN"
+  },
+  {
+    "ITEM": "51",
+    "NOMBREEMPRESA": "EMP. DE TURISMO HUASO S.A.C.",
+    "RUTA": "Trujillo - Huaso y Viceversa",
+    "TOTALFLOTA": "11",
+    "Provincia": "JULCAN"
+  },
+  {
+    "ITEM": "52",
+    "NOMBREEMPRESA": "TRANSPORTES Y TURISMO HORIZONTE S.A.C.",
+    "RUTA": "Trujillo - Carabamba y Viceversa",
+    "TOTALFLOTA": "4",
+    "Provincia": "JULCAN"
+  },
+  {
+    "ITEM": "53",
+    "NOMBREEMPRESA": "EMP. TRANSP. AGREDA E HIJOS S.A.",
+    "RUTA": "Trujillo - Huamachuco y Viceversa",
+    "TOTALFLOTA": "3",
+    "Provincia": "SANCHEZ CARRION"
+  },
+  {
+    "ITEM": "54",
+    "NOMBREEMPRESA": "EMP.TRANSP.MERCEDES S.R.L.",
+    "RUTA": "Trujillo - Huamachuco y Viceversa",
+    "TOTALFLOTA": "6",
+    "Provincia": "SANCHEZ CARRION"
+  },
+  {
+    "ITEM": "55",
+    "NOMBREEMPRESA": "FUENTES & CO S.A.",
+    "RUTA": "Trujillo - Huamachuco y Viceversa",
+    "TOTALFLOTA": "5",
+    "Provincia": "SANCHEZ CARRION"
+  },
+  {
+    "ITEM": "56",
+    "NOMBREEMPRESA": "EMP. TRANSPORTES ROYAL PALACE'S S.A.",
+    "RUTA": "Trujillo - Huamachuco y Viceversa",
+    "TOTALFLOTA": "4",
+    "Provincia": "SANCHEZ CARRION"
+  },
+  {
+    "ITEM": "57",
+    "NOMBREEMPRESA": "EMP. TRANSP. LOS ANDES S.R.L.",
+    "RUTA": "Trujillo - Agocasa y Viceversa",
+    "TOTALFLOTA": "5",
+    "Provincia": "SANCHEZ CARRION"
+  },
+  {
+    "ITEM": "58",
+    "NOMBREEMPRESA": "EMTRAVE  S.A.",
+    "RUTA": "Trujillo - Agocasa y Viceversa",
+    "TOTALFLOTA": "7",
+    "Provincia": "SANCHEZ CARRION"
+  },
+  {
+    "ITEM": "59",
+    "NOMBREEMPRESA": "TURISMO NEGREIROS S.A\n",
+    "RUTA": "Trujillo - Huamachuco y Viceversa",
+    "TOTALFLOTA": "6",
+    "Provincia": "SANCHEZ CARRION"
+  },
+  {
+    "ITEM": "60",
+    "NOMBREEMPRESA": "E.T. SR. DE LOS MILAGROS TOURS S.A.\n",
+    "RUTA": "Trujillo - Angasmarca y Viceversa",
+    "TOTALFLOTA": "11",
+    "Provincia": "SANTIAGO DE CHUCO "
+  },
+  {
+    "ITEM": "61",
+    "NOMBREEMPRESA": "EMTRAVE  S.A.\n",
+    "RUTA": "Trujillo - Quesquenda y Viceversa",
+    "TOTALFLOTA": "2",
+    "Provincia": "SANTIAGO DE CHUCO "
+  },
+  {
+    "ITEM": "62",
+    "NOMBREEMPRESA": "E.T..TURISMO POR CARRETERA REYNA DE LA \nPAZ MUNDIAL S.A.C.\n",
+    "RUTA": "Trujillo - Quiruvilca y Viceversa",
+    "TOTALFLOTA": "3",
+    "Provincia": "SANTIAGO DE CHUCO "
+  },
+  {
+    "ITEM": "63",
+    "NOMBREEMPRESA": "TURISMO NEGREIROS S.A\n",
+    "RUTA": "Trujillo - Santiago de Chuco y Viceversa",
+    "TOTALFLOTA": "3",
+    "Provincia": "SANTIAGO DE CHUCO "
+  },
+  {
+    "ITEM": "64",
+    "NOMBREEMPRESA": "EMP.TRANSP. CAIPO  S.R.L.",
+    "RUTA": "Trujillo - Retamas y Viceversa",
+    "TOTALFLOTA": "2",
+    "Provincia": "PATAZ "
+  },
+  {
+    "ITEM": "65",
+    "NOMBREEMPRESA": "EMP. TRANSP. ALFARO S.R.L.",
+    "RUTA": "Trujillo - Retamas y Viceversa",
+    "TOTALFLOTA": "2",
+    "Provincia": "PATAZ "
+  },
+  {
+    "ITEM": "66",
+    "NOMBREEMPRESA": "CORPORACION HORIZONTE S.A.C.",
+    "RUTA": "Trujillo - Huacapongo y Viceversa",
+    "TOTALFLOTA": "3",
+    "Provincia": "VIRU"
+  },
+  {
+    "ITEM": "67",
+    "NOMBREEMPRESA": "EMP.DE TRANSP.EL TIGRE S.A.C.",
+    "RUTA": "Trujillo - Chao y Viceversa",
+    "TOTALFLOTA": "11",
+    "Provincia": "VIRU"
+  },
+  {
+    "ITEM": "68",
+    "NOMBREEMPRESA": "AVICEL TOURS  S.A.C.",
+    "RUTA": "Trujillo - Huncaquito y Viceversa",
+    "TOTALFLOTA": "13",
+    "Provincia": "VIRU"
+  },
+  {
+    "ITEM": "69",
+    "NOMBREEMPRESA": "E. T. SERV.TURISTICOS PUR PUR SAC.",
+    "RUTA": "Trujillo - Chao y Viceversa",
+    "TOTALFLOTA": "9",
+    "Provincia": "VIRU"
+  },
+  {
+    "ITEM": "70",
+    "NOMBREEMPRESA": "E.T.PASJ.TURIS.CHAO BUENAVISTA SRL",
+    "RUTA": "Trujillo - Chao y Viceversa",
+    "TOTALFLOTA": "11",
+    "Provincia": "VIRU"
+  },
+  {
+    "ITEM": "71",
+    "NOMBREEMPRESA": "EMP.DE TRANSP.Y TURISMO CHAVIT SA",
+    "RUTA": "Trujillo - Viru y Viceversa",
+    "TOTALFLOTA": "13",
+    "Provincia": "VIRU"
+  },
+  {
+    "ITEM": "72",
+    "NOMBREEMPRESA": "E.T. TURISMO VIRU S.R.L.",
+    "RUTA": "Trujillo - Viru y Viceversa",
+    "TOTALFLOTA": "12",
+    "Provincia": "VIRU"
+  },
+  {
+    "ITEM": "73",
+    "NOMBREEMPRESA": "EMP.TRANSP.TURIS.PANAMERICANO S.A.",
+    "RUTA": "Trujillo - Saraque y Viceversa",
+    "TOTALFLOTA": "9",
+    "Provincia": "VIRU"
+  },
+  {
+    "ITEM": "74",
+    "NOMBREEMPRESA": "TRANSP. Y TURISMO HORIZONTE S.A.C.",
+    "RUTA": "Trujillo - Huacapongo y Viceversa",
+    "TOTALFLOTA": "7",
+    "Provincia": "VIRU"
+  },
+  {
+    "ITEM": "75",
+    "NOMBREEMPRESA": "SERV. GEN. Y TURIS. MILAGRITOS S.A.C.",
+    "RUTA": "Trujillo - Chao y Viceversa",
+    "TOTALFLOTA": "16",
+    "Provincia": "VIRU"
+  },
+  {
+    "ITEM": "76",
+    "NOMBREEMPRESA": "TURISMO BRICEÑO SAC.",
+    "RUTA": "Trujillo - Viru y Viceversa",
+    "TOTALFLOTA": "14",
+    "Provincia": "VIRU"
+  }
+]

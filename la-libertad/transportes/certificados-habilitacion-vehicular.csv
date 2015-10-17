@@ -1,0 +1,80 @@
+ITEM,NOMBREEMPRESA,RUTA,TOTALFLOTA,Provincia
+1,E. T. SERV. MULT.SOL NACIENTE S.R.L,Trujillo - Casa Grande y Viceversa,5, ASCOPE 
+2,EMP.TRANSPORTES DON NICO S.R.L.,Trujillo - Casa Grande y Viceversa,8, ASCOPE 
+3,EMPRESA DE TRANSPORTES LOS GARCIA HNOS. S.R.L.,Trujillo - Santiago de Cao y Viceversa,4, ASCOPE 
+4,EMP. TRANSP. NUEVO CHINCHAYSUYO SRL,Trujillo - Casa Grande y Viceversa,6, ASCOPE 
+5,EMP.TRANSP.SAN MATEO EXPRESS S.R.L,Trujillo - Cartavio y Viceversa,10, ASCOPE 
+6,EMP. TRANSP. SANTA ROSA S.A.C.,Trujillo - Cartavio y Viceversa,4, ASCOPE 
+7,EMP. TRANSP. SEÑOR DE LA CAÑA S.A.,Trujillo - Cartavio y Viceversa,5, ASCOPE 
+8,EMP.TRANSP.SR.DE LOS MILAGROS SRL,Trujillo - Casa Grande y Viceversa,10, ASCOPE 
+9,EMP.TRANSP. ALCOVI S.A.C.,Trujillo - Cartavio y Viceversa,4, ASCOPE 
+10,TRANSPORTES TOURS AM & BUSSES S.A.C.,Trujillo - Ascope y Viceversa,6, ASCOPE 
+11,DORADO EXPRESS E.I.R.L.,Trujillo - Puerto Malabrigo y Viceversa,20, ASCOPE 
+12,EMP. TRANSPORTES VELMAJ  E.I.R.L.,Trujillo - Casa Grande y Viceversa,5, ASCOPE 
+13,EMP. TRANSP. PASJ.SAN MIGUEL S.R.L.,Ascope - Trujillo y Viceversa,4, ASCOPE 
+14,EMPRESA DE TRANSPORTES EL JAGUAR S.R.L.,Trujillo - Ascope y Viceversa,5, ASCOPE 
+15,EMP.TRANSP. VICTOR S.R.L.,Trujillo - Ascope y Viceversa,5, ASCOPE 
+19,EMP. TRANSP. TURISMO S.R.L.,Trujillo - Casa Grande y Viceversa,4, ASCOPE 
+20,TURISMO ASCOPE S.A.C.,Trujillo - Ascope y Viceversa,6, ASCOPE 
+21,TURISMO RODRIGUEZ VILCHEZ S.A.C.,Trujillo - Puerto Malabrigo y Viceversa,26, ASCOPE 
+22,EMP. TRANSP. TURISMO LUCMA SAC.,Trujillo - Ascope y Viceversa,3, ASCOPE 
+23,EMP. TRANSP. NUEVO PAKATNAMU S.A.,Trujillo - Pacasmayo y Viceversa,12,PACASMAYO
+24,PACASMAYO EXPRESS S.R.L.,Trujillo - Pacasmayo y Viceversa,11,PACASMAYO
+25,EXPRESO PAKATNAMU S.A.C.,Trujillo - Guadalupe y Viceversa,10,PACASMAYO
+26,EMP DE TRANSP. MI SALVADOR SAC.,Trujillo - Chepen y Viceversa,16,CHEPEN
+27,EMP. TRANSP. TOURS CASCAS SAC.,Trujillo - Cascas y Viceversa,4,GRAN CHIMU
+28,EMP. TRANSPORTES CASCAS S.R.L.. ,Trujillo - Cascas y Viceversa,18,GRAN CHIMU
+29,EMP.TRANSP.TURISMO SAN MATEO SRL,Trujillo - Cascas y Viceversa,15,GRAN CHIMU
+30,EMP. TRANSP. TURISMO CHIMU SAC.,Trujillo - Baños Chimu y Viceversa,5,GRAN CHIMU
+31,EMP. TRANSP. TURISMO LUCMA SAC.,Trujillo - Baños Chimu y Viceversa,8,GRAN CHIMU
+32,E.T.Y SERV. MULTIP. COINA EXPRESS S.A.C.,Trujillo - Coina y Viceversa,7,OTUZCO
+33,E.T.EXPRESO ROBER JOSE SRL.,Trujillo - Chuquizongo y Viceversa,8,OTUZCO
+34,EMP. TRANSP. TOURS PACIFICO S.A.,Trujillo - Coina y Viceversa,8,OTUZCO
+35,E.T. SERV. GEN. LATINO DIFERENCIAL S.A.,Trujillo - La Ramada y Viceversa,8,OTUZCO
+36,E.T.SERV.GEN.REGIONAL TOURS SAC.,Trujillo - San Antonio y Viceversa,28,OTUZCO
+37,EMP. TRANSP. Y SS. GG. TOURS PERLA DEL ANDE SAC.,Trujilllo - Carata y Viceversa,4,OTUZCO
+38,CORPORACION HORIZONTE S.A.C.,Trujillo - La Cuesta y Viceversa,5,OTUZCO
+39,TRANSPORTES DE LA CRUZ S.A.C.,Trujillo - Otuzco y Viceversa,4,OTUZCO
+40,EMP. TRANSP. TURISMO IBAÑEZ S.A.C.,Trujillo - Huayobamba y Viceversa,4,OTUZCO
+41,SERVICIOS GENERALES TURISMO PACIFICO S.A.C.,Trujillo - Otuzco y Viceversa,1,OTUZCO
+42,EMP. TRANSP. TURISMO EXPRESS S.A.,Trujillo - Canibamba y Viceversa,1,OTUZCO
+43,TRANSPORTES Y SERVICIOS GENERALES EL SEÑORIAL OTUZCANO  S.A.C.,Trujillo - Otuzco y Viceversa,17,OTUZCO
+44,EMPRESA DE TRANSPORTES  Y SERVICIOS GENERALES STA. ROSITA S.A.C.,Trujillo - Otuzco y Viceversa,2,OTUZCO
+45,TRANSPORTES Y TURISMO HORIZONTE S.A.C.,Trujillo - Paranday y Viceversa,6,OTUZCO
+46,"EMPRESA DE TRANSPORTES, TURISMO Y SERVICIOS GENERALES NUEVO TOUR ISABELITA S.A.C.",Trujillo - Otuzco y Viceversa,20,OTUZCO
+47,EMP.TRNSP. TURISTICO Y SERVICIOS GEN. TOUR VIRGEN DE LA PUERTA SAC,Trujillo - Sanchique y Viceversa,11,OTUZCO
+48,E.T.TURISMO POR CARRETERA REYNA DE LA PAZ MUNDIAL S.A.C.,Trujillo - Charat y Viceversa,13,OTUZCO
+49,EMP. TRANSPORTES LAS VEGAS E.I.R.L.,Trujillo - Julcan y Viceversa,3,JULCAN
+50,EXPRESO TRANDIA S.A.C.,Trujillo - Julcan y Viceversa,2,JULCAN
+51,EMP. DE TURISMO HUASO S.A.C.,Trujillo - Huaso y Viceversa,11,JULCAN
+52,TRANSPORTES Y TURISMO HORIZONTE S.A.C.,Trujillo - Carabamba y Viceversa,4,JULCAN
+53,EMP. TRANSP. AGREDA E HIJOS S.A.,Trujillo - Huamachuco y Viceversa,3,SANCHEZ CARRION
+54,EMP.TRANSP.MERCEDES S.R.L.,Trujillo - Huamachuco y Viceversa,6,SANCHEZ CARRION
+55,FUENTES & CO S.A.,Trujillo - Huamachuco y Viceversa,5,SANCHEZ CARRION
+56,EMP. TRANSPORTES ROYAL PALACE'S S.A.,Trujillo - Huamachuco y Viceversa,4,SANCHEZ CARRION
+57,EMP. TRANSP. LOS ANDES S.R.L.,Trujillo - Agocasa y Viceversa,5,SANCHEZ CARRION
+58,EMTRAVE  S.A.,Trujillo - Agocasa y Viceversa,7,SANCHEZ CARRION
+59,"TURISMO NEGREIROS S.A
+",Trujillo - Huamachuco y Viceversa,6,SANCHEZ CARRION
+60,"E.T. SR. DE LOS MILAGROS TOURS S.A.
+",Trujillo - Angasmarca y Viceversa,11,SANTIAGO DE CHUCO 
+61,"EMTRAVE  S.A.
+",Trujillo - Quesquenda y Viceversa,2,SANTIAGO DE CHUCO 
+62,"E.T..TURISMO POR CARRETERA REYNA DE LA 
+PAZ MUNDIAL S.A.C.
+",Trujillo - Quiruvilca y Viceversa,3,SANTIAGO DE CHUCO 
+63,"TURISMO NEGREIROS S.A
+",Trujillo - Santiago de Chuco y Viceversa,3,SANTIAGO DE CHUCO 
+64,EMP.TRANSP. CAIPO  S.R.L.,Trujillo - Retamas y Viceversa,2,PATAZ 
+65,EMP. TRANSP. ALFARO S.R.L.,Trujillo - Retamas y Viceversa,2,PATAZ 
+66,CORPORACION HORIZONTE S.A.C.,Trujillo - Huacapongo y Viceversa,3,VIRU
+67,EMP.DE TRANSP.EL TIGRE S.A.C.,Trujillo - Chao y Viceversa,11,VIRU
+68,AVICEL TOURS  S.A.C.,Trujillo - Huncaquito y Viceversa,13,VIRU
+69,E. T. SERV.TURISTICOS PUR PUR SAC.,Trujillo - Chao y Viceversa,9,VIRU
+70,E.T.PASJ.TURIS.CHAO BUENAVISTA SRL,Trujillo - Chao y Viceversa,11,VIRU
+71,EMP.DE TRANSP.Y TURISMO CHAVIT SA,Trujillo - Viru y Viceversa,13,VIRU
+72,E.T. TURISMO VIRU S.R.L.,Trujillo - Viru y Viceversa,12,VIRU
+73,EMP.TRANSP.TURIS.PANAMERICANO S.A.,Trujillo - Saraque y Viceversa,9,VIRU
+74,TRANSP. Y TURISMO HORIZONTE S.A.C.,Trujillo - Huacapongo y Viceversa,7,VIRU
+75,SERV. GEN. Y TURIS. MILAGRITOS S.A.C.,Trujillo - Chao y Viceversa,16,VIRU
+76,TURISMO BRICEÑO SAC.,Trujillo - Viru y Viceversa,14,VIRU

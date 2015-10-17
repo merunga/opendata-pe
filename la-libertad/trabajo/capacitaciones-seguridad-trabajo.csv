@@ -1,0 +1,701 @@
+Nro,APELLIDOS_NOMBRES,SEXO,DNI,EMPRESA,TEMA,FECHA
+1,"Blas Esquerre, Gabriela Verónica",Femenino,42293271,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+2,"Calderón Quispe, Faustina",Femenino,18213876,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+3,"Rodríguez Sane, Ronald",Masculino,42364565,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+4,"Leonardo Llobrin, Sebastian",Masculino,42956151,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+5,"Escobedo Paredes, Eraida",Femenino,42576772,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+6,"Cerna Caipo, Rosa Antonia",Femenino,18208575,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+7,"Simón Quispe, Dolores",Femenino,47375742,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+8,"Sandoval Cenepo, Rosario",Femenino,45391361,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+9,"Valderrama Quispe, Violeta",Femenino,46027090,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+10,"Quispe Simón, Rosario",Femenino,71871458,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+11,"Lazaro Puelles, José",Masculino,19061948,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+12,"Benites Pereda, Juan",Masculino,40354654,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+13,"Rodríguez Moreno, María",Femenino,46283039,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+14,"Cruz Neira, Eudoro",Masculino,46445076,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+15,"Oblitas Hernandez, Lenner",Masculino,41160808,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+16,"Valencia Roncal, Gloria Elizabeth",Femenino,41196815,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+17,"Castro Cabrejos, María",Femenino,17608505,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+18,"Hidalgo Castillo, Verónica",Femenino,18891303,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+19,"Rubio Vilca, Wilson",Masculino,43053580,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+20,"Arqueros García, Lenín",Masculino,19569195,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+21,"Reyes Ruíz, Martha",Femenino,9910544,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+22,"Mondragón Domínguez, Richard",Masculino,47240558,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+23,"Pesantes Argomedo, Elmer Guillermo",Masculino,18080835,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+24,"Vidal Salazar, Jimy Joel",Masculino,42089150,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+25,"Floreano Castro, Jhony",Masculino,41426673,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+26,"Aguila Chunta, Rodrigo",Masculino,40028317,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+27,"Rabanal Saldaña, Ana",Femenino,43228453,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+28,"Rojas Suarez, Marvin",Masculino,71069366,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+29,"Gonzales Chaupe, Egil",Masculino,45371680,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+30,"Monzón Anticona, Jacinto",Masculino,43749039,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+31,"Quilcate Blas, Jhoanna",Femenino,46122322,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+32,"Romero Carranza, Ana María",Femenino,40696605,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+33,"Guerrero Obeso, Patricia Ivon",Femenino,41143471,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+34,"Luna Rodríguez, Roxana",Femenino,44643281,Camposol,Recursos Humanos y Seguridad Laboral,28/04/2015 12:00:00 a.m.
+35,"Quiñones Kong, Guillermo Hector",Masculino,45275566,Empresa Moresa,Difusión de la Ley de Seguridad y Salud en el Trabajo,29/05/2015 12:00:00 a.m.
+36,"Alvarez Ruíz, Freddy Jhoner",Masculino,46818436,Empresa Moresa,Difusión de la Ley de Seguridad y Salud en el Trabajo,29/05/2015 12:00:00 a.m.
+37,"Moreno Julca, David Harrinson",Masculino,18184603,Empresa Moresa,Difusión de la Ley de Seguridad y Salud en el Trabajo,29/05/2015 12:00:00 a.m.
+38,"Castro Moran, Diego Alexander",Masculino,48101554,Empresa Moresa,Difusión de la Ley de Seguridad y Salud en el Trabajo,29/05/2015 12:00:00 a.m.
+39,"Arena Reyes, Manuel Alberto",Masculino,45011285,Empresa Moresa,Difusión de la Ley de Seguridad y Salud en el Trabajo,29/05/2015 12:00:00 a.m.
+40,"Loyola Estrada, Rodolfo José",Masculino,70015655,Empresa Moresa,Difusión de la Ley de Seguridad y Salud en el Trabajo,29/05/2015 12:00:00 a.m.
+41,"Loyola Guevara, Jonathan Henry",Masculino,44902983,Empresa Moresa,Difusión de la Ley de Seguridad y Salud en el Trabajo,29/05/2015 12:00:00 a.m.
+42,"Santillán Morales, José",Masculino,47303319,Empresa Moresa,Difusión de la Ley de Seguridad y Salud en el Trabajo,29/05/2015 12:00:00 a.m.
+43,"Loyola Etrada, Thelmo Ruben",Masculino,44275093,Empresa Moresa,Difusión de la Ley de Seguridad y Salud en el Trabajo,29/05/2015 12:00:00 a.m.
+44,"Peche Miranda, Luís Carlos",Masculino,48518761,Empresa Moresa,Difusión de la Ley de Seguridad y Salud en el Trabajo,29/05/2015 12:00:00 a.m.
+45,"Angeles Aranda, Nelson Eduardo",Masculino,18212993,Empresa Moresa,Difusión de la Ley de Seguridad y Salud en el Trabajo,29/05/2015 12:00:00 a.m.
+46,"Enriquez Araujo, Marco Antonio",Masculino,18141831,Empresa Moresa,Difusión de la Ley de Seguridad y Salud en el Trabajo,29/05/2015 12:00:00 a.m.
+47,"Siapo Rojas, Daniel",Masculino,40713948,Empresa Moresa,Difusión de la Ley de Seguridad y Salud en el Trabajo,29/05/2015 12:00:00 a.m.
+48,"Castañeda Espejo, José",Masculino,17953847,Confederación General de Trabajadores del Perú,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+49,"Bustamante Fernández, Jackeline",Femenino,41398272,Gerencia Regional de Trabajo - La Libertad,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+50,"Sagastegui Alvarez, Constante",Masculino,18846607,Confederación de Trabajadores del Perú La Libertad - CTP,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+51,"García Gamboa, Marcos Iván",Masculino,18011798,Superintendencia Nacional de Fiscalización Laboral,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+52,"Echevarría Astupinaro, Elvis",Masculino,21138153,Empresa de Transportes Genesis,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+53,"Vidal Melgarejo, Marysabel",Femenino,45389140,Agropecuaria Chimú,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+54,"Alfaro Sandoval, Zoila Eliana",Femenino,41538977,Municipalidad Distrital La Esperanza,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+55,"Ordoñez Lindo, Pablo",Masculino,18061894,Gerencia de Desarrollo e Inclusión Social,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+56,"Alva Hinojosa, José Humberto",Masculino,18040048,Confederación General de Trabajadores del Perú - CGTP,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+57,"Chupitea Morales, Víctor",Masculino,41608877,Superintendencia Nacional de Fiscalización Laboral,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+58,Cisneros Rosario,Femenino,17855407,Camara de Comercio,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+59,"Gonzales Rosell, Luís Miguel",Masculino,17855235,Camara de Comercio,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+60,"Pomatanta Plasencia, Edwin Elvis",Masculino,18057250,Universidades Privadas de La Región La Libertad,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+61,"Florindez Cruz, Milagros",Femenino,41747295,Municipalidad Provincial de Trujillo - Sindicato de Seguridad Ciudadana,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+62,"Vera Guivar, Karina Lucero",Femenino,45909694,Empresa de Transportes Genesis,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+63,"Ventura Zavaleta, Alexander",Masculino,41525388,Empresa de Transportes Genesis,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+64,"Guanilo Hernandez, José",Masculino,18180372,Gerencia Regional de Trabajo - La Libertad,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+65,"Reyes Ascate, Jeffrey",Masculino,42731783,Gerencia Regional de Trabajo - La Libertad,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+66,"Rodríguez Cruzado, Benyta Ivonne",Femenino,42509082,Gerencia Regional de Trabajo - La Libertad,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+67,"Chunga Martínez, María",Femenino,17936374,Gerencia Regional de Trabajo - La Libertad,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+68,"Rebaza Iparraguirre, Alfonso",Masculino,40820474,Gerencia Regional de Trabajo - La Libertad,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+69,"Rodríguez Espejo, Jhon",Masculino,17092239,Municipalidad Distrital de Julcán,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+70,"Zacarías Gómez, Richard",Masculino,17931170,Gerencia Regional de Trabajo - La Libertad,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+71,"Inostroza Aguilar, Oswaldo",Masculino,17813583,Gerencia Regional de Trabajo - La Libertad,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+72,"Cordova Férnandez, José",Masculino,29726729,Gerencia Regional de Trabajo - La Libertad,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+73,"Franco Carrillo, Alma",Femenino,2633488,Confederación de Trabajadores del Perú La Libertad - CTP,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+74,"Quilcate Carranza, Manuel",Masculino,1781816,Gerencia Regional de Trabajo - La Libertad,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+75,"Santos More, Walter",Masculino,18162983,Superintendencia Nacional de Fiscalización Laboral,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+76,"Sauceda Amaya, Elmo",Masculino,18148304,Municipalidad Distrital La Esperanza,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+77,"Voysest Aguirre, Jorge",Masculino,17861130,Gerencia Regional de Trabajo - La Libertad,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+78,"García Rodríguez, Laura Noelia",Femenino,41655920,Superintendencia Nacional de Fiscalización Laboral,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+79,"Escate García, Ego Eduardo",Masculino,40900935,Essalud,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+80,"Limo Miñoque, María Isabel",Femenino,16453394,Gerencia Regional de Trabajo - La Libertad,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+81,"Quispe Rodríguez, Vanessa",Femenino,40057370,Gerencia Regional de Trabajo - La Libertad,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+82,"Díaz Zarae, Silvia Isabel",Femenino,43608907,Gerencia Regional de Trabajo - La Libertad,Video Conferencia en Materia de Seguridda y Salud en el Trabajo,02/06/2015 12:00:00 a.m.
+83,"Goicochea Vigil, Francisco",Masculino,9169568,Sindicato de Trabajadores Unico del Milagro,Libertad Sindical,03/06/2015 12:00:00 a.m.
+84,"Asmad Aabache, Juan",Masculino,18023172,Sindicato de Costrucción Civil - Salaverry,Libertad Sindical,03/06/2015 12:00:00 a.m.
+85,"Llagas Ñiquen, Fernando",Masculino,16515170,Sindicato de Costrucción Civil - Salaverry,Libertad Sindical,03/06/2015 12:00:00 a.m.
+86,"Rondoy Barreto, José Jorge",Masculino,3860376,FETRACARL,Libertad Sindical,03/06/2015 12:00:00 a.m.
+87,"Silva Paredes, Martha",Femenino,23858153,Gerencia Regional de Trabajo - La Libertad,Libertad Sindical,03/06/2015 12:00:00 a.m.
+88,"Bustamante Fernández, Jackeline",Femenino,41398272,Gerencia Regional de Trabajo - La Libertad,Libertad Sindical,03/06/2015 12:00:00 a.m.
+89,"Chunga Martínez, María",Femenino,17936374,Gerencia Regional de Trabajo - La Libertad,Libertad Sindical,03/06/2015 12:00:00 a.m.
+90,"Tineo Tavara, Ruperto",Masculino,17869332,Gerencia Regional de Trabajo - La Libertad,Libertad Sindical,03/06/2015 12:00:00 a.m.
+91,"Reyes Araujo, Melissa",Femenino,40400687,Gerencia Regional de Trabajo - La Libertad,Libertad Sindical,03/06/2015 12:00:00 a.m.
+92,"Rebaza Vargas, Emaly",Femenino,26696851,Gerencia Regional de Trabajo - La Libertad,Libertad Sindical,03/06/2015 12:00:00 a.m.
+93,"Vargas Moya, Pedro",Masculino,10863224,FETRACARL,Libertad Sindical,03/06/2015 12:00:00 a.m.
+94,"Sanchéz Jara, Leodan Rafael ",Masculino,18128064,FETRACARL,Libertad Sindical,03/06/2015 12:00:00 a.m.
+95,"Euripes Guer, Pablo Salvador",Masculino,45085595,FETRACARL,Libertad Sindical,03/06/2015 12:00:00 a.m.
+96,"Burgos Castañeda, Hans Percy",Masculino,45631737,FETRACARL,Libertad Sindical,03/06/2015 12:00:00 a.m.
+97,"Uriol Carranza, Ana Cecilia",Femenino,48199590,Gerencia Regional de Trabajo - La Libertad,Libertad Sindical,03/06/2015 12:00:00 a.m.
+98,"Pesantes Valderrama, Graciela",Femenino,17852803,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+99,"Plasencia Santa María, Teresa",Femenino,17847661,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+100,"Nuñez Robles, Gladys",Femenino,17835918,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+101,"Dávila Gamarra, María Angelita",Femenino,18029037,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+102,"Rodríguez Johnson, Gabriela",Femenino,46953285,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+103,"Araujo Narro, Juan",Masculino,18067338,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+104,"Ríos S., Víctor Manuel",Masculino,45296593,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+105,"Ramos Burgos, Jorge Luís",Masculino,18186010,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+106,"Abanto Morales, Javier",Masculino,43505728,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+107,"Alvarado García, Pilar",Femenino,19082418,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+108,"Reyes Luján, Mónica",Femenino,18087863,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+109,Cruzado María Alexa,Femenino,18019560,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+110,"Ramos Araujo, Jannet",Femenino,18140168,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+111,"Villajulca Aliaga, Claudia Cecilia",Femenino,45306713,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+112,"Tapia Vásquez, Víctor Leandro",Masculino,42549166,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+113,"Vásquez Miniano, Irma",Femenino,19048400,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+114,"Castañeda Vásquez, Marilin",Femenino,41251788,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+115,"Guevara Venturo, Santos",Masculino,43247655,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+116,"Lingan Alvites, Enrique",Masculino,80571397,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+117,"Valderrama Carlos, Lizz",Femenino,46362152,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+118,"Villena Ramírez, Iris",Femenino,18154096,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+119,"Yengle Ortiz, Frannk",Femenino,44935454,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+120,"Marquina Y., Tito",Masculino,18897883,I.E.P. Alfred Nobel,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+121,"Rubio Valdez, Thalia Anabel",Femenino,46901664,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+122,"Rodríguez Horna, Jean",Femenino,46347455,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+123,"Burgos Varas, Nancy",Femenino,18062970,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+124,"Daza Corso, Max Dustin",Masculino,46323909,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+125,"Sánchez Bocanegra, Karla",Femenino,40755130,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+126,"León Valderrama, Lizet Marilu",Femenino,46894137,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+127,"Rodríguez Vilca, José Oswaldo",Masculino,18155410,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+128,"Loloy Cardenas, Jefferson",Masculino,45048467,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+129,"Vargas Melgarejo, Rosmery Janet",Femenino,18127849,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+130,"Guevara Rodríguez, Alan",Masculino,46132730,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+131,"Sánchez Araujo, Jesús",Masculino,46745336,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+132,"Castillo Taboada, Sarita Araceli",Femenino,43958937,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+133,"Horna Hilario, Cirila Fidela",Femenino,18155526,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+134,"Espichan Solano, Pedro",Masculino,42813992,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+135,"Llajaruna Sevillano, Julio Alberto",Masculino,18061443,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+136,"Férnandez Arteaga, Indira",Femenino,44639563,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+137,"Orbegoso Gómez, Katherine Maryuri",Femenino,48251031,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+138,"Padilla Rosado, Mónica Lorena",Femenino,70032669,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+139,"Cuenca Juárez, Abigail Socorro",Femenino,18170281,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+140,"Marquina Salvador, María Margarita",Femenino,18185520,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+141,"Blas Cabrera, Sonia Mery",Femenino,40926001,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+142,"Hernandez Llapo, Julia Nicolasa",Femenino,17847774,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+143,"Quiñones Vásquez, William",Masculino,18116784,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+144,"Jara Araujo, Haydee",Femenino,40823629,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+145,"Costilla Amaya, Juan",Masculino,19187202,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+146,"Campos Acosta, Jhonny",Masculino,43842764,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+147,"Rojas Ambrocio, Nancy Katherine",Femenino,44875932,Municipalidad Distrital de Florencia de Mora,Difusión de la Ley de Seguridad y Salud en el Trabajo,17/07/2015 12:00:00 a.m.
+148,"Herrera Florián, Mary Carmen",Femenino,17891821,Gerencia de Desarrollo e Inclusión Social,Programa Perú Responsable,23/07/2015 12:00:00 a.m.
+149,"Reyes Tejada, Yesica",Femenino,25771982,Programa Perú Responsable,Programa Perú Responsable,23/07/2015 12:00:00 a.m.
+150,"Reyes Araujo, Melissa",Femenino,40400687,Gerencia Regional de Trabajo - La Libertad,Programa Perú Responsable,23/07/2015 12:00:00 a.m.
+151,"Zamora Huaman, Yuri",Masculino,41601754,Gerencia Regional de Trabajo - La Libertad,Programa Perú Responsable,23/07/2015 12:00:00 a.m.
+152,"Ramirez Boggio, Graciela",Femenino,45820688,Hipermercados Tottus S.A.,Programa Perú Responsable,24/07/2015 12:00:00 a.m.
+153,Valverde Jael,Masculino,29637186,Damper,Programa Perú Responsable,24/07/2015 12:00:00 a.m.
+154,"Segura Rodríguez, José",Masculino,41230419,Camposol,Programa Perú Responsable,24/07/2015 12:00:00 a.m.
+155,"Gaspar Valle, Anabel",Femenino,44983975,Chimu Agropecuaria,Programa Perú Responsable,24/07/2015 12:00:00 a.m.
+156,"Muñoz Gamarra, Juan Armando",Masculino,18093430,Universidad San Pedro,Programa Perú Responsable,24/07/2015 12:00:00 a.m.
+157,"Reyes Tejada, Yesica",Femenino,25771982,Programa Perú Responsable,Programa Perú Responsable,24/07/2015 12:00:00 a.m.
+158,"Reyes Araujo, Melissa",Femenino,40400687,Gerencia Regional de Trabajo - La Libertad,Programa Perú Responsable,24/07/2015 12:00:00 a.m.
+159,"Zamora Huaman, Yuri",Masculino,41601754,Gerencia Regional de Trabajo - La Libertad,Programa Perú Responsable,24/07/2015 12:00:00 a.m.
+160,"Chávez Rojas, Ricardo",Masculino,18137188,Gerencia Regional La Libertad,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+161,"Cruzado Rivero, Rodrigo",Masculino,18064423,Gerencia Regional La Libertad,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+162,"Dextre Pimentel, Jorge",Masculino,44073109,Gerencia Regional La Libertad,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+163,Davila Bety,Femenino,18143590,Gerencia Regional del Ambiente,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+164,"Heredia García, Keny Eduardo",Masculino,17910979,PEPIT,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+165,"Neira Rodríguez, María Elena",Femenino,17918457,Gerencia de Desarrollo e Inclusión Social,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+166,"Cieza BuRGA, Napoleón",Masculino,17893474,Archivo Regional,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+167,"Zapata Santisteban, Juan Ramón",Masculino,18167142,CIR,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+168,"Vilca Arqueros, Vicente",Masculino,18078385,Gerencia Regional La Libertad,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+169,"Angulo Alvarez, Roger",Masculino,17824345,Gerencia Regional La Libertad,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+170,"Espejo Melendez, Oswaldo",Masculino,17941975,GRAAT,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+171,"Tejadab Ruíz, José Luís",Masculino,43710447,ODNA,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+172,"Luna Victoria Pèrez, Guillermo",Masculino,17859001,Sub Gerencia de Caminos,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+173,"Valderrama Blas, Luís",Masculino,18848844,Sub Gerencia de Defensa Civil,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+174,"Chunga Montero, Carlos",Masculino,2897493,Gerencia Regional La Libertad,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+175,"Chalen Costa, Pedro",Masculino,17869111,Gerencia Regional La Libertad,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+176,"Cadenillas Coronel, Ever",Masculino,27728542,Gerencia Regional de Transportes y Comunicaciones La Libertad,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+177,"Lecca Huamán, Walter",Masculino,32931962,Gerencia Regional La Libertad,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+178,"Agreda Vereau, Cecilia",Femenino,18173140,Gerencia Regional La Libertad,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+179,"Castillo Lozada, Oswaldo",Masculino,18859733,Gerencia Regional La Libertad,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+180,"Lazo Suji, Ricardo",Masculino,17910129,Gerencia Regional de Producción La Libertad,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+181,"Soto Deza, Julia",Femenino,19031650,Gerencia Regional de Producción La Libertad,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+182,"Jiménez García, Jesús Alberto",Masculino,18087655,Gerencia Regional La Libertad,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+183,"Reyes Vargas, Rita",Femenino,41502338,Sub Gerencia de Defensa Civil,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+184,"Miranda Pulido, Guillermo",Masculino,17814189,Gerencia de Imagen Institucional La Libertad,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+185,"Llerena Alfaro, Joel",Masculino,17894476,Gerencia Regional de Cooperación Técnica,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+186,"Lujan Espejo, Elizabeth",Femenino,17874172,SITRA - GOR - LL,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+187,"Chusho Chávez, Edita Nely",Femenino,17901958,Sug Gerencia de Recursos Humanos,Implementación del Cómite de Seguridad y Salud en el Trabajo,06/08/2015 12:00:00 a.m.
+188,"Pérez Quispe, Helen Carol",Femenino,46918749,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+189,"Villacorta Chávez, José Segundo",Masculino,47387201,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+190,"Chaupe Campos, Junior Alexander",Masculino,42266465,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+191,"Castillo Miranda, Carlos Franco",Masculino,70116022,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+192,"Valdivia Cresanto, Charles",Masculino,42478251,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+193,"López Salazar, Rosa",Femenino,41648801,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+194,"Cerna García, Yudit",Femenino,40403063,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+195,"Vargas Valencia, Karla",Femenino,47389976,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+196,"Quiroz Lozada, Melany del Pilar",Femenino,47973986,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+197,"Rimarachin Muñoz, Elver",Masculino,80615669,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+198,"Tuanama Salas, Henry",Masculino,45318787,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+199,"Bacilio Ravines, Eliana",Femenino,44827714,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+200,"Beltran Jara, Martín",Masculino,26928361,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+201,"Muñoz Castillo, Segundo",Masculino,40568405,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+202,"Carranza Flores, Yolis",Femenino,40957032,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+203,"Aycho Alfaro, Kerly Katherine",Femenino,45897557,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+204,"Mantilla Llanos, Helliana",Femenino,43746456,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+205,"Taico Gutierrez, José",Masculino,18036172,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+206,"Ramirez Villacorta, Luís",Masculino,18206919,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+207,"Isidro Bonifacio, Romer",Masculino,46913213,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+208,"Nano Bernal, Jorge",Masculino,42736315,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+209,"Larco Bustamante, Johnny",Masculino,80178698,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+210,"Aguirre Colqui, Renzo",Masculino,48160334,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+211,"Espinoza Culqui, Daniel",Masculino,18174750,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+212,"Carbonell Aslla, Luidin",Masculino,44426206,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+213,"Pastor Serin, Virginia",Femenino,18081493,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+214,"Zavaleta Aguilar, Loyer",Masculino,41981855,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+215,"Flores Fernandez, Jerson",Masculino,71394321,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+216,"Ramos Bermudez, Abrahan",Masculino,46395344,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+217,"Chávez Quiñones, Lisbet",Femenino,47200825,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+218,"Contreras Quezada, Ana",Femenino,41340402,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+219,"Sánchez Loyola, Deysi",Femenino,46898381,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+220,"Sánchez Rodríguez, Yeny",Femenino,70361321,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+221,"Castillo Flores, Roxana",Femenino,44377912,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+222,"Rodríguez Rodríguez, Jaime",Masculino,42173895,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+223,"Bringas Vásquez, Pamela",Femenino,47116047,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+224,"León Yupanqui, Erica",Femenino,47244627,Damper,Cultura de Prevención y Erradicación del Trabajo Forzoso,13/08/2015 12:00:00 a.m.
+225,"Escalante Rojas, Percy",Masculino,26698284,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+226,"Cedano Vega, Kelly Mabel",Femenino,41993340,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+227,"Bartolo Polo, Sandra Mónica",Femenino,40478272,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+228,"Arias Maqui, Yelka Paulina",Femenino,46682401,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+229,"Tapia Ávila, María Stefany",Femenino,77388609,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+230,"Nureña Benites, Inocenta Julia",Femenino,18835862,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+231,"Araujo Rodríguez, Lisbeth",Femenino,44779347,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+232,"Ortiz Manzanedo, Dante Valdemar",Masculino,80376275,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+233,"Vásquez Sánchez, Angel Josue",Masculino,41004594,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+234,"Vértiz Medina, Jessika Angelica",Femenino,18858286,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+235,"Aldano Ortiz, Lisette",Femenino,45941231,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+236,"Campos Graus, Michael Daners",Masculino,47171338,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+237,"Solórzano Barteto, César",Masculino,40403940,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+238,"Casanova Ocas, Enrique",Masculino,18898340,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+239,"Vigo Llempén, Luís",Masculino,18211360,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+240,"Monteverde Reyes, Salem",Masculino,74561913,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+241,"Calderón Aguirre, Yohana Mayvet",Femenino,43879411,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+242,"Sabana Charcape, Vicky Marisol",Femenino,18888937,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+243,"Pretell Gallardo, Felipe Eugenio",Masculino,41423451,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+244,"Cruz Salcedo, Freddy",Masculino,41826161,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+245,"Vera Pisco, Elmer David",Masculino,18834543,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+246,"Peralta Toribio, Yvan Crober",Masculino,46068550,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+247,"Diestra López, Manuel",Masculino,18885636,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+248,"Cuenca Rojas, Hernan",Masculino,18897584,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+249,"Sánchez Férnandez, Edgar Antenor",Masculino,18889486,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+250,"Cerquín Ocas, Jhordan Miguel",Masculino,44515294,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+251,"Monje Delgado, César Eduardo",Masculino,43844321,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+252,"Delgado vera, Edgar Iván",Masculino,42598572,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+253,"Rodríguez Floreano, Ronal Alfredo",Masculino,43156058,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+254,"Alfaro Fernández, María Cristina",Femenino,43895224,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+255,"Cherres Ramirez, Eva Fireley",Femenino,41894737,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+256,"Ascoy Solano, Roxana Noemí",Femenino,18890395,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+257,"León Rodríguez, Roberto Carlos",Masculino,18889666,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+258,"Vilchez Pérez, Elizabeth Karen",Femenino,18900789,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+259,"Vilchez Pereda, Erik Alejandro",Masculino,10567102,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+260,"Gonzales Gutierrez, Olenka Yoshelyn",Femenino,76693584,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+261,"Sabana Charcape, Daisy Edith",Femenino,40585944,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+262,"Osores Castro, Jorge Luís",Masculino,42690206,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+263,"Blas Catalan, Aldo Víctor",Masculino,18882356,"Cooperativa de Ahorro y Crédito ""San José"" - Cartavio",Politica de Seguridad y Salud en el Trabajo,14/08/2015 12:00:00 a.m.
+264,"Ordoñez Rodríguez, Judy",Femenino,46002358,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+265,"Fernandez Delgado, Luz Neri",Femenino,43227053,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+266,"Salazar Salirrosas, María Yolanda",Femenino,18083116,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+267,"Lozano Gutierrez, Hestor",Masculino,18187709,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+268,"Sánchez Gabriel, Hilda",Femenino,47582615,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+269,"Veronico Saona, Mercedes",Masculino,46530009,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+270,"Jara Fernandez, Luz",Femenino,46939685,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+271,"Lopez Cruz, José",Masculino,60254516,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+272,"Bobadilla Paredes, Wilfredo",Masculino,45976988,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+273,"Coronel Ramos, Roberto",Masculino,46070434,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+274,"Matos Tarazona, Amanda",Femenino,77085697,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+275,"Tello Correa, Elva",Femenino,70039442,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+276,"Castillo Guevara, Vannessa",Femenino,48219784,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+277,"Neira Esparraga, Jhoiser",Masculino,47506185,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+278,"Ramírez Acate, Dora",Femenino,80688910,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+279,"Pérez Aguilar, Sandra Maribel",Femenino,40150810,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+280,"Anticona Aguirre, María",Femenino,40509715,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+281,"Polo Cerna, Flora",Femenino,44958996,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+282,"Salirrosas Paredes, Ivan",Masculino,41677211,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+283,"Rodríguez Segura, Hector",Masculino,44877031,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+284,"Abanto Cruz, Damaris",Femenino,41823829,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+285,"Tarrillo Olano, José",Masculino,48769527,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+286,"Lezama Leiva, Delia",Femenino,48634378,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+287,"Guerrero Villalobos, Segundo",Masculino,45020170,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+288,"Zamudio Anampa, Aureliano",Masculino,47861604,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+289,"Valderrama Reyes, Gilmer",Masculino,46054093,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+290,"Gonzales Lizarraga, Mabel Yesenia",Femenino,48589541,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+291,"Mendoza Minbela, Siralí Elisa",Femenino,46186216,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+292,"Plasencia Sánchez, Katerine Patricia",Femenino,47082872,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+293,"Vargas Lavado, Andréz",Masculino,45616704,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+294,"Calderón Rodríguez, Gustavo",Masculino,46894060,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+295,"Rojas Quiroz, Elzer",Masculino,43235737,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+296,"Ramos Jacobo, Agustín",Masculino,18018239,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+297,"Apolinar Carranza, Erico",Masculino,43262626,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+298,"Benites Castillo, Matilde",Femenino,48158275,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+299,"Huamán Llamoctanta, Teodelina",Femenino,46729499,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+300,"Beltrán Roque, Santos",Masculino,44645265,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+301,"Correa Jimenez, Edwin",Masculino,43263639,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+302,"Baca Tandaipan, Wilson",Masculino,45551272,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+303,"Gonzales Villanueva, estefany",Femenino,71560990,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+304,"Pinillos Layza, Elmar Leonel",Masculino,73421160,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+305,"Cunias Guerrero, Edgar",Masculino,48733181,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+306,"Guzmán Yupanqui, Omar",Masculino,48250718,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+307,"Carrasco Bautista, Rigoberto",Masculino,47369684,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+308,"Montaña Julca, Jorge",Masculino,43863169,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+309,"Estela Ramos, Eduar",Masculino,76782563,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+310,"Castro Argomedo, Jhony",Masculino,44320968,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+311,"Marquina Campos, Maritza",Femenino,44875540,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+312,"Pérez Bazán, Alberto",Masculino,41545838,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+313,"Tarrillo Benavides, Marleni",Femenino,43881913,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+314,"Vallejos Vallejos, Joel",Masculino,47599592,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+315,"Sernaque Vilchez, Alejandro",Masculino,47271340,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+316,"Blas Valderrama, Gladys",Femenino,18083884,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+317,"Cuba Alva, Jonathan",Masculino,40765816,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+318,"Sari Bustos, Dany Richard",Masculino,43032648,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+319,"Quipuscoa Solano, Karina",Femenino,43560793,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+320,"Cabada Díaz, Katherine",Femenino,46215746,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+321,"Portocarrero Mejia, Lady",Femenino,42238203,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+322,"Iparraguirre Dominguez, Yudith",Femenino,71491542,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+323,"Durand León, Jacquelin",Femenino,80125986,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+324,"Cerna Gonzales, Yovany Elizabeth",Femenino,47490793,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+325,"Lara Esteban, Nery",Femenino,43351969,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+326,"Cruzado Acuña, Florli",Femenino,46071054,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+327,"Urbina Ruíz, Eli",Masculino,46583435,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+328,"Lavado Martínez, Roymer",Masculino,70555093,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+329,"Nish Ecobedo, Patricia",Femenino,47820809,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+330,"Argomedo de la Cruz, Carmen",Femenino,47179819,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+331,"Berrocal Rojas, Yovana",Femenino,44415987,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+332,"Vega Castillo, Maribel",Femenino,43311210,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+333,"Silva Saavedra, Pilar",Femenino,80342874,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+334,"Culquicondor Mendoza, Segundo",Masculino,46749576,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+335,"Velasquez Principe, Manuela",Femenino,43433155,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+336,"Aguirre Acevedo, Pablo",Masculino,42594993,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+337,"Carrión Becerra, Wilder",Masculino,71107114,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+338,"Saldaña Mendoza, Carmen",Femenino,18206434,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+339,"Lyan Sicche, Jeny Lizet",Femenino,46398108,Camposol,Cultura de Prevención y Erradicación del Trabajo Forzoso,18/08/2015 12:00:00 a.m.
+340,"Bueno Lara, María del Rosario",Femenino,26599450,Hogar Refugio Temporal - Distrito Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+341,"Cruz Mariños, Miriam",Femenino,43793346,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+342,"Mendoza Principe, Gisela",Femenino,71628391,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+343,"Arteaga Huertas, Yessenia",Femenino,42595071,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+344,"Bocanegra Medrano, Irma",Femenino,41987283,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+345,"Ramirez Villanueva, Mariana",Femenino,19558779,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+346,"Rosales Flores, Olinda",Femenino,19520191,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+347,"Alayo Salazar, Jesús Ricardo",Masculino,47508575,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+348,"Otiniano Barreto, Manuel",Masculino,19562692,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+349,"Silva Fernandez, Tania",Femenino,46242847,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+350,"Tena Carbajal, Emerita",Femenino,77271019,Universidad Nacional de Trujillo,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+351,"Rodríguez Baca, Ernesto",Masculino,19532750,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+352,"Tandaypan Linian, Ronald",Masculino,41969055,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+353,"Reyna Ríos, Fidel",Masculino,19564342,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+354,"Miñan Joaquín, Alcira",Femenino,19562071,Vaso de Leche - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+355,"Pizan Carbajal, Juan Javier",Masculino,47016486,Universidad Nacional de Trujillo,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+356,"Vera Ríos, Ana María",Femenino,47196287,Universidad Nacional de Trujillo,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+357,"López Valderrama, Liliana Teodora",Femenino,73082370,Universidad Nacional de Trujillo,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+358,"Roman Barrios, Ronald Varoni",Masculino,71217220,Universidad Nacional de Trujillo,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+359,"Cueva de la Cruz, Hermelinda",Femenino,41057450,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+360,"Rodríguez Sandoval, Vanesa",Femenino,73324731,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+361,"Contreras Vergaray, Erika",Femenino,76539541,Universidad Nacional de Trujillo,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+362,"Calderón Esquivel, Jhon",Masculino,70227066,Universidad Nacional de Trujillo,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+363,"Valderrama Iparraguirre, Aquilino",Masculino,41007456,Davinci,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+364,"Chalán Tacilla, Dilma del Pilar",Femenino,40454187,Davinci,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+365,"Urteaga Melendez, Luís",Masculino,6435214,Universidad Nacional de Trujillo,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+366,"Mauricio Ríos, Maribel",Femenino,71493117,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+367,"López Nuñuvera, Elda",Femenino,71639337,Universidad Nacional de Trujillo,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+368,"Maurico Rondo, Esmeralda",Femenino,70235303,Universidad Nacional de Trujillo,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+369,"Balvin Méndez, Edinson",Masculino,70233721,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+370,"Velásquez Carbajal, Freddy",Masculino,47463564,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+371,"Zegarra Castro, Henry",Masculino,41116768,Cumbres Perú,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+372,"Asto García, Sonia",Femenino,19571331,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+373,"Campos Reyes, Alis Bethyna",Femenino,44988852,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+374,"Vergara Rodríguez, Sylvia Alicia",Femenino,19522694,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+375,"Castillo Ruíz, Rosa del Pilar",Femenino,44705916,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+376,"Vera Bringas, Pedro",Masculino,41208350,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+377,"Cerna Paredes, Justina",Femenino,44066300,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+378,"Serin Vásquez, Griselda Abigail",Femenino,43843293,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+379,"Gastañadui Tapia, César",Masculino,19520222,Biblioteca - Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+380,"Trejo Honorio, Mariela",Femenino,47358060,Universidad Nacional de Trujillo,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+381,"Oloya Polo, Margarita",Femenino,19562474,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+382,"Castillo Rodríguez, Manuel",Masculino,18132877,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+383,"Curo Chambi, José Luís",Masculino,513945,Asociación IASD,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+384,"Villanueva Rodríguez, Geiner",Masculino,40368825,I.E. Ciro Alegría - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+385,"Mondoñedo López, Olinda",Femenino,70671903,Computronic - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+386,"Sánchez Jimwnes, Thalia",Femenino,72479490,Universidad Nacional de Trujillo,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+387,"Barreto Gaitán, Emily",Femenino,48056834,Universidad Nacional de Trujillo,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+388,"Contreras Isabe, Olinda",Femenino,70796739,Vaso de Leche - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+389,"Altamirano Altamirano, Carmen Rosa",Femenino,41256185,Vaso de Leche - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+390,"Medina Rodríguez, Nicola",Femenino,19571431,Vaso de Leche Sta Ana- Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+391,"Briceño Paredes, Andrea",Femenino,19571431,Vaso de Leche Sta Ana- Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+392,"Ahumada Sánchez, Gustavo",Masculino,17805253,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+393,"Vásquez Flores, María Lucila",Femenino,19537028,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+394,"Catay Guerrero, José Alfredo",Masculino,41737158,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+395,"Gaytan Vásquez, Domingo",Masculino,19520892,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+396,"Torres Salazar, Victoriana",Femenino,18983553,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+397,"Gerbacio Fernandez, Elena Flor",Femenino,19528576,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+398,"Tamayo Polo, Francisca",Femenino,19551622,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+399,"Contreras Castado, Agustina",Femenino,19539407,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+400,"Patricio Paredes, Ysel Charito",Femenino,41943895,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+401,"Carrión Ríos, Eloy",Masculino,19526346,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+402,"Castillo Bernui, Teodora",Femenino,19559690,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+403,"Asunción Villanueva, Andrea",Femenino,19550259,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+404,"Rondon García, Emiliana Gabriela",Femenino,42600910,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+405,"Baltazar Contreras, Pascuela",Femenino,19558274,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+406,"Asunción Cruz, Andrea",Femenino,40402569,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+407,"Baltazar Bautista, Antoña",Femenino,19560674,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+408,"Carrión Casiano, Santos",Masculino,19558788,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+409,"Campos Ríos, Juana Janett",Femenino,19562324,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+410,"Polo Paredes, Judith Jannina",Femenino,70235038,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+411,"Moreno Malquiades, Magaly",Femenino,73098078,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+412,"Castro Salinas, Rosa",Femenino,43763274,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+413,"Polo Paredes, Martha Esther",Femenino,70235037,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+414,"Marcelo Fernandez, Lilian Edith",Femenino,71493167,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+415,"Contreras Paredes, Jenny",Femenino,42951248,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+416,"Valderrama Valderrama, Nelly Rocio",Femenino,73186995,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+417,"Valderrama Valderrama, Martha Teresa",Femenino,73126453,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+418,"Valderrama Campos, Yasenia",Femenino,48298786,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+419,"Laiza Llajaruna, Irma Marleni",Femenino,43914615,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+420,"Paredes Quispe, Alicia",Femenino,41254771,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+421,"Oviedo Paredes, Janeth Ericka",Femenino,41654488,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+422,"García Nuñuvero, Marilin",Femenino,42617310,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+423,"García Llaury, Sara",Femenino,43843232,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+424,"Paredes Altamirano, Erika",Femenino,72931025,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+425,"Henriquez García, Yhody Adelaida",Femenino,42513307,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+426,"Bailón Vera, Elver",Masculino,44473856,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+427,"Rodríguez Marceliano, Miriam Elizabeth",Femenino,46702985,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+428,"Ramirez Ruíz, Mónica",Femenino,47999499,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+429,"García Otiniano, Luz",Femenino,42582013,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+430,"García Bejarano, Mary Carmen",Femenino,77270953,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+431,"Paulo Enriquez, Senaida Deisi",Femenino,48538954,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+432,"Altamirano Ledesma, Miriam Bethel",Femenino,70224234,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+433,"Paredes Arteaga, Enma Deysy",Femenino,44429106,Hospital Leoncio Prado - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+434,"Gamboa Arias, Vanessa Pascuala",Femenino,48218702,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+435,"Villanueva Rojas, Karen Elizabeth",Femenino,76073842,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+436,"Baldera Namuche, María",Femenino,44910116,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+437,"Ríos Llajaruna, Esther",Femenino,19562160,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+438,"Quispe Tamayo, Milagros",Femenino,70045407,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+439,"Bellena Daga, Nelida Yolanda",Femenino,46972502,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+440,"Villanueva Reyes, Hilda",Femenino,45822309,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+441,"Carbajal Mariños, Mirian",Femenino,4503513,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+442,"Araujo Flores, Lila",Femenino,46767453,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+443,"Ríos Salinas, Marcionila",Femenino,44271886,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+444,"De la Cruz Polo, Natividad",Femenino,42843238,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+445,"Cruz Carranza, Sonia",Femenino,46552567,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+446,"Caspita Rodríguez, Alicia",Femenino,46791172,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+447,"Polo Ruíz, Lucia",Femenino,73096087,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+448,"Herrera Mauricio, Enma",Femenino,40083395,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+449,"Sánchez Flores, Keidy",Femenino,48420689,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+450,"Grados Cruz, Carmen",Femenino,6600750,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+451,"Gamboa García, Plantila",Femenino,19558743,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+452,"Cuba Calderón, Eufemia",Femenino,44101159,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+453,"Villanueva Bacilio, Celinda",Femenino,72862444,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+454,"Lázaro Ulloa, Yuli",Femenino,46804539,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+455,"Samana Carbajal, Elvia Rocío",Femenino,70219308,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+456,"Carlos Gonzales, Santos Evelia",Femenino,40422616,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+457,"Sánchez Flores, Daysi Yonamiri",Femenino,41488582,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+458,"Vásquez del Castillo, Nirvani",Femenino,41366113,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+459,"Jara Araujo, Keyver Hugo",Masculino,72805316,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+460,"Zavaleta Benaute, Sandra Jhaquelin",Femenino,76737541,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+461,"Cerna  Paredes, Justina",Femenino,44066500,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+462,"Ticlia Monzon, Wilfredo",Masculino,48225681,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+463,"Briceño Llaury, Yaneli",Femenino,70251150,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+464,"Urtecho de Valencia, María",Femenino,19572077,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+465,"Ruíz Mauricio, Rosa",Femenino,41838359,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+466,"Rodríguez Lujan, Deyner Danilo",Masculino,46729378,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+467,"Guzmán Blas, Iban Javier",Masculino,18090843,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+468,"Juarez Cardenas, Jhony Jersson",Masculino,46868240,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+469,"Fernandez Vidal, Diego Francisco",Masculino,48020986,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+470,"Gines Contreras, Raúl Alfredo",Masculino,46538235,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+471,"Iparraguirre Castillo, Antonio",Masculino,70224246,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+472,"Avalos Briceño, Elmer Dniel",Masculino,41895844,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+473,"Castro Guerrero, Mery Emperatriz",Femenino,17884264,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+474,"Carranza Villalobos, Magaly",Femenino,19561931,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+475,"Castillo Reyes, Yovana",Femenino,71493049,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+476,"Acuña Morales, Gracia Lucia del Pilar",Femenino,46122160,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+477,"Villanueva García, Basilio",Masculino,19539592,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+478,"Quispe Vigo, José",Masculino,19560798,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+479,"Saavedra Laguna, Roberto",Masculino,44732327,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+480,"Castillo Rodas, Walter",Masculino,17881271,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+481,"Torres Enriquez, Tania",Femenino,47792841,Universidad Nacional Pedro Ruíz Gallo,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+482,"Galarreta Sánchez, Treyci Manyeli",Femenino,47044438,Universidad Nacional Pedro Ruíz Gallo,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+483,"Loly Rojas, Yari Giancarlos",Masculino,43981131,Distribuidora Alimentos del Valle S.A.C.,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+484,"Acevedo Esquivel, Eduardo",Masculino,46938757,Distribuidora Alimentos del Valle S.A.C.,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+485,"Garcia Agreda, Oscar Jaime",Masculino,7268015,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+486,"Rodríguez Valle, Fiorella Elizabeth",Femenino,47659777,Universidad Nacional Pedro Ruíz Gallo,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+487,"Castillo Radas, Walter",Masculino,17881271,Cooperativa Rondesa - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+488,"Vazallo Peña, Flore",Masculino,19529515,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+489,"Arteaga Vega, Jorge Ivan",Masculino,47120844,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+490,"Bermudez Gomez, Henrry",Masculino,43836856,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+491,"Collado Ramirez, Carmen Rosa",Femenino,80604182,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+492,"Morales Chacón, Ascenciano Nila",Femenino,19572572,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+493,"Paredes Ledesma, Manuel Santos",Masculino,19562492,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+494,"Valdivia Reyes, Santos Walter",Masculino,71664619,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+495,"Jara Araujo, Ana Fiorela",Femenino,75335352,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+496,"Araujo Chacón, Rosa María",Femenino,73026481,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+497,"Marquina Sánchez, Gloria Noemy",Femenino,47697427,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+498,"Alvites Rojas, Luz Clarita",Femenino,70044439,CETPRO - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+499,"Urbina Guerrero, José",Masculino,6797314,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+500,"Ledesma Tongonbolo, María",Femenino,40472917,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+501,"Flores Caastillo, Juan Anibal",Masculino,19558567,Sociedad Civil Organizada - Huamachuco,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+502,"Pizán Lavado, Vanessa Katherine",Femenino,43684326,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+503,"Lavado Paredes, Vanessa",Femenino,45516322,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+504,"Flores Arteaga, Mirian Janet",Femenino,73139158,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+505,"Rojas Muñoz, Robbie",Masculino,19528076,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+506,"Zelaya Vega, Juan Arturo",Masculino,19524293,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+507,"Armas Sánchez, Ana María",Femenino,7876694,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+508,"Flores Carrión, Areli",Femenino,76424779,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+509,"Cruz Faustino, Juan",Masculino,40498389,Municipalidad Provincial Sánchez Carrión,Capacitación en Derechos Fundamentales,24/08/2015 12:00:00 a.m.
+510,"Villanueva Sánchez, Jenny",Femenino,73098158,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+511,"Moreno Villanueva, Maritza",Femenino,47292811,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+512,"Flores Olaya, Fany Janet",Femenino,48122162,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+513,"Férnandez Cosme, kelly Diana",Femenino,73085769,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+514,"Ruíz Ramos, Noemi",Femenino,70799920,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+515,"Valderrama García, Luz Odalia",Femenino,71487804,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+516,"Polo Mauricio, Carmen",Femenino,70857113,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+517,"Torres Honorio, Flor Herelinda",Femenino,70541163,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+518,"Contreras Marquina, Mariela Adeli",Femenino,47533418,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+519,"Cabrera Peña, María Elena",Femenino,73102309,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+520,"Peña Baca, Cinthia Yanira",Femenino,72753463,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+521,"Siccha Reyes, Vilma Maritza",Femenino,73094568,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+522,"Briceño Caipo, Jhordan",Masculino,77349523,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+523,"Marquina Monzón, Philip Mark",Masculino,76634731,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+524,"Flores Castillo, Juan Anibal",Masculino,19558567,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+525,"Rodríguez Ramirez, Armengol",Masculino,19682801,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+526,"Rodríguez Castillo, Omayra",Femenino,72790448,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+527,"Daga Otiniano, Loida",Femenino,73082912,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+528,"Mauricio Ramos, Domingo",Masculino,19550811,Agencia Agraria S.C.,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+529,"Catillo Rodríguez, Manuel",Masculino,18132877,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+530,"Simón Quispe, Hermelinda",Femenino,46519065,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+531,"García Alvarado, Anita María",Femenino,46262695,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+532,"Ruíz Gonzales, Lady Judith",Femenino,72904056,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+533,"Polo Calderón, Ernesto",Masculino,77217220,Universidad Nacional de Trujillo,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+534,"Paredes Ruíz, Filomon Isaias",Masculino,70556050,Universidad Nacional de Trujillo,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+535,"Contreras Vera, Alexander",Masculino,45296083,Dismar E.I.R.L.,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+536,"Chacón Mendoza, Violeta Yacely",Femenino,74026902,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+537,"Quijano Reyes, Neimer",Masculino,48107616,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+538,"Polo Ruíz, Elder",Masculino,71623163,Universidad Nacional de Trujillo,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+539,"Otiniano Raymundo, Javier Jorge",Masculino,42344558,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+540,"Pastor Cueva, Alfredo",Masculino,44938736,Universidad Nacional de Trujillo,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+541,"Gonzales Fernandez, Henry",Masculino,47821465,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+542,"Peña Ruíz, Carmelo",Masculino,47222360,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+543,"Marquina Acosta, Hugo",Masculino,71657705,Universidad Nacional de Trujillo,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+544,"Fabián Chávez, Janeth Mariela",Femenino,72768993,Universidad Nacional de Trujillo,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+545,"iparraguirre Castillo, Antonio",Masculino,72581046,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+546,"Chacón Sandoval, Soriano Gilberto",Masculino,73662145,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+547,"Asunción Miñano, Diana",Femenino,73710361,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+548,"Chacón Layza, Mirian",Femenino,72002367,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+549,"Lara Rondo, Lucia Nelva",Femenino,70555790,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+550,"Calderón Navis, Ulianova",Femenino,48049676,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+551,"Ramos Pacori, José",Masculino,31661952,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+552,"Cruz Villanueva, Silvia",Femenino,41020033,Empresa Constructora,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+553,"Yupanqui Alva, Glorinda Gloria",Femenino,47169010,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+554,"Paredes Luís, Lider Joel",Masculino,43325290,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+555,"Mallqui Maguina, Edinson",Masculino,46904978,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+556,"Condemayta Huanco, Edgar",Masculino,40725302,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+557,"Sandoval Reyes, Jair",Masculino,44417219,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+558,"Pérez Aranda, Lucy Lisbeth",Femenino,46841702,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+559,"Villalobos Marquina, Magaly",Femenino,71664207,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+560,"Sare Pizán, Mirian Elvia",Femenino,77271016,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+561,"Asunción Acevedo, Jovita",Femenino,71831286,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+562,"Rodríguez Rodríguez, Carmen",Femenino,48616983,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+563,"Araujo Polo, Maritza",Femenino,73096406,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+564,"Flores Valderrama, Flor",Femenino,73080451,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+565,"Azañero Ledesma, Fiorela Nathaly",Femenino,73052867,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+566,"Chacón Polo, Luz María",Femenino,48109487,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+567,"lara Rondo, Lucia Nelva",Femenino,74882603,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+568,"Jimenez Amador, Lesmis Candelario",Masculino,73059760,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+569,"Bartolo Jimenez, Florentino Olmedo",Masculino,73040305,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+570,"Delgado Cruzado, Ursula",Femenino,48265316,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+571,"Contreras Moya, Kely",Femenino,47696824,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+572,"Flores Polo, Claudia",Femenino,70045607,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+573,"Alayo Rojas, Alfonso",Masculino,45902565,Universidad Nacional de Trujillo,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+574,"Villanueva Esquivel, Gregorio",Masculino,19531835,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+575,"Cisneros Silva, Carmen Rosa",Femenino,19571694,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+576,"Chacón Agreda,Nelida",Femenino,44288077,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+577,"Grados Rodríguez, Erickson",Masculino,42484844,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+578,"Flores Castillo, Juan Anibal",Masculino,19558567,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+579,"Quispe Sánchez, Edward Luís",Masculino,70045612,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+580,"Tirado Rodríguez, Ruben Adolfo",Masculino,18213714,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+581,"Anacleto Arce, Giovanna Natalia",Femenino,45894055,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+582,"Gonzales Cortez, José",Masculino,71041626,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+583,"Vergara Gonzales, Miguel Angel",Masculino,44639504,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+584,"Baltazar Arqueros, Javier Emilio",Masculino,40508963,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+585,"Mondoñedo López, Olinda",Femenino,70671903,Computronic - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+586,"Rosales Flores, Olinda",Femenino,19520191,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+587,"Campos Reyes, Alis Bethyna",Femenino,44988852,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+588,"Campos Ríos, Juana Janett",Femenino,19562324,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+589,"Santillan Laguna, Joel Daniel",Masculino,72004180,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+590,"Santillan Ríos, Santos Ines",Femenino,46724161,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+591,"Rodríguez Sandoval, Vanesa",Femenino,73324731,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+592,"Quispe Tamayo, Milagros",Femenino,70045407,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+593,"Ríos Llajaruna, Esther",Femenino,19562160,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+594,"Vásquez Pizán, Carmen Rosmery",Femenino,42396729,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+595,"Briceño Lezama, Adriana",Femenino,47304879,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+596,"Arteaga Huertas, Yessenia",Femenino,42595071,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+597,"Acevedo Asunción, Leoncio",Masculino,42046696,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+598,"Paredes Contreras, Gonzalo Ernesto",Masculino,40494197,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+599,"Saldaña Flores, Marlon Paolo",Masculino,46183562,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+600,"Catay Guerrero, José Alfredo",Masculino,41737158,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+601,"Mauricio Ruíz, Leonidas",Masculino,44208013,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+602,"Vilchez Ríos, Rosario",Femenino,42619818,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+603,"Sifuentes Flores, Nestor",Masculino,40841007,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+604,"Cuevas Morillo, Francisco",Masculino,19522658,Instituto de Educación Tecnológico publico - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+605,"Sifuentes Romero, Loida",Femenino,73598523,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+606,"Polo Paredes, Judith Jannina",Femenino,70235038,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+607,"Marcelo Fernandez, Lilian Edith",Femenino,71493167,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+608,"Cueva de la Cruz, Hermelinda",Femenino,41057950,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+609,"Polo Paredes, Martha Esther",Femenino,70235037,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+610,"Peña Ruíz, Carmelo",Masculino,47222360,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+611,"Villanueva Juarez, Verónnica",Femenino,73080299,Universidad César Vallejo,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+612,"Sandoval Reyes, Jair",Masculino,44417219,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+613,"Altamirano Ledesma, Miriam Bethel",Femenino,70224234,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+614,"Paulo Enriquez, Senaida Deisi",Femenino,48538954,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+615,"Alfaro Bejarano, Nerida",Femenino,43054365,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+616,"García Llaury, Sara",Femenino,43843232,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+617,"Paredes Altamirano, Erika",Femenino,72931025,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+618,"Espire Rodríguez, Janely",Femenino,42328010,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+619,"Avalos Briceño, Elmer Dniel",Masculino,41895844,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+620,"Lujan Beltran, Rosa Maribel",Femenino,19696849,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+621,"Valderrama Campos, Yasenia",Femenino,48298786,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+622,"Sánchez Flores, Daysi Yonamiri",Femenino,41488582,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+623,"Bautista Asunción, Juliana",Femenino,46506639,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+624,"Grados Cruz, Carmen",Femenino,6600750,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+625,"Cuba Calderón, Eufemia",Femenino,44101159,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+626,"Asto García, Sonia",Femenino,19571334,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+627,"Baltazar Arqueros, Javier Emilio",Masculino,40508963,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+628,"Lavado Paredes, Vanessa",Femenino,45516322,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+629,"Rodríguez Avila, Regina Isabel",Femenino,44887462,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+630,"Catay Guerrero, José Alfredo",Masculino,41337158,Sociedad Civil Organizada - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+631,"Villanueva Rojas, Karen Elizabeth",Femenino,76073842,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+632,"Herrera Mauricio, Enma",Femenino,40083395,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+633,"Ticlia Monzon, Wilfredo",Masculino,48225681,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+634,"Ballena Doga, Nellida Yolanda",Femenino,46972502,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+635,"Villanueva Reyes, Hilda",Femenino,45822309,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+636,"Ríos Iparraguirre, Yuvixa Elizabeth",Femenino,77507677,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+637,"Samana Carbajal, Elvia Rocío",Femenino,70219308,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+638,"Sifuentes Romero, Loida",Femenino,73598523,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+639,"Gamboa García, Plantila",Masculino,19558743,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+640,"Villanueva Esquivel, Gregorio",Masculino,19531835,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+641,"Pizán Lavado, Vanessa Katherine",Femenino,43684326,Municipalidad Provincial Sánchez Carrión,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+642,"Avalos Briceño, Elmer Dniel",Masculino,41895844,CETPRO - Huamachuco,Seguridad y Salud en el Trabajo,25/08/2015 12:00:00 a.m.
+643,"Villarreal Aburto, Betsy",Femenino,44077619,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+644,"Castillo Rosas, Jhonatan",Masculino,47214261,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+645,"Rodríguez Morales, Anderson Joel",Masculino,70155645,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+646,"Romero Chapoñan, Manuel Alejandro",Masculino,16718999,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+647,"Llajaruna Yupanqui, Wiliam Felix",Masculino,41008341,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+648,"Lujan Castillo, Pedro",Masculino,43557260,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+649,"León Angulo, Jhoel",Masculino,70802527,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+650,"García Santillan, Fernando",Masculino,5414349,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+651,"Rodríguez Juarez, Edgar",Masculino,18214513,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+652,"Simón Urquiza, Wilder Lannder",Masculino,45750096,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+653,"Carhuajulca Pérez, Yordano Eduardo",Masculino,47265319,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+654,"Burga Castro, Cely Jesús",Femenino,16694681,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+655,"Castro Cruz, Tania Isabelle",Femenino,43404527,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+656,"Navarrete Gonzalez, Yajaira Denisse",Femenino,71239822,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+657,"Botton Aching, Karin Yessenia",Femenino,40312358,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+658,"Albán Atarana, Dulissa Ysabel",Femenino,40962356,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+659,"Ortiz Chávez, Carlos Alberto",Masculino,18157608,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+660,"Verástegui Pérez, Jimmy",Masculino,41788600,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+661,"Carhuajulca Vásquez, Jaime",Masculino,16639146,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+662,"Albán Nieves, Ricardo",Masculino,16499510,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+663,"Cabrera Gonzalez, jorge Arturo",Masculino,45821926,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+664,"Guillén López, Lizbeth",Masculino,71237904,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+665,"Cipriano Chávez, Katia",Femenino,70018658,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+666,"Martos Acevedo, José",Masculino,43568786,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+667,"Quilcate Carranza, Manuel",Masculino,17818116,Ri - Car Multiservicios,Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo,02/09/2015 12:00:00 a.m.
+668,"ramos Pacori, José",Femenino,43224362,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+669,"Pereda Cotrina, Wilfredo",Masculino,18069826,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+670,"Peláez Albites, Jonathan",Masculino,47559823,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+671,"López Bieberach, Franz",Masculino,41554335,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+672,"Balcazar Villa, Diana",Femenino,45867570,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+673,"Blas Salavarria, carolina",Femenino,46675866,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+674,"Orezzoli Canales, Luisa",Femenino,46083794,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+675,"Sánchez Ruíz, Marleny",Femenino,44203500,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+676,"Viloche Tello, Grace",Femenino,43140894,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+677,"Oruna Castro, Liset",Femenino,43156271,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+678,"Huamán Sánchez, Alfredo",Masculino,44095422,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+679,"Ríos Torres, Antonio",Masculino,18265523,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+680,"Revilla Aguirre, Henrry Alejandro",Masculino,43297205,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+681,"Flores Torres, Tito",Masculino,16733259,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+682,"Poser Torres, Luís",Masculino,32110317,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+683,"Casusol Córdova, Carlos",Masculino,42351073,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+684,"Perales Chanamé, Carlos",Masculino,17438799,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+685,"Pinedo Ordoñez, Dixon",Masculino,40712146,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+686,"Sabana Padilla, Jaime",Masculino,40112629,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+687,"Llacos Villar, Roberto",Masculino,18167696,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+688,"Narro Uriol, Sidy",Femenino,45884501,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+689,"Joy Plasencia, Cristian",Masculino,46017445,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+690,"Arteaga Reyes, Fernando",Masculino,40351609,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+691,"Blanco Muñoz, Goin",Masculino,72903445,Agropecuaria Chimú,Sistema de Fiscalización Laboral y la Sunafil,21/09/2015 12:00:00 a.m.
+692,"Vela Valdivia, Víctor Hugo",Masculino,18021766,Seyvar S.A.,La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ,29/09/2015 12:00:00 a.m.
+693,"Guzman Blas, Jorge Luís",Masculino,18176578,Municipalidad Distrital de Paiján,La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ,29/09/2015 12:00:00 a.m.
+694,"Aranguri Valuer, Tatiana",Femenino,73939411,J.L.Agroexportaciones,La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ,29/09/2015 12:00:00 a.m.
+695,"Mio Sánchez, Yanira",Femenino,70461983,Sociedad Civil Organizada - Huamachuco,La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ,29/09/2015 12:00:00 a.m.
+696,"Rodríguez Avalos, Johana",Femenino,41849363,Sociedad Civil Organizada - Huamachuco,La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ,29/09/2015 12:00:00 a.m.
+697,"Santos Rojas, Luís",Masculino,18988278,Sociedad Civil Organizada - Huamachuco,La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ,29/09/2015 12:00:00 a.m.
+698,"Carrera Rengifo, Mildra",Femenino,18214882,Sociedad Civil Organizada - Huamachuco,La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ,29/09/2015 12:00:00 a.m.
+699,"Miguel Herrera, Moisés Benjamín",Masculino,46490763,CompartamosFin,La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ,29/09/2015 12:00:00 a.m.
+700,"Egusquiza Verde, Silva Kathleen",Femenino,47137174,Sociedad Civil Organizada - Huamachuco,La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ,29/09/2015 12:00:00 a.m.

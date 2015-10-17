@@ -1,0 +1,6302 @@
+[
+  {
+    "Nro": "1",
+    "APELLIDOS_NOMBRES": "Blas Esquerre, Gabriela Verónica",
+    "SEXO": "Femenino",
+    "DNI": "42293271",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "2",
+    "APELLIDOS_NOMBRES": "Calderón Quispe, Faustina",
+    "SEXO": "Femenino",
+    "DNI": "18213876",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "3",
+    "APELLIDOS_NOMBRES": "Rodríguez Sane, Ronald",
+    "SEXO": "Masculino",
+    "DNI": "42364565",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "4",
+    "APELLIDOS_NOMBRES": "Leonardo Llobrin, Sebastian",
+    "SEXO": "Masculino",
+    "DNI": "42956151",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "5",
+    "APELLIDOS_NOMBRES": "Escobedo Paredes, Eraida",
+    "SEXO": "Femenino",
+    "DNI": "42576772",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "6",
+    "APELLIDOS_NOMBRES": "Cerna Caipo, Rosa Antonia",
+    "SEXO": "Femenino",
+    "DNI": "18208575",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "7",
+    "APELLIDOS_NOMBRES": "Simón Quispe, Dolores",
+    "SEXO": "Femenino",
+    "DNI": "47375742",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "8",
+    "APELLIDOS_NOMBRES": "Sandoval Cenepo, Rosario",
+    "SEXO": "Femenino",
+    "DNI": "45391361",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "9",
+    "APELLIDOS_NOMBRES": "Valderrama Quispe, Violeta",
+    "SEXO": "Femenino",
+    "DNI": "46027090",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "10",
+    "APELLIDOS_NOMBRES": "Quispe Simón, Rosario",
+    "SEXO": "Femenino",
+    "DNI": "71871458",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "11",
+    "APELLIDOS_NOMBRES": "Lazaro Puelles, José",
+    "SEXO": "Masculino",
+    "DNI": "19061948",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "12",
+    "APELLIDOS_NOMBRES": "Benites Pereda, Juan",
+    "SEXO": "Masculino",
+    "DNI": "40354654",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "13",
+    "APELLIDOS_NOMBRES": "Rodríguez Moreno, María",
+    "SEXO": "Femenino",
+    "DNI": "46283039",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "14",
+    "APELLIDOS_NOMBRES": "Cruz Neira, Eudoro",
+    "SEXO": "Masculino",
+    "DNI": "46445076",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "15",
+    "APELLIDOS_NOMBRES": "Oblitas Hernandez, Lenner",
+    "SEXO": "Masculino",
+    "DNI": "41160808",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "16",
+    "APELLIDOS_NOMBRES": "Valencia Roncal, Gloria Elizabeth",
+    "SEXO": "Femenino",
+    "DNI": "41196815",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "17",
+    "APELLIDOS_NOMBRES": "Castro Cabrejos, María",
+    "SEXO": "Femenino",
+    "DNI": "17608505",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "18",
+    "APELLIDOS_NOMBRES": "Hidalgo Castillo, Verónica",
+    "SEXO": "Femenino",
+    "DNI": "18891303",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "19",
+    "APELLIDOS_NOMBRES": "Rubio Vilca, Wilson",
+    "SEXO": "Masculino",
+    "DNI": "43053580",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "20",
+    "APELLIDOS_NOMBRES": "Arqueros García, Lenín",
+    "SEXO": "Masculino",
+    "DNI": "19569195",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "21",
+    "APELLIDOS_NOMBRES": "Reyes Ruíz, Martha",
+    "SEXO": "Femenino",
+    "DNI": "9910544",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "22",
+    "APELLIDOS_NOMBRES": "Mondragón Domínguez, Richard",
+    "SEXO": "Masculino",
+    "DNI": "47240558",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "23",
+    "APELLIDOS_NOMBRES": "Pesantes Argomedo, Elmer Guillermo",
+    "SEXO": "Masculino",
+    "DNI": "18080835",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "24",
+    "APELLIDOS_NOMBRES": "Vidal Salazar, Jimy Joel",
+    "SEXO": "Masculino",
+    "DNI": "42089150",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "25",
+    "APELLIDOS_NOMBRES": "Floreano Castro, Jhony",
+    "SEXO": "Masculino",
+    "DNI": "41426673",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "26",
+    "APELLIDOS_NOMBRES": "Aguila Chunta, Rodrigo",
+    "SEXO": "Masculino",
+    "DNI": "40028317",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "27",
+    "APELLIDOS_NOMBRES": "Rabanal Saldaña, Ana",
+    "SEXO": "Femenino",
+    "DNI": "43228453",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "28",
+    "APELLIDOS_NOMBRES": "Rojas Suarez, Marvin",
+    "SEXO": "Masculino",
+    "DNI": "71069366",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "29",
+    "APELLIDOS_NOMBRES": "Gonzales Chaupe, Egil",
+    "SEXO": "Masculino",
+    "DNI": "45371680",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "30",
+    "APELLIDOS_NOMBRES": "Monzón Anticona, Jacinto",
+    "SEXO": "Masculino",
+    "DNI": "43749039",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "31",
+    "APELLIDOS_NOMBRES": "Quilcate Blas, Jhoanna",
+    "SEXO": "Femenino",
+    "DNI": "46122322",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "32",
+    "APELLIDOS_NOMBRES": "Romero Carranza, Ana María",
+    "SEXO": "Femenino",
+    "DNI": "40696605",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "33",
+    "APELLIDOS_NOMBRES": "Guerrero Obeso, Patricia Ivon",
+    "SEXO": "Femenino",
+    "DNI": "41143471",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "34",
+    "APELLIDOS_NOMBRES": "Luna Rodríguez, Roxana",
+    "SEXO": "Femenino",
+    "DNI": "44643281",
+    "EMPRESA": "Camposol",
+    "TEMA": "Recursos Humanos y Seguridad Laboral",
+    "FECHA": "28/04/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "35",
+    "APELLIDOS_NOMBRES": "Quiñones Kong, Guillermo Hector",
+    "SEXO": "Masculino",
+    "DNI": "45275566",
+    "EMPRESA": "Empresa Moresa",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "29/05/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "36",
+    "APELLIDOS_NOMBRES": "Alvarez Ruíz, Freddy Jhoner",
+    "SEXO": "Masculino",
+    "DNI": "46818436",
+    "EMPRESA": "Empresa Moresa",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "29/05/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "37",
+    "APELLIDOS_NOMBRES": "Moreno Julca, David Harrinson",
+    "SEXO": "Masculino",
+    "DNI": "18184603",
+    "EMPRESA": "Empresa Moresa",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "29/05/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "38",
+    "APELLIDOS_NOMBRES": "Castro Moran, Diego Alexander",
+    "SEXO": "Masculino",
+    "DNI": "48101554",
+    "EMPRESA": "Empresa Moresa",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "29/05/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "39",
+    "APELLIDOS_NOMBRES": "Arena Reyes, Manuel Alberto",
+    "SEXO": "Masculino",
+    "DNI": "45011285",
+    "EMPRESA": "Empresa Moresa",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "29/05/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "40",
+    "APELLIDOS_NOMBRES": "Loyola Estrada, Rodolfo José",
+    "SEXO": "Masculino",
+    "DNI": "70015655",
+    "EMPRESA": "Empresa Moresa",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "29/05/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "41",
+    "APELLIDOS_NOMBRES": "Loyola Guevara, Jonathan Henry",
+    "SEXO": "Masculino",
+    "DNI": "44902983",
+    "EMPRESA": "Empresa Moresa",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "29/05/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "42",
+    "APELLIDOS_NOMBRES": "Santillán Morales, José",
+    "SEXO": "Masculino",
+    "DNI": "47303319",
+    "EMPRESA": "Empresa Moresa",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "29/05/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "43",
+    "APELLIDOS_NOMBRES": "Loyola Etrada, Thelmo Ruben",
+    "SEXO": "Masculino",
+    "DNI": "44275093",
+    "EMPRESA": "Empresa Moresa",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "29/05/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "44",
+    "APELLIDOS_NOMBRES": "Peche Miranda, Luís Carlos",
+    "SEXO": "Masculino",
+    "DNI": "48518761",
+    "EMPRESA": "Empresa Moresa",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "29/05/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "45",
+    "APELLIDOS_NOMBRES": "Angeles Aranda, Nelson Eduardo",
+    "SEXO": "Masculino",
+    "DNI": "18212993",
+    "EMPRESA": "Empresa Moresa",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "29/05/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "46",
+    "APELLIDOS_NOMBRES": "Enriquez Araujo, Marco Antonio",
+    "SEXO": "Masculino",
+    "DNI": "18141831",
+    "EMPRESA": "Empresa Moresa",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "29/05/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "47",
+    "APELLIDOS_NOMBRES": "Siapo Rojas, Daniel",
+    "SEXO": "Masculino",
+    "DNI": "40713948",
+    "EMPRESA": "Empresa Moresa",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "29/05/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "48",
+    "APELLIDOS_NOMBRES": "Castañeda Espejo, José",
+    "SEXO": "Masculino",
+    "DNI": "17953847",
+    "EMPRESA": "Confederación General de Trabajadores del Perú",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "49",
+    "APELLIDOS_NOMBRES": "Bustamante Fernández, Jackeline",
+    "SEXO": "Femenino",
+    "DNI": "41398272",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "50",
+    "APELLIDOS_NOMBRES": "Sagastegui Alvarez, Constante",
+    "SEXO": "Masculino",
+    "DNI": "18846607",
+    "EMPRESA": "Confederación de Trabajadores del Perú La Libertad - CTP",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "51",
+    "APELLIDOS_NOMBRES": "García Gamboa, Marcos Iván",
+    "SEXO": "Masculino",
+    "DNI": "18011798",
+    "EMPRESA": "Superintendencia Nacional de Fiscalización Laboral",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "52",
+    "APELLIDOS_NOMBRES": "Echevarría Astupinaro, Elvis",
+    "SEXO": "Masculino",
+    "DNI": "21138153",
+    "EMPRESA": "Empresa de Transportes Genesis",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "53",
+    "APELLIDOS_NOMBRES": "Vidal Melgarejo, Marysabel",
+    "SEXO": "Femenino",
+    "DNI": "45389140",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "54",
+    "APELLIDOS_NOMBRES": "Alfaro Sandoval, Zoila Eliana",
+    "SEXO": "Femenino",
+    "DNI": "41538977",
+    "EMPRESA": "Municipalidad Distrital La Esperanza",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "55",
+    "APELLIDOS_NOMBRES": "Ordoñez Lindo, Pablo",
+    "SEXO": "Masculino",
+    "DNI": "18061894",
+    "EMPRESA": "Gerencia de Desarrollo e Inclusión Social",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "56",
+    "APELLIDOS_NOMBRES": "Alva Hinojosa, José Humberto",
+    "SEXO": "Masculino",
+    "DNI": "18040048",
+    "EMPRESA": "Confederación General de Trabajadores del Perú - CGTP",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "57",
+    "APELLIDOS_NOMBRES": "Chupitea Morales, Víctor",
+    "SEXO": "Masculino",
+    "DNI": "41608877",
+    "EMPRESA": "Superintendencia Nacional de Fiscalización Laboral",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "58",
+    "APELLIDOS_NOMBRES": "Cisneros Rosario",
+    "SEXO": "Femenino",
+    "DNI": "17855407",
+    "EMPRESA": "Camara de Comercio",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "59",
+    "APELLIDOS_NOMBRES": "Gonzales Rosell, Luís Miguel",
+    "SEXO": "Masculino",
+    "DNI": "17855235",
+    "EMPRESA": "Camara de Comercio",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "60",
+    "APELLIDOS_NOMBRES": "Pomatanta Plasencia, Edwin Elvis",
+    "SEXO": "Masculino",
+    "DNI": "18057250",
+    "EMPRESA": "Universidades Privadas de La Región La Libertad",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "61",
+    "APELLIDOS_NOMBRES": "Florindez Cruz, Milagros",
+    "SEXO": "Femenino",
+    "DNI": "41747295",
+    "EMPRESA": "Municipalidad Provincial de Trujillo - Sindicato de Seguridad Ciudadana",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "62",
+    "APELLIDOS_NOMBRES": "Vera Guivar, Karina Lucero",
+    "SEXO": "Femenino",
+    "DNI": "45909694",
+    "EMPRESA": "Empresa de Transportes Genesis",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "63",
+    "APELLIDOS_NOMBRES": "Ventura Zavaleta, Alexander",
+    "SEXO": "Masculino",
+    "DNI": "41525388",
+    "EMPRESA": "Empresa de Transportes Genesis",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "64",
+    "APELLIDOS_NOMBRES": "Guanilo Hernandez, José",
+    "SEXO": "Masculino",
+    "DNI": "18180372",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "65",
+    "APELLIDOS_NOMBRES": "Reyes Ascate, Jeffrey",
+    "SEXO": "Masculino",
+    "DNI": "42731783",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "66",
+    "APELLIDOS_NOMBRES": "Rodríguez Cruzado, Benyta Ivonne",
+    "SEXO": "Femenino",
+    "DNI": "42509082",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "67",
+    "APELLIDOS_NOMBRES": "Chunga Martínez, María",
+    "SEXO": "Femenino",
+    "DNI": "17936374",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "68",
+    "APELLIDOS_NOMBRES": "Rebaza Iparraguirre, Alfonso",
+    "SEXO": "Masculino",
+    "DNI": "40820474",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "69",
+    "APELLIDOS_NOMBRES": "Rodríguez Espejo, Jhon",
+    "SEXO": "Masculino",
+    "DNI": "17092239",
+    "EMPRESA": "Municipalidad Distrital de Julcán",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "70",
+    "APELLIDOS_NOMBRES": "Zacarías Gómez, Richard",
+    "SEXO": "Masculino",
+    "DNI": "17931170",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "71",
+    "APELLIDOS_NOMBRES": "Inostroza Aguilar, Oswaldo",
+    "SEXO": "Masculino",
+    "DNI": "17813583",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "72",
+    "APELLIDOS_NOMBRES": "Cordova Férnandez, José",
+    "SEXO": "Masculino",
+    "DNI": "29726729",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "73",
+    "APELLIDOS_NOMBRES": "Franco Carrillo, Alma",
+    "SEXO": "Femenino",
+    "DNI": "2633488",
+    "EMPRESA": "Confederación de Trabajadores del Perú La Libertad - CTP",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "74",
+    "APELLIDOS_NOMBRES": "Quilcate Carranza, Manuel",
+    "SEXO": "Masculino",
+    "DNI": "1781816",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "75",
+    "APELLIDOS_NOMBRES": "Santos More, Walter",
+    "SEXO": "Masculino",
+    "DNI": "18162983",
+    "EMPRESA": "Superintendencia Nacional de Fiscalización Laboral",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "76",
+    "APELLIDOS_NOMBRES": "Sauceda Amaya, Elmo",
+    "SEXO": "Masculino",
+    "DNI": "18148304",
+    "EMPRESA": "Municipalidad Distrital La Esperanza",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "77",
+    "APELLIDOS_NOMBRES": "Voysest Aguirre, Jorge",
+    "SEXO": "Masculino",
+    "DNI": "17861130",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "78",
+    "APELLIDOS_NOMBRES": "García Rodríguez, Laura Noelia",
+    "SEXO": "Femenino",
+    "DNI": "41655920",
+    "EMPRESA": "Superintendencia Nacional de Fiscalización Laboral",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "79",
+    "APELLIDOS_NOMBRES": "Escate García, Ego Eduardo",
+    "SEXO": "Masculino",
+    "DNI": "40900935",
+    "EMPRESA": "Essalud",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "80",
+    "APELLIDOS_NOMBRES": "Limo Miñoque, María Isabel",
+    "SEXO": "Femenino",
+    "DNI": "16453394",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "81",
+    "APELLIDOS_NOMBRES": "Quispe Rodríguez, Vanessa",
+    "SEXO": "Femenino",
+    "DNI": "40057370",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "82",
+    "APELLIDOS_NOMBRES": "Díaz Zarae, Silvia Isabel",
+    "SEXO": "Femenino",
+    "DNI": "43608907",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Video Conferencia en Materia de Seguridda y Salud en el Trabajo",
+    "FECHA": "02/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "83",
+    "APELLIDOS_NOMBRES": "Goicochea Vigil, Francisco",
+    "SEXO": "Masculino",
+    "DNI": "9169568",
+    "EMPRESA": "Sindicato de Trabajadores Unico del Milagro",
+    "TEMA": "Libertad Sindical",
+    "FECHA": "03/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "84",
+    "APELLIDOS_NOMBRES": "Asmad Aabache, Juan",
+    "SEXO": "Masculino",
+    "DNI": "18023172",
+    "EMPRESA": "Sindicato de Costrucción Civil - Salaverry",
+    "TEMA": "Libertad Sindical",
+    "FECHA": "03/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "85",
+    "APELLIDOS_NOMBRES": "Llagas Ñiquen, Fernando",
+    "SEXO": "Masculino",
+    "DNI": "16515170",
+    "EMPRESA": "Sindicato de Costrucción Civil - Salaverry",
+    "TEMA": "Libertad Sindical",
+    "FECHA": "03/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "86",
+    "APELLIDOS_NOMBRES": "Rondoy Barreto, José Jorge",
+    "SEXO": "Masculino",
+    "DNI": "3860376",
+    "EMPRESA": "FETRACARL",
+    "TEMA": "Libertad Sindical",
+    "FECHA": "03/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "87",
+    "APELLIDOS_NOMBRES": "Silva Paredes, Martha",
+    "SEXO": "Femenino",
+    "DNI": "23858153",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Libertad Sindical",
+    "FECHA": "03/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "88",
+    "APELLIDOS_NOMBRES": "Bustamante Fernández, Jackeline",
+    "SEXO": "Femenino",
+    "DNI": "41398272",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Libertad Sindical",
+    "FECHA": "03/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "89",
+    "APELLIDOS_NOMBRES": "Chunga Martínez, María",
+    "SEXO": "Femenino",
+    "DNI": "17936374",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Libertad Sindical",
+    "FECHA": "03/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "90",
+    "APELLIDOS_NOMBRES": "Tineo Tavara, Ruperto",
+    "SEXO": "Masculino",
+    "DNI": "17869332",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Libertad Sindical",
+    "FECHA": "03/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "91",
+    "APELLIDOS_NOMBRES": "Reyes Araujo, Melissa",
+    "SEXO": "Femenino",
+    "DNI": "40400687",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Libertad Sindical",
+    "FECHA": "03/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "92",
+    "APELLIDOS_NOMBRES": "Rebaza Vargas, Emaly",
+    "SEXO": "Femenino",
+    "DNI": "26696851",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Libertad Sindical",
+    "FECHA": "03/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "93",
+    "APELLIDOS_NOMBRES": "Vargas Moya, Pedro",
+    "SEXO": "Masculino",
+    "DNI": "10863224",
+    "EMPRESA": "FETRACARL",
+    "TEMA": "Libertad Sindical",
+    "FECHA": "03/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "94",
+    "APELLIDOS_NOMBRES": "Sanchéz Jara, Leodan Rafael ",
+    "SEXO": "Masculino",
+    "DNI": "18128064",
+    "EMPRESA": "FETRACARL",
+    "TEMA": "Libertad Sindical",
+    "FECHA": "03/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "95",
+    "APELLIDOS_NOMBRES": "Euripes Guer, Pablo Salvador",
+    "SEXO": "Masculino",
+    "DNI": "45085595",
+    "EMPRESA": "FETRACARL",
+    "TEMA": "Libertad Sindical",
+    "FECHA": "03/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "96",
+    "APELLIDOS_NOMBRES": "Burgos Castañeda, Hans Percy",
+    "SEXO": "Masculino",
+    "DNI": "45631737",
+    "EMPRESA": "FETRACARL",
+    "TEMA": "Libertad Sindical",
+    "FECHA": "03/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "97",
+    "APELLIDOS_NOMBRES": "Uriol Carranza, Ana Cecilia",
+    "SEXO": "Femenino",
+    "DNI": "48199590",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Libertad Sindical",
+    "FECHA": "03/06/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "98",
+    "APELLIDOS_NOMBRES": "Pesantes Valderrama, Graciela",
+    "SEXO": "Femenino",
+    "DNI": "17852803",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "99",
+    "APELLIDOS_NOMBRES": "Plasencia Santa María, Teresa",
+    "SEXO": "Femenino",
+    "DNI": "17847661",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "100",
+    "APELLIDOS_NOMBRES": "Nuñez Robles, Gladys",
+    "SEXO": "Femenino",
+    "DNI": "17835918",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "101",
+    "APELLIDOS_NOMBRES": "Dávila Gamarra, María Angelita",
+    "SEXO": "Femenino",
+    "DNI": "18029037",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "102",
+    "APELLIDOS_NOMBRES": "Rodríguez Johnson, Gabriela",
+    "SEXO": "Femenino",
+    "DNI": "46953285",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "103",
+    "APELLIDOS_NOMBRES": "Araujo Narro, Juan",
+    "SEXO": "Masculino",
+    "DNI": "18067338",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "104",
+    "APELLIDOS_NOMBRES": "Ríos S., Víctor Manuel",
+    "SEXO": "Masculino",
+    "DNI": "45296593",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "105",
+    "APELLIDOS_NOMBRES": "Ramos Burgos, Jorge Luís",
+    "SEXO": "Masculino",
+    "DNI": "18186010",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "106",
+    "APELLIDOS_NOMBRES": "Abanto Morales, Javier",
+    "SEXO": "Masculino",
+    "DNI": "43505728",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "107",
+    "APELLIDOS_NOMBRES": "Alvarado García, Pilar",
+    "SEXO": "Femenino",
+    "DNI": "19082418",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "108",
+    "APELLIDOS_NOMBRES": "Reyes Luján, Mónica",
+    "SEXO": "Femenino",
+    "DNI": "18087863",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "109",
+    "APELLIDOS_NOMBRES": "Cruzado María Alexa",
+    "SEXO": "Femenino",
+    "DNI": "18019560",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "110",
+    "APELLIDOS_NOMBRES": "Ramos Araujo, Jannet",
+    "SEXO": "Femenino",
+    "DNI": "18140168",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "111",
+    "APELLIDOS_NOMBRES": "Villajulca Aliaga, Claudia Cecilia",
+    "SEXO": "Femenino",
+    "DNI": "45306713",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "112",
+    "APELLIDOS_NOMBRES": "Tapia Vásquez, Víctor Leandro",
+    "SEXO": "Masculino",
+    "DNI": "42549166",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "113",
+    "APELLIDOS_NOMBRES": "Vásquez Miniano, Irma",
+    "SEXO": "Femenino",
+    "DNI": "19048400",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "114",
+    "APELLIDOS_NOMBRES": "Castañeda Vásquez, Marilin",
+    "SEXO": "Femenino",
+    "DNI": "41251788",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "115",
+    "APELLIDOS_NOMBRES": "Guevara Venturo, Santos",
+    "SEXO": "Masculino",
+    "DNI": "43247655",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "116",
+    "APELLIDOS_NOMBRES": "Lingan Alvites, Enrique",
+    "SEXO": "Masculino",
+    "DNI": "80571397",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "117",
+    "APELLIDOS_NOMBRES": "Valderrama Carlos, Lizz",
+    "SEXO": "Femenino",
+    "DNI": "46362152",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "118",
+    "APELLIDOS_NOMBRES": "Villena Ramírez, Iris",
+    "SEXO": "Femenino",
+    "DNI": "18154096",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "119",
+    "APELLIDOS_NOMBRES": "Yengle Ortiz, Frannk",
+    "SEXO": "Femenino",
+    "DNI": "44935454",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "120",
+    "APELLIDOS_NOMBRES": "Marquina Y., Tito",
+    "SEXO": "Masculino",
+    "DNI": "18897883",
+    "EMPRESA": "I.E.P. Alfred Nobel",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "121",
+    "APELLIDOS_NOMBRES": "Rubio Valdez, Thalia Anabel",
+    "SEXO": "Femenino",
+    "DNI": "46901664",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "122",
+    "APELLIDOS_NOMBRES": "Rodríguez Horna, Jean",
+    "SEXO": "Femenino",
+    "DNI": "46347455",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "123",
+    "APELLIDOS_NOMBRES": "Burgos Varas, Nancy",
+    "SEXO": "Femenino",
+    "DNI": "18062970",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "124",
+    "APELLIDOS_NOMBRES": "Daza Corso, Max Dustin",
+    "SEXO": "Masculino",
+    "DNI": "46323909",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "125",
+    "APELLIDOS_NOMBRES": "Sánchez Bocanegra, Karla",
+    "SEXO": "Femenino",
+    "DNI": "40755130",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "126",
+    "APELLIDOS_NOMBRES": "León Valderrama, Lizet Marilu",
+    "SEXO": "Femenino",
+    "DNI": "46894137",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "127",
+    "APELLIDOS_NOMBRES": "Rodríguez Vilca, José Oswaldo",
+    "SEXO": "Masculino",
+    "DNI": "18155410",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "128",
+    "APELLIDOS_NOMBRES": "Loloy Cardenas, Jefferson",
+    "SEXO": "Masculino",
+    "DNI": "45048467",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "129",
+    "APELLIDOS_NOMBRES": "Vargas Melgarejo, Rosmery Janet",
+    "SEXO": "Femenino",
+    "DNI": "18127849",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "130",
+    "APELLIDOS_NOMBRES": "Guevara Rodríguez, Alan",
+    "SEXO": "Masculino",
+    "DNI": "46132730",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "131",
+    "APELLIDOS_NOMBRES": "Sánchez Araujo, Jesús",
+    "SEXO": "Masculino",
+    "DNI": "46745336",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "132",
+    "APELLIDOS_NOMBRES": "Castillo Taboada, Sarita Araceli",
+    "SEXO": "Femenino",
+    "DNI": "43958937",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "133",
+    "APELLIDOS_NOMBRES": "Horna Hilario, Cirila Fidela",
+    "SEXO": "Femenino",
+    "DNI": "18155526",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "134",
+    "APELLIDOS_NOMBRES": "Espichan Solano, Pedro",
+    "SEXO": "Masculino",
+    "DNI": "42813992",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "135",
+    "APELLIDOS_NOMBRES": "Llajaruna Sevillano, Julio Alberto",
+    "SEXO": "Masculino",
+    "DNI": "18061443",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "136",
+    "APELLIDOS_NOMBRES": "Férnandez Arteaga, Indira",
+    "SEXO": "Femenino",
+    "DNI": "44639563",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "137",
+    "APELLIDOS_NOMBRES": "Orbegoso Gómez, Katherine Maryuri",
+    "SEXO": "Femenino",
+    "DNI": "48251031",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "138",
+    "APELLIDOS_NOMBRES": "Padilla Rosado, Mónica Lorena",
+    "SEXO": "Femenino",
+    "DNI": "70032669",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "139",
+    "APELLIDOS_NOMBRES": "Cuenca Juárez, Abigail Socorro",
+    "SEXO": "Femenino",
+    "DNI": "18170281",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "140",
+    "APELLIDOS_NOMBRES": "Marquina Salvador, María Margarita",
+    "SEXO": "Femenino",
+    "DNI": "18185520",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "141",
+    "APELLIDOS_NOMBRES": "Blas Cabrera, Sonia Mery",
+    "SEXO": "Femenino",
+    "DNI": "40926001",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "142",
+    "APELLIDOS_NOMBRES": "Hernandez Llapo, Julia Nicolasa",
+    "SEXO": "Femenino",
+    "DNI": "17847774",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "143",
+    "APELLIDOS_NOMBRES": "Quiñones Vásquez, William",
+    "SEXO": "Masculino",
+    "DNI": "18116784",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "144",
+    "APELLIDOS_NOMBRES": "Jara Araujo, Haydee",
+    "SEXO": "Femenino",
+    "DNI": "40823629",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "145",
+    "APELLIDOS_NOMBRES": "Costilla Amaya, Juan",
+    "SEXO": "Masculino",
+    "DNI": "19187202",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "146",
+    "APELLIDOS_NOMBRES": "Campos Acosta, Jhonny",
+    "SEXO": "Masculino",
+    "DNI": "43842764",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "147",
+    "APELLIDOS_NOMBRES": "Rojas Ambrocio, Nancy Katherine",
+    "SEXO": "Femenino",
+    "DNI": "44875932",
+    "EMPRESA": "Municipalidad Distrital de Florencia de Mora",
+    "TEMA": "Difusión de la Ley de Seguridad y Salud en el Trabajo",
+    "FECHA": "17/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "148",
+    "APELLIDOS_NOMBRES": "Herrera Florián, Mary Carmen",
+    "SEXO": "Femenino",
+    "DNI": "17891821",
+    "EMPRESA": "Gerencia de Desarrollo e Inclusión Social",
+    "TEMA": "Programa Perú Responsable",
+    "FECHA": "23/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "149",
+    "APELLIDOS_NOMBRES": "Reyes Tejada, Yesica",
+    "SEXO": "Femenino",
+    "DNI": "25771982",
+    "EMPRESA": "Programa Perú Responsable",
+    "TEMA": "Programa Perú Responsable",
+    "FECHA": "23/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "150",
+    "APELLIDOS_NOMBRES": "Reyes Araujo, Melissa",
+    "SEXO": "Femenino",
+    "DNI": "40400687",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Programa Perú Responsable",
+    "FECHA": "23/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "151",
+    "APELLIDOS_NOMBRES": "Zamora Huaman, Yuri",
+    "SEXO": "Masculino",
+    "DNI": "41601754",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Programa Perú Responsable",
+    "FECHA": "23/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "152",
+    "APELLIDOS_NOMBRES": "Ramirez Boggio, Graciela",
+    "SEXO": "Femenino",
+    "DNI": "45820688",
+    "EMPRESA": "Hipermercados Tottus S.A.",
+    "TEMA": "Programa Perú Responsable",
+    "FECHA": "24/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "153",
+    "APELLIDOS_NOMBRES": "Valverde Jael",
+    "SEXO": "Masculino",
+    "DNI": "29637186",
+    "EMPRESA": "Damper",
+    "TEMA": "Programa Perú Responsable",
+    "FECHA": "24/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "154",
+    "APELLIDOS_NOMBRES": "Segura Rodríguez, José",
+    "SEXO": "Masculino",
+    "DNI": "41230419",
+    "EMPRESA": "Camposol",
+    "TEMA": "Programa Perú Responsable",
+    "FECHA": "24/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "155",
+    "APELLIDOS_NOMBRES": "Gaspar Valle, Anabel",
+    "SEXO": "Femenino",
+    "DNI": "44983975",
+    "EMPRESA": "Chimu Agropecuaria",
+    "TEMA": "Programa Perú Responsable",
+    "FECHA": "24/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "156",
+    "APELLIDOS_NOMBRES": "Muñoz Gamarra, Juan Armando",
+    "SEXO": "Masculino",
+    "DNI": "18093430",
+    "EMPRESA": "Universidad San Pedro",
+    "TEMA": "Programa Perú Responsable",
+    "FECHA": "24/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "157",
+    "APELLIDOS_NOMBRES": "Reyes Tejada, Yesica",
+    "SEXO": "Femenino",
+    "DNI": "25771982",
+    "EMPRESA": "Programa Perú Responsable",
+    "TEMA": "Programa Perú Responsable",
+    "FECHA": "24/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "158",
+    "APELLIDOS_NOMBRES": "Reyes Araujo, Melissa",
+    "SEXO": "Femenino",
+    "DNI": "40400687",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Programa Perú Responsable",
+    "FECHA": "24/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "159",
+    "APELLIDOS_NOMBRES": "Zamora Huaman, Yuri",
+    "SEXO": "Masculino",
+    "DNI": "41601754",
+    "EMPRESA": "Gerencia Regional de Trabajo - La Libertad",
+    "TEMA": "Programa Perú Responsable",
+    "FECHA": "24/07/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "160",
+    "APELLIDOS_NOMBRES": "Chávez Rojas, Ricardo",
+    "SEXO": "Masculino",
+    "DNI": "18137188",
+    "EMPRESA": "Gerencia Regional La Libertad",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "161",
+    "APELLIDOS_NOMBRES": "Cruzado Rivero, Rodrigo",
+    "SEXO": "Masculino",
+    "DNI": "18064423",
+    "EMPRESA": "Gerencia Regional La Libertad",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "162",
+    "APELLIDOS_NOMBRES": "Dextre Pimentel, Jorge",
+    "SEXO": "Masculino",
+    "DNI": "44073109",
+    "EMPRESA": "Gerencia Regional La Libertad",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "163",
+    "APELLIDOS_NOMBRES": "Davila Bety",
+    "SEXO": "Femenino",
+    "DNI": "18143590",
+    "EMPRESA": "Gerencia Regional del Ambiente",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "164",
+    "APELLIDOS_NOMBRES": "Heredia García, Keny Eduardo",
+    "SEXO": "Masculino",
+    "DNI": "17910979",
+    "EMPRESA": "PEPIT",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "165",
+    "APELLIDOS_NOMBRES": "Neira Rodríguez, María Elena",
+    "SEXO": "Femenino",
+    "DNI": "17918457",
+    "EMPRESA": "Gerencia de Desarrollo e Inclusión Social",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "166",
+    "APELLIDOS_NOMBRES": "Cieza BuRGA, Napoleón",
+    "SEXO": "Masculino",
+    "DNI": "17893474",
+    "EMPRESA": "Archivo Regional",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "167",
+    "APELLIDOS_NOMBRES": "Zapata Santisteban, Juan Ramón",
+    "SEXO": "Masculino",
+    "DNI": "18167142",
+    "EMPRESA": "CIR",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "168",
+    "APELLIDOS_NOMBRES": "Vilca Arqueros, Vicente",
+    "SEXO": "Masculino",
+    "DNI": "18078385",
+    "EMPRESA": "Gerencia Regional La Libertad",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "169",
+    "APELLIDOS_NOMBRES": "Angulo Alvarez, Roger",
+    "SEXO": "Masculino",
+    "DNI": "17824345",
+    "EMPRESA": "Gerencia Regional La Libertad",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "170",
+    "APELLIDOS_NOMBRES": "Espejo Melendez, Oswaldo",
+    "SEXO": "Masculino",
+    "DNI": "17941975",
+    "EMPRESA": "GRAAT",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "171",
+    "APELLIDOS_NOMBRES": "Tejadab Ruíz, José Luís",
+    "SEXO": "Masculino",
+    "DNI": "43710447",
+    "EMPRESA": "ODNA",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "172",
+    "APELLIDOS_NOMBRES": "Luna Victoria Pèrez, Guillermo",
+    "SEXO": "Masculino",
+    "DNI": "17859001",
+    "EMPRESA": "Sub Gerencia de Caminos",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "173",
+    "APELLIDOS_NOMBRES": "Valderrama Blas, Luís",
+    "SEXO": "Masculino",
+    "DNI": "18848844",
+    "EMPRESA": "Sub Gerencia de Defensa Civil",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "174",
+    "APELLIDOS_NOMBRES": "Chunga Montero, Carlos",
+    "SEXO": "Masculino",
+    "DNI": "2897493",
+    "EMPRESA": "Gerencia Regional La Libertad",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "175",
+    "APELLIDOS_NOMBRES": "Chalen Costa, Pedro",
+    "SEXO": "Masculino",
+    "DNI": "17869111",
+    "EMPRESA": "Gerencia Regional La Libertad",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "176",
+    "APELLIDOS_NOMBRES": "Cadenillas Coronel, Ever",
+    "SEXO": "Masculino",
+    "DNI": "27728542",
+    "EMPRESA": "Gerencia Regional de Transportes y Comunicaciones La Libertad",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "177",
+    "APELLIDOS_NOMBRES": "Lecca Huamán, Walter",
+    "SEXO": "Masculino",
+    "DNI": "32931962",
+    "EMPRESA": "Gerencia Regional La Libertad",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "178",
+    "APELLIDOS_NOMBRES": "Agreda Vereau, Cecilia",
+    "SEXO": "Femenino",
+    "DNI": "18173140",
+    "EMPRESA": "Gerencia Regional La Libertad",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "179",
+    "APELLIDOS_NOMBRES": "Castillo Lozada, Oswaldo",
+    "SEXO": "Masculino",
+    "DNI": "18859733",
+    "EMPRESA": "Gerencia Regional La Libertad",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "180",
+    "APELLIDOS_NOMBRES": "Lazo Suji, Ricardo",
+    "SEXO": "Masculino",
+    "DNI": "17910129",
+    "EMPRESA": "Gerencia Regional de Producción La Libertad",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "181",
+    "APELLIDOS_NOMBRES": "Soto Deza, Julia",
+    "SEXO": "Femenino",
+    "DNI": "19031650",
+    "EMPRESA": "Gerencia Regional de Producción La Libertad",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "182",
+    "APELLIDOS_NOMBRES": "Jiménez García, Jesús Alberto",
+    "SEXO": "Masculino",
+    "DNI": "18087655",
+    "EMPRESA": "Gerencia Regional La Libertad",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "183",
+    "APELLIDOS_NOMBRES": "Reyes Vargas, Rita",
+    "SEXO": "Femenino",
+    "DNI": "41502338",
+    "EMPRESA": "Sub Gerencia de Defensa Civil",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "184",
+    "APELLIDOS_NOMBRES": "Miranda Pulido, Guillermo",
+    "SEXO": "Masculino",
+    "DNI": "17814189",
+    "EMPRESA": "Gerencia de Imagen Institucional La Libertad",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "185",
+    "APELLIDOS_NOMBRES": "Llerena Alfaro, Joel",
+    "SEXO": "Masculino",
+    "DNI": "17894476",
+    "EMPRESA": "Gerencia Regional de Cooperación Técnica",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "186",
+    "APELLIDOS_NOMBRES": "Lujan Espejo, Elizabeth",
+    "SEXO": "Femenino",
+    "DNI": "17874172",
+    "EMPRESA": "SITRA - GOR - LL",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "187",
+    "APELLIDOS_NOMBRES": "Chusho Chávez, Edita Nely",
+    "SEXO": "Femenino",
+    "DNI": "17901958",
+    "EMPRESA": "Sug Gerencia de Recursos Humanos",
+    "TEMA": "Implementación del Cómite de Seguridad y Salud en el Trabajo",
+    "FECHA": "06/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "188",
+    "APELLIDOS_NOMBRES": "Pérez Quispe, Helen Carol",
+    "SEXO": "Femenino",
+    "DNI": "46918749",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "189",
+    "APELLIDOS_NOMBRES": "Villacorta Chávez, José Segundo",
+    "SEXO": "Masculino",
+    "DNI": "47387201",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "190",
+    "APELLIDOS_NOMBRES": "Chaupe Campos, Junior Alexander",
+    "SEXO": "Masculino",
+    "DNI": "42266465",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "191",
+    "APELLIDOS_NOMBRES": "Castillo Miranda, Carlos Franco",
+    "SEXO": "Masculino",
+    "DNI": "70116022",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "192",
+    "APELLIDOS_NOMBRES": "Valdivia Cresanto, Charles",
+    "SEXO": "Masculino",
+    "DNI": "42478251",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "193",
+    "APELLIDOS_NOMBRES": "López Salazar, Rosa",
+    "SEXO": "Femenino",
+    "DNI": "41648801",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "194",
+    "APELLIDOS_NOMBRES": "Cerna García, Yudit",
+    "SEXO": "Femenino",
+    "DNI": "40403063",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "195",
+    "APELLIDOS_NOMBRES": "Vargas Valencia, Karla",
+    "SEXO": "Femenino",
+    "DNI": "47389976",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "196",
+    "APELLIDOS_NOMBRES": "Quiroz Lozada, Melany del Pilar",
+    "SEXO": "Femenino",
+    "DNI": "47973986",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "197",
+    "APELLIDOS_NOMBRES": "Rimarachin Muñoz, Elver",
+    "SEXO": "Masculino",
+    "DNI": "80615669",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "198",
+    "APELLIDOS_NOMBRES": "Tuanama Salas, Henry",
+    "SEXO": "Masculino",
+    "DNI": "45318787",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "199",
+    "APELLIDOS_NOMBRES": "Bacilio Ravines, Eliana",
+    "SEXO": "Femenino",
+    "DNI": "44827714",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "200",
+    "APELLIDOS_NOMBRES": "Beltran Jara, Martín",
+    "SEXO": "Masculino",
+    "DNI": "26928361",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "201",
+    "APELLIDOS_NOMBRES": "Muñoz Castillo, Segundo",
+    "SEXO": "Masculino",
+    "DNI": "40568405",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "202",
+    "APELLIDOS_NOMBRES": "Carranza Flores, Yolis",
+    "SEXO": "Femenino",
+    "DNI": "40957032",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "203",
+    "APELLIDOS_NOMBRES": "Aycho Alfaro, Kerly Katherine",
+    "SEXO": "Femenino",
+    "DNI": "45897557",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "204",
+    "APELLIDOS_NOMBRES": "Mantilla Llanos, Helliana",
+    "SEXO": "Femenino",
+    "DNI": "43746456",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "205",
+    "APELLIDOS_NOMBRES": "Taico Gutierrez, José",
+    "SEXO": "Masculino",
+    "DNI": "18036172",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "206",
+    "APELLIDOS_NOMBRES": "Ramirez Villacorta, Luís",
+    "SEXO": "Masculino",
+    "DNI": "18206919",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "207",
+    "APELLIDOS_NOMBRES": "Isidro Bonifacio, Romer",
+    "SEXO": "Masculino",
+    "DNI": "46913213",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "208",
+    "APELLIDOS_NOMBRES": "Nano Bernal, Jorge",
+    "SEXO": "Masculino",
+    "DNI": "42736315",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "209",
+    "APELLIDOS_NOMBRES": "Larco Bustamante, Johnny",
+    "SEXO": "Masculino",
+    "DNI": "80178698",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "210",
+    "APELLIDOS_NOMBRES": "Aguirre Colqui, Renzo",
+    "SEXO": "Masculino",
+    "DNI": "48160334",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "211",
+    "APELLIDOS_NOMBRES": "Espinoza Culqui, Daniel",
+    "SEXO": "Masculino",
+    "DNI": "18174750",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "212",
+    "APELLIDOS_NOMBRES": "Carbonell Aslla, Luidin",
+    "SEXO": "Masculino",
+    "DNI": "44426206",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "213",
+    "APELLIDOS_NOMBRES": "Pastor Serin, Virginia",
+    "SEXO": "Femenino",
+    "DNI": "18081493",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "214",
+    "APELLIDOS_NOMBRES": "Zavaleta Aguilar, Loyer",
+    "SEXO": "Masculino",
+    "DNI": "41981855",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "215",
+    "APELLIDOS_NOMBRES": "Flores Fernandez, Jerson",
+    "SEXO": "Masculino",
+    "DNI": "71394321",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "216",
+    "APELLIDOS_NOMBRES": "Ramos Bermudez, Abrahan",
+    "SEXO": "Masculino",
+    "DNI": "46395344",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "217",
+    "APELLIDOS_NOMBRES": "Chávez Quiñones, Lisbet",
+    "SEXO": "Femenino",
+    "DNI": "47200825",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "218",
+    "APELLIDOS_NOMBRES": "Contreras Quezada, Ana",
+    "SEXO": "Femenino",
+    "DNI": "41340402",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "219",
+    "APELLIDOS_NOMBRES": "Sánchez Loyola, Deysi",
+    "SEXO": "Femenino",
+    "DNI": "46898381",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "220",
+    "APELLIDOS_NOMBRES": "Sánchez Rodríguez, Yeny",
+    "SEXO": "Femenino",
+    "DNI": "70361321",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "221",
+    "APELLIDOS_NOMBRES": "Castillo Flores, Roxana",
+    "SEXO": "Femenino",
+    "DNI": "44377912",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "222",
+    "APELLIDOS_NOMBRES": "Rodríguez Rodríguez, Jaime",
+    "SEXO": "Masculino",
+    "DNI": "42173895",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "223",
+    "APELLIDOS_NOMBRES": "Bringas Vásquez, Pamela",
+    "SEXO": "Femenino",
+    "DNI": "47116047",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "224",
+    "APELLIDOS_NOMBRES": "León Yupanqui, Erica",
+    "SEXO": "Femenino",
+    "DNI": "47244627",
+    "EMPRESA": "Damper",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "13/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "225",
+    "APELLIDOS_NOMBRES": "Escalante Rojas, Percy",
+    "SEXO": "Masculino",
+    "DNI": "26698284",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "226",
+    "APELLIDOS_NOMBRES": "Cedano Vega, Kelly Mabel",
+    "SEXO": "Femenino",
+    "DNI": "41993340",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "227",
+    "APELLIDOS_NOMBRES": "Bartolo Polo, Sandra Mónica",
+    "SEXO": "Femenino",
+    "DNI": "40478272",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "228",
+    "APELLIDOS_NOMBRES": "Arias Maqui, Yelka Paulina",
+    "SEXO": "Femenino",
+    "DNI": "46682401",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "229",
+    "APELLIDOS_NOMBRES": "Tapia Ávila, María Stefany",
+    "SEXO": "Femenino",
+    "DNI": "77388609",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "230",
+    "APELLIDOS_NOMBRES": "Nureña Benites, Inocenta Julia",
+    "SEXO": "Femenino",
+    "DNI": "18835862",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "231",
+    "APELLIDOS_NOMBRES": "Araujo Rodríguez, Lisbeth",
+    "SEXO": "Femenino",
+    "DNI": "44779347",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "232",
+    "APELLIDOS_NOMBRES": "Ortiz Manzanedo, Dante Valdemar",
+    "SEXO": "Masculino",
+    "DNI": "80376275",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "233",
+    "APELLIDOS_NOMBRES": "Vásquez Sánchez, Angel Josue",
+    "SEXO": "Masculino",
+    "DNI": "41004594",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "234",
+    "APELLIDOS_NOMBRES": "Vértiz Medina, Jessika Angelica",
+    "SEXO": "Femenino",
+    "DNI": "18858286",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "235",
+    "APELLIDOS_NOMBRES": "Aldano Ortiz, Lisette",
+    "SEXO": "Femenino",
+    "DNI": "45941231",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "236",
+    "APELLIDOS_NOMBRES": "Campos Graus, Michael Daners",
+    "SEXO": "Masculino",
+    "DNI": "47171338",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "237",
+    "APELLIDOS_NOMBRES": "Solórzano Barteto, César",
+    "SEXO": "Masculino",
+    "DNI": "40403940",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "238",
+    "APELLIDOS_NOMBRES": "Casanova Ocas, Enrique",
+    "SEXO": "Masculino",
+    "DNI": "18898340",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "239",
+    "APELLIDOS_NOMBRES": "Vigo Llempén, Luís",
+    "SEXO": "Masculino",
+    "DNI": "18211360",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "240",
+    "APELLIDOS_NOMBRES": "Monteverde Reyes, Salem",
+    "SEXO": "Masculino",
+    "DNI": "74561913",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "241",
+    "APELLIDOS_NOMBRES": "Calderón Aguirre, Yohana Mayvet",
+    "SEXO": "Femenino",
+    "DNI": "43879411",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "242",
+    "APELLIDOS_NOMBRES": "Sabana Charcape, Vicky Marisol",
+    "SEXO": "Femenino",
+    "DNI": "18888937",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "243",
+    "APELLIDOS_NOMBRES": "Pretell Gallardo, Felipe Eugenio",
+    "SEXO": "Masculino",
+    "DNI": "41423451",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "244",
+    "APELLIDOS_NOMBRES": "Cruz Salcedo, Freddy",
+    "SEXO": "Masculino",
+    "DNI": "41826161",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "245",
+    "APELLIDOS_NOMBRES": "Vera Pisco, Elmer David",
+    "SEXO": "Masculino",
+    "DNI": "18834543",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "246",
+    "APELLIDOS_NOMBRES": "Peralta Toribio, Yvan Crober",
+    "SEXO": "Masculino",
+    "DNI": "46068550",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "247",
+    "APELLIDOS_NOMBRES": "Diestra López, Manuel",
+    "SEXO": "Masculino",
+    "DNI": "18885636",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "248",
+    "APELLIDOS_NOMBRES": "Cuenca Rojas, Hernan",
+    "SEXO": "Masculino",
+    "DNI": "18897584",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "249",
+    "APELLIDOS_NOMBRES": "Sánchez Férnandez, Edgar Antenor",
+    "SEXO": "Masculino",
+    "DNI": "18889486",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "250",
+    "APELLIDOS_NOMBRES": "Cerquín Ocas, Jhordan Miguel",
+    "SEXO": "Masculino",
+    "DNI": "44515294",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "251",
+    "APELLIDOS_NOMBRES": "Monje Delgado, César Eduardo",
+    "SEXO": "Masculino",
+    "DNI": "43844321",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "252",
+    "APELLIDOS_NOMBRES": "Delgado vera, Edgar Iván",
+    "SEXO": "Masculino",
+    "DNI": "42598572",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "253",
+    "APELLIDOS_NOMBRES": "Rodríguez Floreano, Ronal Alfredo",
+    "SEXO": "Masculino",
+    "DNI": "43156058",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "254",
+    "APELLIDOS_NOMBRES": "Alfaro Fernández, María Cristina",
+    "SEXO": "Femenino",
+    "DNI": "43895224",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "255",
+    "APELLIDOS_NOMBRES": "Cherres Ramirez, Eva Fireley",
+    "SEXO": "Femenino",
+    "DNI": "41894737",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "256",
+    "APELLIDOS_NOMBRES": "Ascoy Solano, Roxana Noemí",
+    "SEXO": "Femenino",
+    "DNI": "18890395",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "257",
+    "APELLIDOS_NOMBRES": "León Rodríguez, Roberto Carlos",
+    "SEXO": "Masculino",
+    "DNI": "18889666",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "258",
+    "APELLIDOS_NOMBRES": "Vilchez Pérez, Elizabeth Karen",
+    "SEXO": "Femenino",
+    "DNI": "18900789",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "259",
+    "APELLIDOS_NOMBRES": "Vilchez Pereda, Erik Alejandro",
+    "SEXO": "Masculino",
+    "DNI": "10567102",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "260",
+    "APELLIDOS_NOMBRES": "Gonzales Gutierrez, Olenka Yoshelyn",
+    "SEXO": "Femenino",
+    "DNI": "76693584",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "261",
+    "APELLIDOS_NOMBRES": "Sabana Charcape, Daisy Edith",
+    "SEXO": "Femenino",
+    "DNI": "40585944",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "262",
+    "APELLIDOS_NOMBRES": "Osores Castro, Jorge Luís",
+    "SEXO": "Masculino",
+    "DNI": "42690206",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "263",
+    "APELLIDOS_NOMBRES": "Blas Catalan, Aldo Víctor",
+    "SEXO": "Masculino",
+    "DNI": "18882356",
+    "EMPRESA": "Cooperativa de Ahorro y Crédito \"San José\" - Cartavio",
+    "TEMA": "Politica de Seguridad y Salud en el Trabajo",
+    "FECHA": "14/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "264",
+    "APELLIDOS_NOMBRES": "Ordoñez Rodríguez, Judy",
+    "SEXO": "Femenino",
+    "DNI": "46002358",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "265",
+    "APELLIDOS_NOMBRES": "Fernandez Delgado, Luz Neri",
+    "SEXO": "Femenino",
+    "DNI": "43227053",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "266",
+    "APELLIDOS_NOMBRES": "Salazar Salirrosas, María Yolanda",
+    "SEXO": "Femenino",
+    "DNI": "18083116",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "267",
+    "APELLIDOS_NOMBRES": "Lozano Gutierrez, Hestor",
+    "SEXO": "Masculino",
+    "DNI": "18187709",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "268",
+    "APELLIDOS_NOMBRES": "Sánchez Gabriel, Hilda",
+    "SEXO": "Femenino",
+    "DNI": "47582615",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "269",
+    "APELLIDOS_NOMBRES": "Veronico Saona, Mercedes",
+    "SEXO": "Masculino",
+    "DNI": "46530009",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "270",
+    "APELLIDOS_NOMBRES": "Jara Fernandez, Luz",
+    "SEXO": "Femenino",
+    "DNI": "46939685",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "271",
+    "APELLIDOS_NOMBRES": "Lopez Cruz, José",
+    "SEXO": "Masculino",
+    "DNI": "60254516",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "272",
+    "APELLIDOS_NOMBRES": "Bobadilla Paredes, Wilfredo",
+    "SEXO": "Masculino",
+    "DNI": "45976988",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "273",
+    "APELLIDOS_NOMBRES": "Coronel Ramos, Roberto",
+    "SEXO": "Masculino",
+    "DNI": "46070434",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "274",
+    "APELLIDOS_NOMBRES": "Matos Tarazona, Amanda",
+    "SEXO": "Femenino",
+    "DNI": "77085697",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "275",
+    "APELLIDOS_NOMBRES": "Tello Correa, Elva",
+    "SEXO": "Femenino",
+    "DNI": "70039442",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "276",
+    "APELLIDOS_NOMBRES": "Castillo Guevara, Vannessa",
+    "SEXO": "Femenino",
+    "DNI": "48219784",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "277",
+    "APELLIDOS_NOMBRES": "Neira Esparraga, Jhoiser",
+    "SEXO": "Masculino",
+    "DNI": "47506185",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "278",
+    "APELLIDOS_NOMBRES": "Ramírez Acate, Dora",
+    "SEXO": "Femenino",
+    "DNI": "80688910",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "279",
+    "APELLIDOS_NOMBRES": "Pérez Aguilar, Sandra Maribel",
+    "SEXO": "Femenino",
+    "DNI": "40150810",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "280",
+    "APELLIDOS_NOMBRES": "Anticona Aguirre, María",
+    "SEXO": "Femenino",
+    "DNI": "40509715",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "281",
+    "APELLIDOS_NOMBRES": "Polo Cerna, Flora",
+    "SEXO": "Femenino",
+    "DNI": "44958996",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "282",
+    "APELLIDOS_NOMBRES": "Salirrosas Paredes, Ivan",
+    "SEXO": "Masculino",
+    "DNI": "41677211",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "283",
+    "APELLIDOS_NOMBRES": "Rodríguez Segura, Hector",
+    "SEXO": "Masculino",
+    "DNI": "44877031",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "284",
+    "APELLIDOS_NOMBRES": "Abanto Cruz, Damaris",
+    "SEXO": "Femenino",
+    "DNI": "41823829",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "285",
+    "APELLIDOS_NOMBRES": "Tarrillo Olano, José",
+    "SEXO": "Masculino",
+    "DNI": "48769527",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "286",
+    "APELLIDOS_NOMBRES": "Lezama Leiva, Delia",
+    "SEXO": "Femenino",
+    "DNI": "48634378",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "287",
+    "APELLIDOS_NOMBRES": "Guerrero Villalobos, Segundo",
+    "SEXO": "Masculino",
+    "DNI": "45020170",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "288",
+    "APELLIDOS_NOMBRES": "Zamudio Anampa, Aureliano",
+    "SEXO": "Masculino",
+    "DNI": "47861604",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "289",
+    "APELLIDOS_NOMBRES": "Valderrama Reyes, Gilmer",
+    "SEXO": "Masculino",
+    "DNI": "46054093",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "290",
+    "APELLIDOS_NOMBRES": "Gonzales Lizarraga, Mabel Yesenia",
+    "SEXO": "Femenino",
+    "DNI": "48589541",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "291",
+    "APELLIDOS_NOMBRES": "Mendoza Minbela, Siralí Elisa",
+    "SEXO": "Femenino",
+    "DNI": "46186216",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "292",
+    "APELLIDOS_NOMBRES": "Plasencia Sánchez, Katerine Patricia",
+    "SEXO": "Femenino",
+    "DNI": "47082872",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "293",
+    "APELLIDOS_NOMBRES": "Vargas Lavado, Andréz",
+    "SEXO": "Masculino",
+    "DNI": "45616704",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "294",
+    "APELLIDOS_NOMBRES": "Calderón Rodríguez, Gustavo",
+    "SEXO": "Masculino",
+    "DNI": "46894060",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "295",
+    "APELLIDOS_NOMBRES": "Rojas Quiroz, Elzer",
+    "SEXO": "Masculino",
+    "DNI": "43235737",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "296",
+    "APELLIDOS_NOMBRES": "Ramos Jacobo, Agustín",
+    "SEXO": "Masculino",
+    "DNI": "18018239",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "297",
+    "APELLIDOS_NOMBRES": "Apolinar Carranza, Erico",
+    "SEXO": "Masculino",
+    "DNI": "43262626",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "298",
+    "APELLIDOS_NOMBRES": "Benites Castillo, Matilde",
+    "SEXO": "Femenino",
+    "DNI": "48158275",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "299",
+    "APELLIDOS_NOMBRES": "Huamán Llamoctanta, Teodelina",
+    "SEXO": "Femenino",
+    "DNI": "46729499",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "300",
+    "APELLIDOS_NOMBRES": "Beltrán Roque, Santos",
+    "SEXO": "Masculino",
+    "DNI": "44645265",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "301",
+    "APELLIDOS_NOMBRES": "Correa Jimenez, Edwin",
+    "SEXO": "Masculino",
+    "DNI": "43263639",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "302",
+    "APELLIDOS_NOMBRES": "Baca Tandaipan, Wilson",
+    "SEXO": "Masculino",
+    "DNI": "45551272",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "303",
+    "APELLIDOS_NOMBRES": "Gonzales Villanueva, estefany",
+    "SEXO": "Femenino",
+    "DNI": "71560990",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "304",
+    "APELLIDOS_NOMBRES": "Pinillos Layza, Elmar Leonel",
+    "SEXO": "Masculino",
+    "DNI": "73421160",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "305",
+    "APELLIDOS_NOMBRES": "Cunias Guerrero, Edgar",
+    "SEXO": "Masculino",
+    "DNI": "48733181",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "306",
+    "APELLIDOS_NOMBRES": "Guzmán Yupanqui, Omar",
+    "SEXO": "Masculino",
+    "DNI": "48250718",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "307",
+    "APELLIDOS_NOMBRES": "Carrasco Bautista, Rigoberto",
+    "SEXO": "Masculino",
+    "DNI": "47369684",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "308",
+    "APELLIDOS_NOMBRES": "Montaña Julca, Jorge",
+    "SEXO": "Masculino",
+    "DNI": "43863169",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "309",
+    "APELLIDOS_NOMBRES": "Estela Ramos, Eduar",
+    "SEXO": "Masculino",
+    "DNI": "76782563",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "310",
+    "APELLIDOS_NOMBRES": "Castro Argomedo, Jhony",
+    "SEXO": "Masculino",
+    "DNI": "44320968",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "311",
+    "APELLIDOS_NOMBRES": "Marquina Campos, Maritza",
+    "SEXO": "Femenino",
+    "DNI": "44875540",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "312",
+    "APELLIDOS_NOMBRES": "Pérez Bazán, Alberto",
+    "SEXO": "Masculino",
+    "DNI": "41545838",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "313",
+    "APELLIDOS_NOMBRES": "Tarrillo Benavides, Marleni",
+    "SEXO": "Femenino",
+    "DNI": "43881913",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "314",
+    "APELLIDOS_NOMBRES": "Vallejos Vallejos, Joel",
+    "SEXO": "Masculino",
+    "DNI": "47599592",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "315",
+    "APELLIDOS_NOMBRES": "Sernaque Vilchez, Alejandro",
+    "SEXO": "Masculino",
+    "DNI": "47271340",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "316",
+    "APELLIDOS_NOMBRES": "Blas Valderrama, Gladys",
+    "SEXO": "Femenino",
+    "DNI": "18083884",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "317",
+    "APELLIDOS_NOMBRES": "Cuba Alva, Jonathan",
+    "SEXO": "Masculino",
+    "DNI": "40765816",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "318",
+    "APELLIDOS_NOMBRES": "Sari Bustos, Dany Richard",
+    "SEXO": "Masculino",
+    "DNI": "43032648",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "319",
+    "APELLIDOS_NOMBRES": "Quipuscoa Solano, Karina",
+    "SEXO": "Femenino",
+    "DNI": "43560793",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "320",
+    "APELLIDOS_NOMBRES": "Cabada Díaz, Katherine",
+    "SEXO": "Femenino",
+    "DNI": "46215746",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "321",
+    "APELLIDOS_NOMBRES": "Portocarrero Mejia, Lady",
+    "SEXO": "Femenino",
+    "DNI": "42238203",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "322",
+    "APELLIDOS_NOMBRES": "Iparraguirre Dominguez, Yudith",
+    "SEXO": "Femenino",
+    "DNI": "71491542",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "323",
+    "APELLIDOS_NOMBRES": "Durand León, Jacquelin",
+    "SEXO": "Femenino",
+    "DNI": "80125986",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "324",
+    "APELLIDOS_NOMBRES": "Cerna Gonzales, Yovany Elizabeth",
+    "SEXO": "Femenino",
+    "DNI": "47490793",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "325",
+    "APELLIDOS_NOMBRES": "Lara Esteban, Nery",
+    "SEXO": "Femenino",
+    "DNI": "43351969",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "326",
+    "APELLIDOS_NOMBRES": "Cruzado Acuña, Florli",
+    "SEXO": "Femenino",
+    "DNI": "46071054",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "327",
+    "APELLIDOS_NOMBRES": "Urbina Ruíz, Eli",
+    "SEXO": "Masculino",
+    "DNI": "46583435",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "328",
+    "APELLIDOS_NOMBRES": "Lavado Martínez, Roymer",
+    "SEXO": "Masculino",
+    "DNI": "70555093",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "329",
+    "APELLIDOS_NOMBRES": "Nish Ecobedo, Patricia",
+    "SEXO": "Femenino",
+    "DNI": "47820809",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "330",
+    "APELLIDOS_NOMBRES": "Argomedo de la Cruz, Carmen",
+    "SEXO": "Femenino",
+    "DNI": "47179819",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "331",
+    "APELLIDOS_NOMBRES": "Berrocal Rojas, Yovana",
+    "SEXO": "Femenino",
+    "DNI": "44415987",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "332",
+    "APELLIDOS_NOMBRES": "Vega Castillo, Maribel",
+    "SEXO": "Femenino",
+    "DNI": "43311210",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "333",
+    "APELLIDOS_NOMBRES": "Silva Saavedra, Pilar",
+    "SEXO": "Femenino",
+    "DNI": "80342874",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "334",
+    "APELLIDOS_NOMBRES": "Culquicondor Mendoza, Segundo",
+    "SEXO": "Masculino",
+    "DNI": "46749576",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "335",
+    "APELLIDOS_NOMBRES": "Velasquez Principe, Manuela",
+    "SEXO": "Femenino",
+    "DNI": "43433155",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "336",
+    "APELLIDOS_NOMBRES": "Aguirre Acevedo, Pablo",
+    "SEXO": "Masculino",
+    "DNI": "42594993",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "337",
+    "APELLIDOS_NOMBRES": "Carrión Becerra, Wilder",
+    "SEXO": "Masculino",
+    "DNI": "71107114",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "338",
+    "APELLIDOS_NOMBRES": "Saldaña Mendoza, Carmen",
+    "SEXO": "Femenino",
+    "DNI": "18206434",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "339",
+    "APELLIDOS_NOMBRES": "Lyan Sicche, Jeny Lizet",
+    "SEXO": "Femenino",
+    "DNI": "46398108",
+    "EMPRESA": "Camposol",
+    "TEMA": "Cultura de Prevención y Erradicación del Trabajo Forzoso",
+    "FECHA": "18/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "340",
+    "APELLIDOS_NOMBRES": "Bueno Lara, María del Rosario",
+    "SEXO": "Femenino",
+    "DNI": "26599450",
+    "EMPRESA": "Hogar Refugio Temporal - Distrito Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "341",
+    "APELLIDOS_NOMBRES": "Cruz Mariños, Miriam",
+    "SEXO": "Femenino",
+    "DNI": "43793346",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "342",
+    "APELLIDOS_NOMBRES": "Mendoza Principe, Gisela",
+    "SEXO": "Femenino",
+    "DNI": "71628391",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "343",
+    "APELLIDOS_NOMBRES": "Arteaga Huertas, Yessenia",
+    "SEXO": "Femenino",
+    "DNI": "42595071",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "344",
+    "APELLIDOS_NOMBRES": "Bocanegra Medrano, Irma",
+    "SEXO": "Femenino",
+    "DNI": "41987283",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "345",
+    "APELLIDOS_NOMBRES": "Ramirez Villanueva, Mariana",
+    "SEXO": "Femenino",
+    "DNI": "19558779",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "346",
+    "APELLIDOS_NOMBRES": "Rosales Flores, Olinda",
+    "SEXO": "Femenino",
+    "DNI": "19520191",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "347",
+    "APELLIDOS_NOMBRES": "Alayo Salazar, Jesús Ricardo",
+    "SEXO": "Masculino",
+    "DNI": "47508575",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "348",
+    "APELLIDOS_NOMBRES": "Otiniano Barreto, Manuel",
+    "SEXO": "Masculino",
+    "DNI": "19562692",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "349",
+    "APELLIDOS_NOMBRES": "Silva Fernandez, Tania",
+    "SEXO": "Femenino",
+    "DNI": "46242847",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "350",
+    "APELLIDOS_NOMBRES": "Tena Carbajal, Emerita",
+    "SEXO": "Femenino",
+    "DNI": "77271019",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "351",
+    "APELLIDOS_NOMBRES": "Rodríguez Baca, Ernesto",
+    "SEXO": "Masculino",
+    "DNI": "19532750",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "352",
+    "APELLIDOS_NOMBRES": "Tandaypan Linian, Ronald",
+    "SEXO": "Masculino",
+    "DNI": "41969055",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "353",
+    "APELLIDOS_NOMBRES": "Reyna Ríos, Fidel",
+    "SEXO": "Masculino",
+    "DNI": "19564342",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "354",
+    "APELLIDOS_NOMBRES": "Miñan Joaquín, Alcira",
+    "SEXO": "Femenino",
+    "DNI": "19562071",
+    "EMPRESA": "Vaso de Leche - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "355",
+    "APELLIDOS_NOMBRES": "Pizan Carbajal, Juan Javier",
+    "SEXO": "Masculino",
+    "DNI": "47016486",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "356",
+    "APELLIDOS_NOMBRES": "Vera Ríos, Ana María",
+    "SEXO": "Femenino",
+    "DNI": "47196287",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "357",
+    "APELLIDOS_NOMBRES": "López Valderrama, Liliana Teodora",
+    "SEXO": "Femenino",
+    "DNI": "73082370",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "358",
+    "APELLIDOS_NOMBRES": "Roman Barrios, Ronald Varoni",
+    "SEXO": "Masculino",
+    "DNI": "71217220",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "359",
+    "APELLIDOS_NOMBRES": "Cueva de la Cruz, Hermelinda",
+    "SEXO": "Femenino",
+    "DNI": "41057450",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "360",
+    "APELLIDOS_NOMBRES": "Rodríguez Sandoval, Vanesa",
+    "SEXO": "Femenino",
+    "DNI": "73324731",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "361",
+    "APELLIDOS_NOMBRES": "Contreras Vergaray, Erika",
+    "SEXO": "Femenino",
+    "DNI": "76539541",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "362",
+    "APELLIDOS_NOMBRES": "Calderón Esquivel, Jhon",
+    "SEXO": "Masculino",
+    "DNI": "70227066",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "363",
+    "APELLIDOS_NOMBRES": "Valderrama Iparraguirre, Aquilino",
+    "SEXO": "Masculino",
+    "DNI": "41007456",
+    "EMPRESA": "Davinci",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "364",
+    "APELLIDOS_NOMBRES": "Chalán Tacilla, Dilma del Pilar",
+    "SEXO": "Femenino",
+    "DNI": "40454187",
+    "EMPRESA": "Davinci",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "365",
+    "APELLIDOS_NOMBRES": "Urteaga Melendez, Luís",
+    "SEXO": "Masculino",
+    "DNI": "6435214",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "366",
+    "APELLIDOS_NOMBRES": "Mauricio Ríos, Maribel",
+    "SEXO": "Femenino",
+    "DNI": "71493117",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "367",
+    "APELLIDOS_NOMBRES": "López Nuñuvera, Elda",
+    "SEXO": "Femenino",
+    "DNI": "71639337",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "368",
+    "APELLIDOS_NOMBRES": "Maurico Rondo, Esmeralda",
+    "SEXO": "Femenino",
+    "DNI": "70235303",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "369",
+    "APELLIDOS_NOMBRES": "Balvin Méndez, Edinson",
+    "SEXO": "Masculino",
+    "DNI": "70233721",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "370",
+    "APELLIDOS_NOMBRES": "Velásquez Carbajal, Freddy",
+    "SEXO": "Masculino",
+    "DNI": "47463564",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "371",
+    "APELLIDOS_NOMBRES": "Zegarra Castro, Henry",
+    "SEXO": "Masculino",
+    "DNI": "41116768",
+    "EMPRESA": "Cumbres Perú",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "372",
+    "APELLIDOS_NOMBRES": "Asto García, Sonia",
+    "SEXO": "Femenino",
+    "DNI": "19571331",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "373",
+    "APELLIDOS_NOMBRES": "Campos Reyes, Alis Bethyna",
+    "SEXO": "Femenino",
+    "DNI": "44988852",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "374",
+    "APELLIDOS_NOMBRES": "Vergara Rodríguez, Sylvia Alicia",
+    "SEXO": "Femenino",
+    "DNI": "19522694",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "375",
+    "APELLIDOS_NOMBRES": "Castillo Ruíz, Rosa del Pilar",
+    "SEXO": "Femenino",
+    "DNI": "44705916",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "376",
+    "APELLIDOS_NOMBRES": "Vera Bringas, Pedro",
+    "SEXO": "Masculino",
+    "DNI": "41208350",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "377",
+    "APELLIDOS_NOMBRES": "Cerna Paredes, Justina",
+    "SEXO": "Femenino",
+    "DNI": "44066300",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "378",
+    "APELLIDOS_NOMBRES": "Serin Vásquez, Griselda Abigail",
+    "SEXO": "Femenino",
+    "DNI": "43843293",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "379",
+    "APELLIDOS_NOMBRES": "Gastañadui Tapia, César",
+    "SEXO": "Masculino",
+    "DNI": "19520222",
+    "EMPRESA": "Biblioteca - Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "380",
+    "APELLIDOS_NOMBRES": "Trejo Honorio, Mariela",
+    "SEXO": "Femenino",
+    "DNI": "47358060",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "381",
+    "APELLIDOS_NOMBRES": "Oloya Polo, Margarita",
+    "SEXO": "Femenino",
+    "DNI": "19562474",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "382",
+    "APELLIDOS_NOMBRES": "Castillo Rodríguez, Manuel",
+    "SEXO": "Masculino",
+    "DNI": "18132877",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "383",
+    "APELLIDOS_NOMBRES": "Curo Chambi, José Luís",
+    "SEXO": "Masculino",
+    "DNI": "513945",
+    "EMPRESA": "Asociación IASD",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "384",
+    "APELLIDOS_NOMBRES": "Villanueva Rodríguez, Geiner",
+    "SEXO": "Masculino",
+    "DNI": "40368825",
+    "EMPRESA": "I.E. Ciro Alegría - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "385",
+    "APELLIDOS_NOMBRES": "Mondoñedo López, Olinda",
+    "SEXO": "Femenino",
+    "DNI": "70671903",
+    "EMPRESA": "Computronic - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "386",
+    "APELLIDOS_NOMBRES": "Sánchez Jimwnes, Thalia",
+    "SEXO": "Femenino",
+    "DNI": "72479490",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "387",
+    "APELLIDOS_NOMBRES": "Barreto Gaitán, Emily",
+    "SEXO": "Femenino",
+    "DNI": "48056834",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "388",
+    "APELLIDOS_NOMBRES": "Contreras Isabe, Olinda",
+    "SEXO": "Femenino",
+    "DNI": "70796739",
+    "EMPRESA": "Vaso de Leche - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "389",
+    "APELLIDOS_NOMBRES": "Altamirano Altamirano, Carmen Rosa",
+    "SEXO": "Femenino",
+    "DNI": "41256185",
+    "EMPRESA": "Vaso de Leche - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "390",
+    "APELLIDOS_NOMBRES": "Medina Rodríguez, Nicola",
+    "SEXO": "Femenino",
+    "DNI": "19571431",
+    "EMPRESA": "Vaso de Leche Sta Ana- Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "391",
+    "APELLIDOS_NOMBRES": "Briceño Paredes, Andrea",
+    "SEXO": "Femenino",
+    "DNI": "19571431",
+    "EMPRESA": "Vaso de Leche Sta Ana- Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "392",
+    "APELLIDOS_NOMBRES": "Ahumada Sánchez, Gustavo",
+    "SEXO": "Masculino",
+    "DNI": "17805253",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "393",
+    "APELLIDOS_NOMBRES": "Vásquez Flores, María Lucila",
+    "SEXO": "Femenino",
+    "DNI": "19537028",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "394",
+    "APELLIDOS_NOMBRES": "Catay Guerrero, José Alfredo",
+    "SEXO": "Masculino",
+    "DNI": "41737158",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "395",
+    "APELLIDOS_NOMBRES": "Gaytan Vásquez, Domingo",
+    "SEXO": "Masculino",
+    "DNI": "19520892",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "396",
+    "APELLIDOS_NOMBRES": "Torres Salazar, Victoriana",
+    "SEXO": "Femenino",
+    "DNI": "18983553",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "397",
+    "APELLIDOS_NOMBRES": "Gerbacio Fernandez, Elena Flor",
+    "SEXO": "Femenino",
+    "DNI": "19528576",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "398",
+    "APELLIDOS_NOMBRES": "Tamayo Polo, Francisca",
+    "SEXO": "Femenino",
+    "DNI": "19551622",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "399",
+    "APELLIDOS_NOMBRES": "Contreras Castado, Agustina",
+    "SEXO": "Femenino",
+    "DNI": "19539407",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "400",
+    "APELLIDOS_NOMBRES": "Patricio Paredes, Ysel Charito",
+    "SEXO": "Femenino",
+    "DNI": "41943895",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "401",
+    "APELLIDOS_NOMBRES": "Carrión Ríos, Eloy",
+    "SEXO": "Masculino",
+    "DNI": "19526346",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "402",
+    "APELLIDOS_NOMBRES": "Castillo Bernui, Teodora",
+    "SEXO": "Femenino",
+    "DNI": "19559690",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "403",
+    "APELLIDOS_NOMBRES": "Asunción Villanueva, Andrea",
+    "SEXO": "Femenino",
+    "DNI": "19550259",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "404",
+    "APELLIDOS_NOMBRES": "Rondon García, Emiliana Gabriela",
+    "SEXO": "Femenino",
+    "DNI": "42600910",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "405",
+    "APELLIDOS_NOMBRES": "Baltazar Contreras, Pascuela",
+    "SEXO": "Femenino",
+    "DNI": "19558274",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "406",
+    "APELLIDOS_NOMBRES": "Asunción Cruz, Andrea",
+    "SEXO": "Femenino",
+    "DNI": "40402569",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "407",
+    "APELLIDOS_NOMBRES": "Baltazar Bautista, Antoña",
+    "SEXO": "Femenino",
+    "DNI": "19560674",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "408",
+    "APELLIDOS_NOMBRES": "Carrión Casiano, Santos",
+    "SEXO": "Masculino",
+    "DNI": "19558788",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "409",
+    "APELLIDOS_NOMBRES": "Campos Ríos, Juana Janett",
+    "SEXO": "Femenino",
+    "DNI": "19562324",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "410",
+    "APELLIDOS_NOMBRES": "Polo Paredes, Judith Jannina",
+    "SEXO": "Femenino",
+    "DNI": "70235038",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "411",
+    "APELLIDOS_NOMBRES": "Moreno Malquiades, Magaly",
+    "SEXO": "Femenino",
+    "DNI": "73098078",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "412",
+    "APELLIDOS_NOMBRES": "Castro Salinas, Rosa",
+    "SEXO": "Femenino",
+    "DNI": "43763274",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "413",
+    "APELLIDOS_NOMBRES": "Polo Paredes, Martha Esther",
+    "SEXO": "Femenino",
+    "DNI": "70235037",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "414",
+    "APELLIDOS_NOMBRES": "Marcelo Fernandez, Lilian Edith",
+    "SEXO": "Femenino",
+    "DNI": "71493167",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "415",
+    "APELLIDOS_NOMBRES": "Contreras Paredes, Jenny",
+    "SEXO": "Femenino",
+    "DNI": "42951248",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "416",
+    "APELLIDOS_NOMBRES": "Valderrama Valderrama, Nelly Rocio",
+    "SEXO": "Femenino",
+    "DNI": "73186995",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "417",
+    "APELLIDOS_NOMBRES": "Valderrama Valderrama, Martha Teresa",
+    "SEXO": "Femenino",
+    "DNI": "73126453",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "418",
+    "APELLIDOS_NOMBRES": "Valderrama Campos, Yasenia",
+    "SEXO": "Femenino",
+    "DNI": "48298786",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "419",
+    "APELLIDOS_NOMBRES": "Laiza Llajaruna, Irma Marleni",
+    "SEXO": "Femenino",
+    "DNI": "43914615",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "420",
+    "APELLIDOS_NOMBRES": "Paredes Quispe, Alicia",
+    "SEXO": "Femenino",
+    "DNI": "41254771",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "421",
+    "APELLIDOS_NOMBRES": "Oviedo Paredes, Janeth Ericka",
+    "SEXO": "Femenino",
+    "DNI": "41654488",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "422",
+    "APELLIDOS_NOMBRES": "García Nuñuvero, Marilin",
+    "SEXO": "Femenino",
+    "DNI": "42617310",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "423",
+    "APELLIDOS_NOMBRES": "García Llaury, Sara",
+    "SEXO": "Femenino",
+    "DNI": "43843232",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "424",
+    "APELLIDOS_NOMBRES": "Paredes Altamirano, Erika",
+    "SEXO": "Femenino",
+    "DNI": "72931025",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "425",
+    "APELLIDOS_NOMBRES": "Henriquez García, Yhody Adelaida",
+    "SEXO": "Femenino",
+    "DNI": "42513307",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "426",
+    "APELLIDOS_NOMBRES": "Bailón Vera, Elver",
+    "SEXO": "Masculino",
+    "DNI": "44473856",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "427",
+    "APELLIDOS_NOMBRES": "Rodríguez Marceliano, Miriam Elizabeth",
+    "SEXO": "Femenino",
+    "DNI": "46702985",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "428",
+    "APELLIDOS_NOMBRES": "Ramirez Ruíz, Mónica",
+    "SEXO": "Femenino",
+    "DNI": "47999499",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "429",
+    "APELLIDOS_NOMBRES": "García Otiniano, Luz",
+    "SEXO": "Femenino",
+    "DNI": "42582013",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "430",
+    "APELLIDOS_NOMBRES": "García Bejarano, Mary Carmen",
+    "SEXO": "Femenino",
+    "DNI": "77270953",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "431",
+    "APELLIDOS_NOMBRES": "Paulo Enriquez, Senaida Deisi",
+    "SEXO": "Femenino",
+    "DNI": "48538954",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "432",
+    "APELLIDOS_NOMBRES": "Altamirano Ledesma, Miriam Bethel",
+    "SEXO": "Femenino",
+    "DNI": "70224234",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "433",
+    "APELLIDOS_NOMBRES": "Paredes Arteaga, Enma Deysy",
+    "SEXO": "Femenino",
+    "DNI": "44429106",
+    "EMPRESA": "Hospital Leoncio Prado - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "434",
+    "APELLIDOS_NOMBRES": "Gamboa Arias, Vanessa Pascuala",
+    "SEXO": "Femenino",
+    "DNI": "48218702",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "435",
+    "APELLIDOS_NOMBRES": "Villanueva Rojas, Karen Elizabeth",
+    "SEXO": "Femenino",
+    "DNI": "76073842",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "436",
+    "APELLIDOS_NOMBRES": "Baldera Namuche, María",
+    "SEXO": "Femenino",
+    "DNI": "44910116",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "437",
+    "APELLIDOS_NOMBRES": "Ríos Llajaruna, Esther",
+    "SEXO": "Femenino",
+    "DNI": "19562160",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "438",
+    "APELLIDOS_NOMBRES": "Quispe Tamayo, Milagros",
+    "SEXO": "Femenino",
+    "DNI": "70045407",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "439",
+    "APELLIDOS_NOMBRES": "Bellena Daga, Nelida Yolanda",
+    "SEXO": "Femenino",
+    "DNI": "46972502",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "440",
+    "APELLIDOS_NOMBRES": "Villanueva Reyes, Hilda",
+    "SEXO": "Femenino",
+    "DNI": "45822309",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "441",
+    "APELLIDOS_NOMBRES": "Carbajal Mariños, Mirian",
+    "SEXO": "Femenino",
+    "DNI": "4503513",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "442",
+    "APELLIDOS_NOMBRES": "Araujo Flores, Lila",
+    "SEXO": "Femenino",
+    "DNI": "46767453",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "443",
+    "APELLIDOS_NOMBRES": "Ríos Salinas, Marcionila",
+    "SEXO": "Femenino",
+    "DNI": "44271886",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "444",
+    "APELLIDOS_NOMBRES": "De la Cruz Polo, Natividad",
+    "SEXO": "Femenino",
+    "DNI": "42843238",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "445",
+    "APELLIDOS_NOMBRES": "Cruz Carranza, Sonia",
+    "SEXO": "Femenino",
+    "DNI": "46552567",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "446",
+    "APELLIDOS_NOMBRES": "Caspita Rodríguez, Alicia",
+    "SEXO": "Femenino",
+    "DNI": "46791172",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "447",
+    "APELLIDOS_NOMBRES": "Polo Ruíz, Lucia",
+    "SEXO": "Femenino",
+    "DNI": "73096087",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "448",
+    "APELLIDOS_NOMBRES": "Herrera Mauricio, Enma",
+    "SEXO": "Femenino",
+    "DNI": "40083395",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "449",
+    "APELLIDOS_NOMBRES": "Sánchez Flores, Keidy",
+    "SEXO": "Femenino",
+    "DNI": "48420689",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "450",
+    "APELLIDOS_NOMBRES": "Grados Cruz, Carmen",
+    "SEXO": "Femenino",
+    "DNI": "6600750",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "451",
+    "APELLIDOS_NOMBRES": "Gamboa García, Plantila",
+    "SEXO": "Femenino",
+    "DNI": "19558743",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "452",
+    "APELLIDOS_NOMBRES": "Cuba Calderón, Eufemia",
+    "SEXO": "Femenino",
+    "DNI": "44101159",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "453",
+    "APELLIDOS_NOMBRES": "Villanueva Bacilio, Celinda",
+    "SEXO": "Femenino",
+    "DNI": "72862444",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "454",
+    "APELLIDOS_NOMBRES": "Lázaro Ulloa, Yuli",
+    "SEXO": "Femenino",
+    "DNI": "46804539",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "455",
+    "APELLIDOS_NOMBRES": "Samana Carbajal, Elvia Rocío",
+    "SEXO": "Femenino",
+    "DNI": "70219308",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "456",
+    "APELLIDOS_NOMBRES": "Carlos Gonzales, Santos Evelia",
+    "SEXO": "Femenino",
+    "DNI": "40422616",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "457",
+    "APELLIDOS_NOMBRES": "Sánchez Flores, Daysi Yonamiri",
+    "SEXO": "Femenino",
+    "DNI": "41488582",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "458",
+    "APELLIDOS_NOMBRES": "Vásquez del Castillo, Nirvani",
+    "SEXO": "Femenino",
+    "DNI": "41366113",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "459",
+    "APELLIDOS_NOMBRES": "Jara Araujo, Keyver Hugo",
+    "SEXO": "Masculino",
+    "DNI": "72805316",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "460",
+    "APELLIDOS_NOMBRES": "Zavaleta Benaute, Sandra Jhaquelin",
+    "SEXO": "Femenino",
+    "DNI": "76737541",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "461",
+    "APELLIDOS_NOMBRES": "Cerna  Paredes, Justina",
+    "SEXO": "Femenino",
+    "DNI": "44066500",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "462",
+    "APELLIDOS_NOMBRES": "Ticlia Monzon, Wilfredo",
+    "SEXO": "Masculino",
+    "DNI": "48225681",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "463",
+    "APELLIDOS_NOMBRES": "Briceño Llaury, Yaneli",
+    "SEXO": "Femenino",
+    "DNI": "70251150",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "464",
+    "APELLIDOS_NOMBRES": "Urtecho de Valencia, María",
+    "SEXO": "Femenino",
+    "DNI": "19572077",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "465",
+    "APELLIDOS_NOMBRES": "Ruíz Mauricio, Rosa",
+    "SEXO": "Femenino",
+    "DNI": "41838359",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "466",
+    "APELLIDOS_NOMBRES": "Rodríguez Lujan, Deyner Danilo",
+    "SEXO": "Masculino",
+    "DNI": "46729378",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "467",
+    "APELLIDOS_NOMBRES": "Guzmán Blas, Iban Javier",
+    "SEXO": "Masculino",
+    "DNI": "18090843",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "468",
+    "APELLIDOS_NOMBRES": "Juarez Cardenas, Jhony Jersson",
+    "SEXO": "Masculino",
+    "DNI": "46868240",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "469",
+    "APELLIDOS_NOMBRES": "Fernandez Vidal, Diego Francisco",
+    "SEXO": "Masculino",
+    "DNI": "48020986",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "470",
+    "APELLIDOS_NOMBRES": "Gines Contreras, Raúl Alfredo",
+    "SEXO": "Masculino",
+    "DNI": "46538235",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "471",
+    "APELLIDOS_NOMBRES": "Iparraguirre Castillo, Antonio",
+    "SEXO": "Masculino",
+    "DNI": "70224246",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "472",
+    "APELLIDOS_NOMBRES": "Avalos Briceño, Elmer Dniel",
+    "SEXO": "Masculino",
+    "DNI": "41895844",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "473",
+    "APELLIDOS_NOMBRES": "Castro Guerrero, Mery Emperatriz",
+    "SEXO": "Femenino",
+    "DNI": "17884264",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "474",
+    "APELLIDOS_NOMBRES": "Carranza Villalobos, Magaly",
+    "SEXO": "Femenino",
+    "DNI": "19561931",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "475",
+    "APELLIDOS_NOMBRES": "Castillo Reyes, Yovana",
+    "SEXO": "Femenino",
+    "DNI": "71493049",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "476",
+    "APELLIDOS_NOMBRES": "Acuña Morales, Gracia Lucia del Pilar",
+    "SEXO": "Femenino",
+    "DNI": "46122160",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "477",
+    "APELLIDOS_NOMBRES": "Villanueva García, Basilio",
+    "SEXO": "Masculino",
+    "DNI": "19539592",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "478",
+    "APELLIDOS_NOMBRES": "Quispe Vigo, José",
+    "SEXO": "Masculino",
+    "DNI": "19560798",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "479",
+    "APELLIDOS_NOMBRES": "Saavedra Laguna, Roberto",
+    "SEXO": "Masculino",
+    "DNI": "44732327",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "480",
+    "APELLIDOS_NOMBRES": "Castillo Rodas, Walter",
+    "SEXO": "Masculino",
+    "DNI": "17881271",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "481",
+    "APELLIDOS_NOMBRES": "Torres Enriquez, Tania",
+    "SEXO": "Femenino",
+    "DNI": "47792841",
+    "EMPRESA": "Universidad Nacional Pedro Ruíz Gallo",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "482",
+    "APELLIDOS_NOMBRES": "Galarreta Sánchez, Treyci Manyeli",
+    "SEXO": "Femenino",
+    "DNI": "47044438",
+    "EMPRESA": "Universidad Nacional Pedro Ruíz Gallo",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "483",
+    "APELLIDOS_NOMBRES": "Loly Rojas, Yari Giancarlos",
+    "SEXO": "Masculino",
+    "DNI": "43981131",
+    "EMPRESA": "Distribuidora Alimentos del Valle S.A.C.",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "484",
+    "APELLIDOS_NOMBRES": "Acevedo Esquivel, Eduardo",
+    "SEXO": "Masculino",
+    "DNI": "46938757",
+    "EMPRESA": "Distribuidora Alimentos del Valle S.A.C.",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "485",
+    "APELLIDOS_NOMBRES": "Garcia Agreda, Oscar Jaime",
+    "SEXO": "Masculino",
+    "DNI": "7268015",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "486",
+    "APELLIDOS_NOMBRES": "Rodríguez Valle, Fiorella Elizabeth",
+    "SEXO": "Femenino",
+    "DNI": "47659777",
+    "EMPRESA": "Universidad Nacional Pedro Ruíz Gallo",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "487",
+    "APELLIDOS_NOMBRES": "Castillo Radas, Walter",
+    "SEXO": "Masculino",
+    "DNI": "17881271",
+    "EMPRESA": "Cooperativa Rondesa - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "488",
+    "APELLIDOS_NOMBRES": "Vazallo Peña, Flore",
+    "SEXO": "Masculino",
+    "DNI": "19529515",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "489",
+    "APELLIDOS_NOMBRES": "Arteaga Vega, Jorge Ivan",
+    "SEXO": "Masculino",
+    "DNI": "47120844",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "490",
+    "APELLIDOS_NOMBRES": "Bermudez Gomez, Henrry",
+    "SEXO": "Masculino",
+    "DNI": "43836856",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "491",
+    "APELLIDOS_NOMBRES": "Collado Ramirez, Carmen Rosa",
+    "SEXO": "Femenino",
+    "DNI": "80604182",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "492",
+    "APELLIDOS_NOMBRES": "Morales Chacón, Ascenciano Nila",
+    "SEXO": "Femenino",
+    "DNI": "19572572",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "493",
+    "APELLIDOS_NOMBRES": "Paredes Ledesma, Manuel Santos",
+    "SEXO": "Masculino",
+    "DNI": "19562492",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "494",
+    "APELLIDOS_NOMBRES": "Valdivia Reyes, Santos Walter",
+    "SEXO": "Masculino",
+    "DNI": "71664619",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "495",
+    "APELLIDOS_NOMBRES": "Jara Araujo, Ana Fiorela",
+    "SEXO": "Femenino",
+    "DNI": "75335352",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "496",
+    "APELLIDOS_NOMBRES": "Araujo Chacón, Rosa María",
+    "SEXO": "Femenino",
+    "DNI": "73026481",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "497",
+    "APELLIDOS_NOMBRES": "Marquina Sánchez, Gloria Noemy",
+    "SEXO": "Femenino",
+    "DNI": "47697427",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "498",
+    "APELLIDOS_NOMBRES": "Alvites Rojas, Luz Clarita",
+    "SEXO": "Femenino",
+    "DNI": "70044439",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "499",
+    "APELLIDOS_NOMBRES": "Urbina Guerrero, José",
+    "SEXO": "Masculino",
+    "DNI": "6797314",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "500",
+    "APELLIDOS_NOMBRES": "Ledesma Tongonbolo, María",
+    "SEXO": "Femenino",
+    "DNI": "40472917",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "501",
+    "APELLIDOS_NOMBRES": "Flores Caastillo, Juan Anibal",
+    "SEXO": "Masculino",
+    "DNI": "19558567",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "502",
+    "APELLIDOS_NOMBRES": "Pizán Lavado, Vanessa Katherine",
+    "SEXO": "Femenino",
+    "DNI": "43684326",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "503",
+    "APELLIDOS_NOMBRES": "Lavado Paredes, Vanessa",
+    "SEXO": "Femenino",
+    "DNI": "45516322",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "504",
+    "APELLIDOS_NOMBRES": "Flores Arteaga, Mirian Janet",
+    "SEXO": "Femenino",
+    "DNI": "73139158",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "505",
+    "APELLIDOS_NOMBRES": "Rojas Muñoz, Robbie",
+    "SEXO": "Masculino",
+    "DNI": "19528076",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "506",
+    "APELLIDOS_NOMBRES": "Zelaya Vega, Juan Arturo",
+    "SEXO": "Masculino",
+    "DNI": "19524293",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "507",
+    "APELLIDOS_NOMBRES": "Armas Sánchez, Ana María",
+    "SEXO": "Femenino",
+    "DNI": "7876694",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "508",
+    "APELLIDOS_NOMBRES": "Flores Carrión, Areli",
+    "SEXO": "Femenino",
+    "DNI": "76424779",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "509",
+    "APELLIDOS_NOMBRES": "Cruz Faustino, Juan",
+    "SEXO": "Masculino",
+    "DNI": "40498389",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Capacitación en Derechos Fundamentales",
+    "FECHA": "24/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "510",
+    "APELLIDOS_NOMBRES": "Villanueva Sánchez, Jenny",
+    "SEXO": "Femenino",
+    "DNI": "73098158",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "511",
+    "APELLIDOS_NOMBRES": "Moreno Villanueva, Maritza",
+    "SEXO": "Femenino",
+    "DNI": "47292811",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "512",
+    "APELLIDOS_NOMBRES": "Flores Olaya, Fany Janet",
+    "SEXO": "Femenino",
+    "DNI": "48122162",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "513",
+    "APELLIDOS_NOMBRES": "Férnandez Cosme, kelly Diana",
+    "SEXO": "Femenino",
+    "DNI": "73085769",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "514",
+    "APELLIDOS_NOMBRES": "Ruíz Ramos, Noemi",
+    "SEXO": "Femenino",
+    "DNI": "70799920",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "515",
+    "APELLIDOS_NOMBRES": "Valderrama García, Luz Odalia",
+    "SEXO": "Femenino",
+    "DNI": "71487804",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "516",
+    "APELLIDOS_NOMBRES": "Polo Mauricio, Carmen",
+    "SEXO": "Femenino",
+    "DNI": "70857113",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "517",
+    "APELLIDOS_NOMBRES": "Torres Honorio, Flor Herelinda",
+    "SEXO": "Femenino",
+    "DNI": "70541163",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "518",
+    "APELLIDOS_NOMBRES": "Contreras Marquina, Mariela Adeli",
+    "SEXO": "Femenino",
+    "DNI": "47533418",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "519",
+    "APELLIDOS_NOMBRES": "Cabrera Peña, María Elena",
+    "SEXO": "Femenino",
+    "DNI": "73102309",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "520",
+    "APELLIDOS_NOMBRES": "Peña Baca, Cinthia Yanira",
+    "SEXO": "Femenino",
+    "DNI": "72753463",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "521",
+    "APELLIDOS_NOMBRES": "Siccha Reyes, Vilma Maritza",
+    "SEXO": "Femenino",
+    "DNI": "73094568",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "522",
+    "APELLIDOS_NOMBRES": "Briceño Caipo, Jhordan",
+    "SEXO": "Masculino",
+    "DNI": "77349523",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "523",
+    "APELLIDOS_NOMBRES": "Marquina Monzón, Philip Mark",
+    "SEXO": "Masculino",
+    "DNI": "76634731",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "524",
+    "APELLIDOS_NOMBRES": "Flores Castillo, Juan Anibal",
+    "SEXO": "Masculino",
+    "DNI": "19558567",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "525",
+    "APELLIDOS_NOMBRES": "Rodríguez Ramirez, Armengol",
+    "SEXO": "Masculino",
+    "DNI": "19682801",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "526",
+    "APELLIDOS_NOMBRES": "Rodríguez Castillo, Omayra",
+    "SEXO": "Femenino",
+    "DNI": "72790448",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "527",
+    "APELLIDOS_NOMBRES": "Daga Otiniano, Loida",
+    "SEXO": "Femenino",
+    "DNI": "73082912",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "528",
+    "APELLIDOS_NOMBRES": "Mauricio Ramos, Domingo",
+    "SEXO": "Masculino",
+    "DNI": "19550811",
+    "EMPRESA": "Agencia Agraria S.C.",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "529",
+    "APELLIDOS_NOMBRES": "Catillo Rodríguez, Manuel",
+    "SEXO": "Masculino",
+    "DNI": "18132877",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "530",
+    "APELLIDOS_NOMBRES": "Simón Quispe, Hermelinda",
+    "SEXO": "Femenino",
+    "DNI": "46519065",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "531",
+    "APELLIDOS_NOMBRES": "García Alvarado, Anita María",
+    "SEXO": "Femenino",
+    "DNI": "46262695",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "532",
+    "APELLIDOS_NOMBRES": "Ruíz Gonzales, Lady Judith",
+    "SEXO": "Femenino",
+    "DNI": "72904056",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "533",
+    "APELLIDOS_NOMBRES": "Polo Calderón, Ernesto",
+    "SEXO": "Masculino",
+    "DNI": "77217220",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "534",
+    "APELLIDOS_NOMBRES": "Paredes Ruíz, Filomon Isaias",
+    "SEXO": "Masculino",
+    "DNI": "70556050",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "535",
+    "APELLIDOS_NOMBRES": "Contreras Vera, Alexander",
+    "SEXO": "Masculino",
+    "DNI": "45296083",
+    "EMPRESA": "Dismar E.I.R.L.",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "536",
+    "APELLIDOS_NOMBRES": "Chacón Mendoza, Violeta Yacely",
+    "SEXO": "Femenino",
+    "DNI": "74026902",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "537",
+    "APELLIDOS_NOMBRES": "Quijano Reyes, Neimer",
+    "SEXO": "Masculino",
+    "DNI": "48107616",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "538",
+    "APELLIDOS_NOMBRES": "Polo Ruíz, Elder",
+    "SEXO": "Masculino",
+    "DNI": "71623163",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "539",
+    "APELLIDOS_NOMBRES": "Otiniano Raymundo, Javier Jorge",
+    "SEXO": "Masculino",
+    "DNI": "42344558",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "540",
+    "APELLIDOS_NOMBRES": "Pastor Cueva, Alfredo",
+    "SEXO": "Masculino",
+    "DNI": "44938736",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "541",
+    "APELLIDOS_NOMBRES": "Gonzales Fernandez, Henry",
+    "SEXO": "Masculino",
+    "DNI": "47821465",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "542",
+    "APELLIDOS_NOMBRES": "Peña Ruíz, Carmelo",
+    "SEXO": "Masculino",
+    "DNI": "47222360",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "543",
+    "APELLIDOS_NOMBRES": "Marquina Acosta, Hugo",
+    "SEXO": "Masculino",
+    "DNI": "71657705",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "544",
+    "APELLIDOS_NOMBRES": "Fabián Chávez, Janeth Mariela",
+    "SEXO": "Femenino",
+    "DNI": "72768993",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "545",
+    "APELLIDOS_NOMBRES": "iparraguirre Castillo, Antonio",
+    "SEXO": "Masculino",
+    "DNI": "72581046",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "546",
+    "APELLIDOS_NOMBRES": "Chacón Sandoval, Soriano Gilberto",
+    "SEXO": "Masculino",
+    "DNI": "73662145",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "547",
+    "APELLIDOS_NOMBRES": "Asunción Miñano, Diana",
+    "SEXO": "Femenino",
+    "DNI": "73710361",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "548",
+    "APELLIDOS_NOMBRES": "Chacón Layza, Mirian",
+    "SEXO": "Femenino",
+    "DNI": "72002367",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "549",
+    "APELLIDOS_NOMBRES": "Lara Rondo, Lucia Nelva",
+    "SEXO": "Femenino",
+    "DNI": "70555790",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "550",
+    "APELLIDOS_NOMBRES": "Calderón Navis, Ulianova",
+    "SEXO": "Femenino",
+    "DNI": "48049676",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "551",
+    "APELLIDOS_NOMBRES": "Ramos Pacori, José",
+    "SEXO": "Masculino",
+    "DNI": "31661952",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "552",
+    "APELLIDOS_NOMBRES": "Cruz Villanueva, Silvia",
+    "SEXO": "Femenino",
+    "DNI": "41020033",
+    "EMPRESA": "Empresa Constructora",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "553",
+    "APELLIDOS_NOMBRES": "Yupanqui Alva, Glorinda Gloria",
+    "SEXO": "Femenino",
+    "DNI": "47169010",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "554",
+    "APELLIDOS_NOMBRES": "Paredes Luís, Lider Joel",
+    "SEXO": "Masculino",
+    "DNI": "43325290",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "555",
+    "APELLIDOS_NOMBRES": "Mallqui Maguina, Edinson",
+    "SEXO": "Masculino",
+    "DNI": "46904978",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "556",
+    "APELLIDOS_NOMBRES": "Condemayta Huanco, Edgar",
+    "SEXO": "Masculino",
+    "DNI": "40725302",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "557",
+    "APELLIDOS_NOMBRES": "Sandoval Reyes, Jair",
+    "SEXO": "Masculino",
+    "DNI": "44417219",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "558",
+    "APELLIDOS_NOMBRES": "Pérez Aranda, Lucy Lisbeth",
+    "SEXO": "Femenino",
+    "DNI": "46841702",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "559",
+    "APELLIDOS_NOMBRES": "Villalobos Marquina, Magaly",
+    "SEXO": "Femenino",
+    "DNI": "71664207",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "560",
+    "APELLIDOS_NOMBRES": "Sare Pizán, Mirian Elvia",
+    "SEXO": "Femenino",
+    "DNI": "77271016",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "561",
+    "APELLIDOS_NOMBRES": "Asunción Acevedo, Jovita",
+    "SEXO": "Femenino",
+    "DNI": "71831286",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "562",
+    "APELLIDOS_NOMBRES": "Rodríguez Rodríguez, Carmen",
+    "SEXO": "Femenino",
+    "DNI": "48616983",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "563",
+    "APELLIDOS_NOMBRES": "Araujo Polo, Maritza",
+    "SEXO": "Femenino",
+    "DNI": "73096406",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "564",
+    "APELLIDOS_NOMBRES": "Flores Valderrama, Flor",
+    "SEXO": "Femenino",
+    "DNI": "73080451",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "565",
+    "APELLIDOS_NOMBRES": "Azañero Ledesma, Fiorela Nathaly",
+    "SEXO": "Femenino",
+    "DNI": "73052867",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "566",
+    "APELLIDOS_NOMBRES": "Chacón Polo, Luz María",
+    "SEXO": "Femenino",
+    "DNI": "48109487",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "567",
+    "APELLIDOS_NOMBRES": "lara Rondo, Lucia Nelva",
+    "SEXO": "Femenino",
+    "DNI": "74882603",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "568",
+    "APELLIDOS_NOMBRES": "Jimenez Amador, Lesmis Candelario",
+    "SEXO": "Masculino",
+    "DNI": "73059760",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "569",
+    "APELLIDOS_NOMBRES": "Bartolo Jimenez, Florentino Olmedo",
+    "SEXO": "Masculino",
+    "DNI": "73040305",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "570",
+    "APELLIDOS_NOMBRES": "Delgado Cruzado, Ursula",
+    "SEXO": "Femenino",
+    "DNI": "48265316",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "571",
+    "APELLIDOS_NOMBRES": "Contreras Moya, Kely",
+    "SEXO": "Femenino",
+    "DNI": "47696824",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "572",
+    "APELLIDOS_NOMBRES": "Flores Polo, Claudia",
+    "SEXO": "Femenino",
+    "DNI": "70045607",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "573",
+    "APELLIDOS_NOMBRES": "Alayo Rojas, Alfonso",
+    "SEXO": "Masculino",
+    "DNI": "45902565",
+    "EMPRESA": "Universidad Nacional de Trujillo",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "574",
+    "APELLIDOS_NOMBRES": "Villanueva Esquivel, Gregorio",
+    "SEXO": "Masculino",
+    "DNI": "19531835",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "575",
+    "APELLIDOS_NOMBRES": "Cisneros Silva, Carmen Rosa",
+    "SEXO": "Femenino",
+    "DNI": "19571694",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "576",
+    "APELLIDOS_NOMBRES": "Chacón Agreda,Nelida",
+    "SEXO": "Femenino",
+    "DNI": "44288077",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "577",
+    "APELLIDOS_NOMBRES": "Grados Rodríguez, Erickson",
+    "SEXO": "Masculino",
+    "DNI": "42484844",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "578",
+    "APELLIDOS_NOMBRES": "Flores Castillo, Juan Anibal",
+    "SEXO": "Masculino",
+    "DNI": "19558567",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "579",
+    "APELLIDOS_NOMBRES": "Quispe Sánchez, Edward Luís",
+    "SEXO": "Masculino",
+    "DNI": "70045612",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "580",
+    "APELLIDOS_NOMBRES": "Tirado Rodríguez, Ruben Adolfo",
+    "SEXO": "Masculino",
+    "DNI": "18213714",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "581",
+    "APELLIDOS_NOMBRES": "Anacleto Arce, Giovanna Natalia",
+    "SEXO": "Femenino",
+    "DNI": "45894055",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "582",
+    "APELLIDOS_NOMBRES": "Gonzales Cortez, José",
+    "SEXO": "Masculino",
+    "DNI": "71041626",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "583",
+    "APELLIDOS_NOMBRES": "Vergara Gonzales, Miguel Angel",
+    "SEXO": "Masculino",
+    "DNI": "44639504",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "584",
+    "APELLIDOS_NOMBRES": "Baltazar Arqueros, Javier Emilio",
+    "SEXO": "Masculino",
+    "DNI": "40508963",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "585",
+    "APELLIDOS_NOMBRES": "Mondoñedo López, Olinda",
+    "SEXO": "Femenino",
+    "DNI": "70671903",
+    "EMPRESA": "Computronic - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "586",
+    "APELLIDOS_NOMBRES": "Rosales Flores, Olinda",
+    "SEXO": "Femenino",
+    "DNI": "19520191",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "587",
+    "APELLIDOS_NOMBRES": "Campos Reyes, Alis Bethyna",
+    "SEXO": "Femenino",
+    "DNI": "44988852",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "588",
+    "APELLIDOS_NOMBRES": "Campos Ríos, Juana Janett",
+    "SEXO": "Femenino",
+    "DNI": "19562324",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "589",
+    "APELLIDOS_NOMBRES": "Santillan Laguna, Joel Daniel",
+    "SEXO": "Masculino",
+    "DNI": "72004180",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "590",
+    "APELLIDOS_NOMBRES": "Santillan Ríos, Santos Ines",
+    "SEXO": "Femenino",
+    "DNI": "46724161",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "591",
+    "APELLIDOS_NOMBRES": "Rodríguez Sandoval, Vanesa",
+    "SEXO": "Femenino",
+    "DNI": "73324731",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "592",
+    "APELLIDOS_NOMBRES": "Quispe Tamayo, Milagros",
+    "SEXO": "Femenino",
+    "DNI": "70045407",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "593",
+    "APELLIDOS_NOMBRES": "Ríos Llajaruna, Esther",
+    "SEXO": "Femenino",
+    "DNI": "19562160",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "594",
+    "APELLIDOS_NOMBRES": "Vásquez Pizán, Carmen Rosmery",
+    "SEXO": "Femenino",
+    "DNI": "42396729",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "595",
+    "APELLIDOS_NOMBRES": "Briceño Lezama, Adriana",
+    "SEXO": "Femenino",
+    "DNI": "47304879",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "596",
+    "APELLIDOS_NOMBRES": "Arteaga Huertas, Yessenia",
+    "SEXO": "Femenino",
+    "DNI": "42595071",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "597",
+    "APELLIDOS_NOMBRES": "Acevedo Asunción, Leoncio",
+    "SEXO": "Masculino",
+    "DNI": "42046696",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "598",
+    "APELLIDOS_NOMBRES": "Paredes Contreras, Gonzalo Ernesto",
+    "SEXO": "Masculino",
+    "DNI": "40494197",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "599",
+    "APELLIDOS_NOMBRES": "Saldaña Flores, Marlon Paolo",
+    "SEXO": "Masculino",
+    "DNI": "46183562",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "600",
+    "APELLIDOS_NOMBRES": "Catay Guerrero, José Alfredo",
+    "SEXO": "Masculino",
+    "DNI": "41737158",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "601",
+    "APELLIDOS_NOMBRES": "Mauricio Ruíz, Leonidas",
+    "SEXO": "Masculino",
+    "DNI": "44208013",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "602",
+    "APELLIDOS_NOMBRES": "Vilchez Ríos, Rosario",
+    "SEXO": "Femenino",
+    "DNI": "42619818",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "603",
+    "APELLIDOS_NOMBRES": "Sifuentes Flores, Nestor",
+    "SEXO": "Masculino",
+    "DNI": "40841007",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "604",
+    "APELLIDOS_NOMBRES": "Cuevas Morillo, Francisco",
+    "SEXO": "Masculino",
+    "DNI": "19522658",
+    "EMPRESA": "Instituto de Educación Tecnológico publico - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "605",
+    "APELLIDOS_NOMBRES": "Sifuentes Romero, Loida",
+    "SEXO": "Femenino",
+    "DNI": "73598523",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "606",
+    "APELLIDOS_NOMBRES": "Polo Paredes, Judith Jannina",
+    "SEXO": "Femenino",
+    "DNI": "70235038",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "607",
+    "APELLIDOS_NOMBRES": "Marcelo Fernandez, Lilian Edith",
+    "SEXO": "Femenino",
+    "DNI": "71493167",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "608",
+    "APELLIDOS_NOMBRES": "Cueva de la Cruz, Hermelinda",
+    "SEXO": "Femenino",
+    "DNI": "41057950",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "609",
+    "APELLIDOS_NOMBRES": "Polo Paredes, Martha Esther",
+    "SEXO": "Femenino",
+    "DNI": "70235037",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "610",
+    "APELLIDOS_NOMBRES": "Peña Ruíz, Carmelo",
+    "SEXO": "Masculino",
+    "DNI": "47222360",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "611",
+    "APELLIDOS_NOMBRES": "Villanueva Juarez, Verónnica",
+    "SEXO": "Femenino",
+    "DNI": "73080299",
+    "EMPRESA": "Universidad César Vallejo",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "612",
+    "APELLIDOS_NOMBRES": "Sandoval Reyes, Jair",
+    "SEXO": "Masculino",
+    "DNI": "44417219",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "613",
+    "APELLIDOS_NOMBRES": "Altamirano Ledesma, Miriam Bethel",
+    "SEXO": "Femenino",
+    "DNI": "70224234",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "614",
+    "APELLIDOS_NOMBRES": "Paulo Enriquez, Senaida Deisi",
+    "SEXO": "Femenino",
+    "DNI": "48538954",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "615",
+    "APELLIDOS_NOMBRES": "Alfaro Bejarano, Nerida",
+    "SEXO": "Femenino",
+    "DNI": "43054365",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "616",
+    "APELLIDOS_NOMBRES": "García Llaury, Sara",
+    "SEXO": "Femenino",
+    "DNI": "43843232",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "617",
+    "APELLIDOS_NOMBRES": "Paredes Altamirano, Erika",
+    "SEXO": "Femenino",
+    "DNI": "72931025",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "618",
+    "APELLIDOS_NOMBRES": "Espire Rodríguez, Janely",
+    "SEXO": "Femenino",
+    "DNI": "42328010",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "619",
+    "APELLIDOS_NOMBRES": "Avalos Briceño, Elmer Dniel",
+    "SEXO": "Masculino",
+    "DNI": "41895844",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "620",
+    "APELLIDOS_NOMBRES": "Lujan Beltran, Rosa Maribel",
+    "SEXO": "Femenino",
+    "DNI": "19696849",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "621",
+    "APELLIDOS_NOMBRES": "Valderrama Campos, Yasenia",
+    "SEXO": "Femenino",
+    "DNI": "48298786",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "622",
+    "APELLIDOS_NOMBRES": "Sánchez Flores, Daysi Yonamiri",
+    "SEXO": "Femenino",
+    "DNI": "41488582",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "623",
+    "APELLIDOS_NOMBRES": "Bautista Asunción, Juliana",
+    "SEXO": "Femenino",
+    "DNI": "46506639",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "624",
+    "APELLIDOS_NOMBRES": "Grados Cruz, Carmen",
+    "SEXO": "Femenino",
+    "DNI": "6600750",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "625",
+    "APELLIDOS_NOMBRES": "Cuba Calderón, Eufemia",
+    "SEXO": "Femenino",
+    "DNI": "44101159",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "626",
+    "APELLIDOS_NOMBRES": "Asto García, Sonia",
+    "SEXO": "Femenino",
+    "DNI": "19571334",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "627",
+    "APELLIDOS_NOMBRES": "Baltazar Arqueros, Javier Emilio",
+    "SEXO": "Masculino",
+    "DNI": "40508963",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "628",
+    "APELLIDOS_NOMBRES": "Lavado Paredes, Vanessa",
+    "SEXO": "Femenino",
+    "DNI": "45516322",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "629",
+    "APELLIDOS_NOMBRES": "Rodríguez Avila, Regina Isabel",
+    "SEXO": "Femenino",
+    "DNI": "44887462",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "630",
+    "APELLIDOS_NOMBRES": "Catay Guerrero, José Alfredo",
+    "SEXO": "Masculino",
+    "DNI": "41337158",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "631",
+    "APELLIDOS_NOMBRES": "Villanueva Rojas, Karen Elizabeth",
+    "SEXO": "Femenino",
+    "DNI": "76073842",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "632",
+    "APELLIDOS_NOMBRES": "Herrera Mauricio, Enma",
+    "SEXO": "Femenino",
+    "DNI": "40083395",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "633",
+    "APELLIDOS_NOMBRES": "Ticlia Monzon, Wilfredo",
+    "SEXO": "Masculino",
+    "DNI": "48225681",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "634",
+    "APELLIDOS_NOMBRES": "Ballena Doga, Nellida Yolanda",
+    "SEXO": "Femenino",
+    "DNI": "46972502",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "635",
+    "APELLIDOS_NOMBRES": "Villanueva Reyes, Hilda",
+    "SEXO": "Femenino",
+    "DNI": "45822309",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "636",
+    "APELLIDOS_NOMBRES": "Ríos Iparraguirre, Yuvixa Elizabeth",
+    "SEXO": "Femenino",
+    "DNI": "77507677",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "637",
+    "APELLIDOS_NOMBRES": "Samana Carbajal, Elvia Rocío",
+    "SEXO": "Femenino",
+    "DNI": "70219308",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "638",
+    "APELLIDOS_NOMBRES": "Sifuentes Romero, Loida",
+    "SEXO": "Femenino",
+    "DNI": "73598523",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "639",
+    "APELLIDOS_NOMBRES": "Gamboa García, Plantila",
+    "SEXO": "Masculino",
+    "DNI": "19558743",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "640",
+    "APELLIDOS_NOMBRES": "Villanueva Esquivel, Gregorio",
+    "SEXO": "Masculino",
+    "DNI": "19531835",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "641",
+    "APELLIDOS_NOMBRES": "Pizán Lavado, Vanessa Katherine",
+    "SEXO": "Femenino",
+    "DNI": "43684326",
+    "EMPRESA": "Municipalidad Provincial Sánchez Carrión",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "642",
+    "APELLIDOS_NOMBRES": "Avalos Briceño, Elmer Dniel",
+    "SEXO": "Masculino",
+    "DNI": "41895844",
+    "EMPRESA": "CETPRO - Huamachuco",
+    "TEMA": "Seguridad y Salud en el Trabajo",
+    "FECHA": "25/08/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "643",
+    "APELLIDOS_NOMBRES": "Villarreal Aburto, Betsy",
+    "SEXO": "Femenino",
+    "DNI": "44077619",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "644",
+    "APELLIDOS_NOMBRES": "Castillo Rosas, Jhonatan",
+    "SEXO": "Masculino",
+    "DNI": "47214261",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "645",
+    "APELLIDOS_NOMBRES": "Rodríguez Morales, Anderson Joel",
+    "SEXO": "Masculino",
+    "DNI": "70155645",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "646",
+    "APELLIDOS_NOMBRES": "Romero Chapoñan, Manuel Alejandro",
+    "SEXO": "Masculino",
+    "DNI": "16718999",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "647",
+    "APELLIDOS_NOMBRES": "Llajaruna Yupanqui, Wiliam Felix",
+    "SEXO": "Masculino",
+    "DNI": "41008341",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "648",
+    "APELLIDOS_NOMBRES": "Lujan Castillo, Pedro",
+    "SEXO": "Masculino",
+    "DNI": "43557260",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "649",
+    "APELLIDOS_NOMBRES": "León Angulo, Jhoel",
+    "SEXO": "Masculino",
+    "DNI": "70802527",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "650",
+    "APELLIDOS_NOMBRES": "García Santillan, Fernando",
+    "SEXO": "Masculino",
+    "DNI": "5414349",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "651",
+    "APELLIDOS_NOMBRES": "Rodríguez Juarez, Edgar",
+    "SEXO": "Masculino",
+    "DNI": "18214513",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "652",
+    "APELLIDOS_NOMBRES": "Simón Urquiza, Wilder Lannder",
+    "SEXO": "Masculino",
+    "DNI": "45750096",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "653",
+    "APELLIDOS_NOMBRES": "Carhuajulca Pérez, Yordano Eduardo",
+    "SEXO": "Masculino",
+    "DNI": "47265319",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "654",
+    "APELLIDOS_NOMBRES": "Burga Castro, Cely Jesús",
+    "SEXO": "Femenino",
+    "DNI": "16694681",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "655",
+    "APELLIDOS_NOMBRES": "Castro Cruz, Tania Isabelle",
+    "SEXO": "Femenino",
+    "DNI": "43404527",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "656",
+    "APELLIDOS_NOMBRES": "Navarrete Gonzalez, Yajaira Denisse",
+    "SEXO": "Femenino",
+    "DNI": "71239822",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "657",
+    "APELLIDOS_NOMBRES": "Botton Aching, Karin Yessenia",
+    "SEXO": "Femenino",
+    "DNI": "40312358",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "658",
+    "APELLIDOS_NOMBRES": "Albán Atarana, Dulissa Ysabel",
+    "SEXO": "Femenino",
+    "DNI": "40962356",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "659",
+    "APELLIDOS_NOMBRES": "Ortiz Chávez, Carlos Alberto",
+    "SEXO": "Masculino",
+    "DNI": "18157608",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "660",
+    "APELLIDOS_NOMBRES": "Verástegui Pérez, Jimmy",
+    "SEXO": "Masculino",
+    "DNI": "41788600",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "661",
+    "APELLIDOS_NOMBRES": "Carhuajulca Vásquez, Jaime",
+    "SEXO": "Masculino",
+    "DNI": "16639146",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "662",
+    "APELLIDOS_NOMBRES": "Albán Nieves, Ricardo",
+    "SEXO": "Masculino",
+    "DNI": "16499510",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "663",
+    "APELLIDOS_NOMBRES": "Cabrera Gonzalez, jorge Arturo",
+    "SEXO": "Masculino",
+    "DNI": "45821926",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "664",
+    "APELLIDOS_NOMBRES": "Guillén López, Lizbeth",
+    "SEXO": "Masculino",
+    "DNI": "71237904",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "665",
+    "APELLIDOS_NOMBRES": "Cipriano Chávez, Katia",
+    "SEXO": "Femenino",
+    "DNI": "70018658",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "666",
+    "APELLIDOS_NOMBRES": "Martos Acevedo, José",
+    "SEXO": "Masculino",
+    "DNI": "43568786",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "667",
+    "APELLIDOS_NOMBRES": "Quilcate Carranza, Manuel",
+    "SEXO": "Masculino",
+    "DNI": "17818116",
+    "EMPRESA": "Ri - Car Multiservicios",
+    "TEMA": "Implementación de la Ley Nº 29783: Ley de Seguridad Y Salud en el Trabajo",
+    "FECHA": "02/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "668",
+    "APELLIDOS_NOMBRES": "ramos Pacori, José",
+    "SEXO": "Femenino",
+    "DNI": "43224362",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "669",
+    "APELLIDOS_NOMBRES": "Pereda Cotrina, Wilfredo",
+    "SEXO": "Masculino",
+    "DNI": "18069826",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "670",
+    "APELLIDOS_NOMBRES": "Peláez Albites, Jonathan",
+    "SEXO": "Masculino",
+    "DNI": "47559823",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "671",
+    "APELLIDOS_NOMBRES": "López Bieberach, Franz",
+    "SEXO": "Masculino",
+    "DNI": "41554335",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "672",
+    "APELLIDOS_NOMBRES": "Balcazar Villa, Diana",
+    "SEXO": "Femenino",
+    "DNI": "45867570",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "673",
+    "APELLIDOS_NOMBRES": "Blas Salavarria, carolina",
+    "SEXO": "Femenino",
+    "DNI": "46675866",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "674",
+    "APELLIDOS_NOMBRES": "Orezzoli Canales, Luisa",
+    "SEXO": "Femenino",
+    "DNI": "46083794",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "675",
+    "APELLIDOS_NOMBRES": "Sánchez Ruíz, Marleny",
+    "SEXO": "Femenino",
+    "DNI": "44203500",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "676",
+    "APELLIDOS_NOMBRES": "Viloche Tello, Grace",
+    "SEXO": "Femenino",
+    "DNI": "43140894",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "677",
+    "APELLIDOS_NOMBRES": "Oruna Castro, Liset",
+    "SEXO": "Femenino",
+    "DNI": "43156271",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "678",
+    "APELLIDOS_NOMBRES": "Huamán Sánchez, Alfredo",
+    "SEXO": "Masculino",
+    "DNI": "44095422",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "679",
+    "APELLIDOS_NOMBRES": "Ríos Torres, Antonio",
+    "SEXO": "Masculino",
+    "DNI": "18265523",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "680",
+    "APELLIDOS_NOMBRES": "Revilla Aguirre, Henrry Alejandro",
+    "SEXO": "Masculino",
+    "DNI": "43297205",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "681",
+    "APELLIDOS_NOMBRES": "Flores Torres, Tito",
+    "SEXO": "Masculino",
+    "DNI": "16733259",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "682",
+    "APELLIDOS_NOMBRES": "Poser Torres, Luís",
+    "SEXO": "Masculino",
+    "DNI": "32110317",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "683",
+    "APELLIDOS_NOMBRES": "Casusol Córdova, Carlos",
+    "SEXO": "Masculino",
+    "DNI": "42351073",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "684",
+    "APELLIDOS_NOMBRES": "Perales Chanamé, Carlos",
+    "SEXO": "Masculino",
+    "DNI": "17438799",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "685",
+    "APELLIDOS_NOMBRES": "Pinedo Ordoñez, Dixon",
+    "SEXO": "Masculino",
+    "DNI": "40712146",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "686",
+    "APELLIDOS_NOMBRES": "Sabana Padilla, Jaime",
+    "SEXO": "Masculino",
+    "DNI": "40112629",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "687",
+    "APELLIDOS_NOMBRES": "Llacos Villar, Roberto",
+    "SEXO": "Masculino",
+    "DNI": "18167696",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "688",
+    "APELLIDOS_NOMBRES": "Narro Uriol, Sidy",
+    "SEXO": "Femenino",
+    "DNI": "45884501",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "689",
+    "APELLIDOS_NOMBRES": "Joy Plasencia, Cristian",
+    "SEXO": "Masculino",
+    "DNI": "46017445",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "690",
+    "APELLIDOS_NOMBRES": "Arteaga Reyes, Fernando",
+    "SEXO": "Masculino",
+    "DNI": "40351609",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "691",
+    "APELLIDOS_NOMBRES": "Blanco Muñoz, Goin",
+    "SEXO": "Masculino",
+    "DNI": "72903445",
+    "EMPRESA": "Agropecuaria Chimú",
+    "TEMA": "Sistema de Fiscalización Laboral y la Sunafil",
+    "FECHA": "21/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "692",
+    "APELLIDOS_NOMBRES": "Vela Valdivia, Víctor Hugo",
+    "SEXO": "Masculino",
+    "DNI": "18021766",
+    "EMPRESA": "Seyvar S.A.",
+    "TEMA": "La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ",
+    "FECHA": "29/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "693",
+    "APELLIDOS_NOMBRES": "Guzman Blas, Jorge Luís",
+    "SEXO": "Masculino",
+    "DNI": "18176578",
+    "EMPRESA": "Municipalidad Distrital de Paiján",
+    "TEMA": "La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ",
+    "FECHA": "29/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "694",
+    "APELLIDOS_NOMBRES": "Aranguri Valuer, Tatiana",
+    "SEXO": "Femenino",
+    "DNI": "73939411",
+    "EMPRESA": "J.L.Agroexportaciones",
+    "TEMA": "La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ",
+    "FECHA": "29/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "695",
+    "APELLIDOS_NOMBRES": "Mio Sánchez, Yanira",
+    "SEXO": "Femenino",
+    "DNI": "70461983",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ",
+    "FECHA": "29/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "696",
+    "APELLIDOS_NOMBRES": "Rodríguez Avalos, Johana",
+    "SEXO": "Femenino",
+    "DNI": "41849363",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ",
+    "FECHA": "29/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "697",
+    "APELLIDOS_NOMBRES": "Santos Rojas, Luís",
+    "SEXO": "Masculino",
+    "DNI": "18988278",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ",
+    "FECHA": "29/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "698",
+    "APELLIDOS_NOMBRES": "Carrera Rengifo, Mildra",
+    "SEXO": "Femenino",
+    "DNI": "18214882",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ",
+    "FECHA": "29/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "699",
+    "APELLIDOS_NOMBRES": "Miguel Herrera, Moisés Benjamín",
+    "SEXO": "Masculino",
+    "DNI": "46490763",
+    "EMPRESA": "CompartamosFin",
+    "TEMA": "La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ",
+    "FECHA": "29/09/2015 12:00:00 a.m."
+  },
+  {
+    "Nro": "700",
+    "APELLIDOS_NOMBRES": "Egusquiza Verde, Silva Kathleen",
+    "SEXO": "Femenino",
+    "DNI": "47137174",
+    "EMPRESA": "Sociedad Civil Organizada - Huamachuco",
+    "TEMA": "La Importancia del Sistema de Gestión en Seguridad y Salud en el Trabajo para Mitigar los efectos del Fenómeno (El Niño) ",
+    "FECHA": "29/09/2015 12:00:00 a.m."
+  }
+]

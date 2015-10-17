@@ -1,0 +1,266 @@
+[
+  {
+    "PROVINCIA": "OTUZCO",
+    "MUNICIPALIDAD_DISTRITAL": "Agallpampa",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 004-2013-MDA",
+    "Año": "2013"
+  },
+  {
+    "PROVINCIA": "SANTIAGO DE CHUCO",
+    "MUNICIPALIDAD_DISTRITAL": "Angasmarca",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 003-2013-MDA",
+    "Año": "2013"
+  },
+  {
+    "PROVINCIA": "SÁNCHEZ CARRIÓN",
+    "MUNICIPALIDAD_DISTRITAL": "Curgos",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 005-2013-MDC",
+    "Año": "2013"
+  },
+  {
+    "PROVINCIA": "SÁNCHEZ CARRIÓN",
+    "MUNICIPALIDAD_DISTRITAL": "Sartimbamba",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 005-2013-MDS/A",
+    "Año": "2013"
+  },
+  {
+    "PROVINCIA": "JULCAN",
+    "MUNICIPALIDAD_DISTRITAL": "Calamarca",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 002-2013-MDC",
+    "Año": "2013"
+  },
+  {
+    "PROVINCIA": "OTUZCO",
+    "MUNICIPALIDAD_DISTRITAL": "Otuzco",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 013-2014-MPO",
+    "Año": "2014"
+  },
+  {
+    "PROVINCIA": "CHEPEN",
+    "MUNICIPALIDAD_DISTRITAL": "Pacanga",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 004-2014-MDP",
+    "Año": "2014"
+  },
+  {
+    "PROVINCIA": "CHEPEN",
+    "MUNICIPALIDAD_DISTRITAL": "Pueblo Nuevo",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 012-2014-MDPN",
+    "Año": "2014"
+  },
+  {
+    "PROVINCIA": "ASCOPE",
+    "MUNICIPALIDAD_DISTRITAL": "Ascope",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 001-2014-MPA",
+    "Año": "2014"
+  },
+  {
+    "PROVINCIA": "SÁNCHEZ CARRIÓN",
+    "MUNICIPALIDAD_DISTRITAL": "Marcabal",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 031-2014-MDM/A",
+    "Año": "2014"
+  },
+  {
+    "PROVINCIA": "SÁNCHEZ CARRIÓN",
+    "MUNICIPALIDAD_DISTRITAL": "Cochorco",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 001-2014-MDC",
+    "Año": "2014"
+  },
+  {
+    "PROVINCIA": "SÁNCHEZ CARRIÓN",
+    "MUNICIPALIDAD_DISTRITAL": "Chugay",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 002-2014-MDCH/A",
+    "Año": "2014"
+  },
+  {
+    "PROVINCIA": "SÁNCHEZ CARRIÓN",
+    "MUNICIPALIDAD_DISTRITAL": "Sanagorán",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 026-2014-MDS-SS",
+    "Año": "2014"
+  },
+  {
+    "PROVINCIA": "SÁNCHEZ CARRIÓN",
+    "MUNICIPALIDAD_DISTRITAL": "Sarín",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 006-2014-MDS/A",
+    "Año": "2014"
+  },
+  {
+    "PROVINCIA": "GRAN CHIMU",
+    "MUNICIPALIDAD_DISTRITAL": "Cascas",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 008-2014-MPGCH-C",
+    "Año": "2014"
+  },
+  {
+    "PROVINCIA": "JULCAN",
+    "MUNICIPALIDAD_DISTRITAL": "Huaso",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 002-2014-MDH",
+    "Año": "2014"
+  },
+  {
+    "PROVINCIA": "OTUZCO",
+    "MUNICIPALIDAD_DISTRITAL": "Usquil",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 026-2015-MDU",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "OTUZCO",
+    "MUNICIPALIDAD_DISTRITAL": "Sinsicap",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 0104-2015-MDS",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "OTUZCO",
+    "MUNICIPALIDAD_DISTRITAL": "Salpo",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 029-2015-MDS",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "OTUZCO",
+    "MUNICIPALIDAD_DISTRITAL": "Huaranchal",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 002-2015-MDH",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "OTUZCO",
+    "MUNICIPALIDAD_DISTRITAL": "Carabamba",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 002-2015-MDC",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "OTUZCO",
+    "MUNICIPALIDAD_DISTRITAL": "Mache",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 004-2015-MDM",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "SANTIAGO DE CHUCO",
+    "MUNICIPALIDAD_DISTRITAL": "Cachicadan",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 006-2015-MDC/CM",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "SANTIAGO DE CHUCO",
+    "MUNICIPALIDAD_DISTRITAL": "Quiruvilca",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 005-2015-MDQ/A",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "SANTIAGO DE CHUCO",
+    "MUNICIPALIDAD_DISTRITAL": "Santiago de Chuco",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 004-2015-MPSCH",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "ASCOPE",
+    "MUNICIPALIDAD_DISTRITAL": "Chicama",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 006-2015-MDCH",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "ASCOPE",
+    "MUNICIPALIDAD_DISTRITAL": "Chocope",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 004-2015-MDCH",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "ASCOPE",
+    "MUNICIPALIDAD_DISTRITAL": "Magdalena de Cao",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 011-2015-MDMC/A",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "ASCOPE",
+    "MUNICIPALIDAD_DISTRITAL": "Razuri",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 006-2015-MDR",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "ASCOPE",
+    "MUNICIPALIDAD_DISTRITAL": "Paiján",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 004-2015-MDP",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "VIRU",
+    "MUNICIPALIDAD_DISTRITAL": "Virú",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 025-2015-MDV",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "VIRU",
+    "MUNICIPALIDAD_DISTRITAL": "Guadalupito",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 001-2015-MDG",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "PATAZ",
+    "MUNICIPALIDAD_DISTRITAL": "Tayabamba",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 006-2015-MPP-T",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "PATAZ",
+    "MUNICIPALIDAD_DISTRITAL": "Parcoy",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 005-2015-MDP",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "PATAZ",
+    "MUNICIPALIDAD_DISTRITAL": "Chillia",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 001-2015-MDCH-AL",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "PACASMAYO",
+    "MUNICIPALIDAD_DISTRITAL": "Jequetepeque",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 004-2015-MDJ",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "PACASMAYO",
+    "MUNICIPALIDAD_DISTRITAL": "San Pedro de Lloc",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 026-2015-MPP",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "PACASMAYO",
+    "MUNICIPALIDAD_DISTRITAL": "Guadalupe",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 022-2015-MDG",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "PACASMAYO",
+    "MUNICIPALIDAD_DISTRITAL": "San José",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 006-2015-MDSJ",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "SANCHEZ CARRION",
+    "MUNICIPALIDAD_DISTRITAL": "Huamachuco",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 276-2015-MPSC",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "JULCAN",
+    "MUNICIPALIDAD_DISTRITAL": "Carabamba",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 002-2015/MDC",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "JULCAN",
+    "MUNICIPALIDAD_DISTRITAL": "Julcan",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 015-2015/MPJ",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "TRUJILLO",
+    "MUNICIPALIDAD_DISTRITAL": "Poroto",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 003-2015-MDP",
+    "Año": "2015"
+  },
+  {
+    "PROVINCIA": "BOLIVAR",
+    "MUNICIPALIDAD_DISTRITAL": "Bolivar",
+    "DOCUMENTO_CREACION": "Ordenanza Municipal N° 10-A-2015-MPB/A",
+    "Año": "2015"
+  }
+]
