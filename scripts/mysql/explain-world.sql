@@ -1,0 +1,12 @@
+USE world;
+SHOW TABLES;
+
+DESCRIBE Country;
+SELECT COUNT(*) FROM Country;
+SELECT name FROM Country LIMIT 50;
+
+DESCRIBE City;
+SELECT COUNT(*) FROM City;
+SELECT name FROM City LIMIT 20;
+
+
