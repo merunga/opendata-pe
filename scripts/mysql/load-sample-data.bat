@@ -1,0 +1,1 @@
+c:\wamp\bin\mysql\mysql5.6.17\bin\mysql.exe -u root < c:\Users\merunga\Documents\GitHub\opendata-pe\scripts\mysql\load-sample-data.sql
